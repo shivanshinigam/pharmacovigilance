@@ -4,7 +4,7 @@ import math
 import os
 from collections import defaultdict
 
-# ----------------- globals & defaults -----------------
+#globals & defaults
 
 drug_reports = {}
 adr_reports = {}
