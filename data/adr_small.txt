@@ -1,0 +1,5000 @@
+primaryid$caseid$pt$drug_rec_act
+100289774$10028977$Fixed eruption$
+100289774$10028977$Stevens-Johnson syndrome$
+100289774$10028977$Toxic epidermal necrolysis$
+1005762123$10057621$Dyspnoea$
+1005762123$10057621$Hypotension$
+1005762123$10057621$Asthma$
+1005762123$10057621$Sputum increased$
+1005762123$10057621$Asthenia$
+1005762123$10057621$Insomnia$
+1005762123$10057621$Temperature intolerance$
+1005762123$10057621$Paraesthesia$
+1005762123$10057621$Joint warmth$
+1005762123$10057621$Hypokinesia$
+1005762123$10057621$Joint swelling$
+1005762123$10057621$Speech disorder$
+1005762123$10057621$General physical health deterioration$
+1005762123$10057621$Fall$
+1005762123$10057621$Parkinson's disease$
+1005762123$10057621$Productive cough$
+1005762123$10057621$Dizziness postural$
+1005762123$10057621$Weight decreased$
+1005762123$10057621$Nasopharyngitis$
+1005762123$10057621$Off label use$
+1005762123$10057621$Dysphonia$
+1005762123$10057621$Fatigue$
+1005762123$10057621$Hallucination$
+1005762123$10057621$Orthostatic hypotension$
+1005762123$10057621$Nasal polyps$
+1005762123$10057621$Dizziness$
+1005762123$10057621$Clavicle fracture$
+1005762123$10057621$Arthritis$
+1005762123$10057621$Photosensitivity reaction$
+1005762123$10057621$Nasal congestion$
+1005762123$10057621$Tremor$
+1005762123$10057621$Hypersensitivity$
+1005762123$10057621$Rhinitis allergic$
+1005762123$10057621$Osteoarthritis$
+1006831310$10068313$Sleep disorder$
+1006831310$10068313$Back pain$
+1006831310$10068313$Feeling abnormal$
+1006831310$10068313$Abdominal distension$
+1006831310$10068313$Therapeutic response unexpected$
+1006831310$10068313$Muscle spasms$
+1006831310$10068313$Swelling$
+1006831310$10068313$Abdominal pain upper$
+1006831310$10068313$Fluid retention$
+1006831310$10068313$Hyperhidrosis$
+100789263$10078926$Overdose$
+101573482$10157348$Drug reaction with eosinophilia and systemic symptoms$
+102198194$10219819$Bronchitis$
+102198194$10219819$Dyspnoea$
+102198194$10219819$Oxygen saturation decreased$
+102198194$10219819$Tracheal disorder$
+102198194$10219819$Hypersensitivity$
+102474845$10247484$Febrile neutropenia$
+102474845$10247484$Skin infection$
+102474845$10247484$Sepsis$
+102572933$10257293$Phaeohyphomycosis$
+102572933$10257293$Immunosuppressant drug level increased$
+102572933$10257293$Drug interaction$
+102572933$10257293$Labelled drug-drug interaction medication error$
+102858952$10285895$Drug ineffective$
+102858952$10285895$Oesophageal stenosis$
+103291659$10329165$Carcinoid crisis$
+103291659$10329165$Angina pectoris$
+103291659$10329165$Flushing$
+103291659$10329165$Acute myocardial infarction$
+103291659$10329165$Diarrhoea$
+103291659$10329165$Malignant neoplasm progression$
+103291659$10329165$Cardiac arrest$
+103291659$10329165$Ischaemia$
+103291659$10329165$Circulatory collapse$
+103291659$10329165$Metastases to liver$
+103291659$10329165$Loss of consciousness$
+103291659$10329165$Product administration error$
+103291659$10329165$Dizziness$
+103291659$10329165$Coronary artery disease$
+103291659$10329165$Haemodynamic instability$
+103291659$10329165$Electrocardiogram QT prolonged$
+103291659$10329165$Therapeutic response decreased$
+103291659$10329165$Hypertension$
+1034204737$10342047$Blood pressure systolic increased$
+1034204737$10342047$Weight decreased$
+1034204737$10342047$Pneumonia$
+1034204737$10342047$Wrong technique in product usage process$
+1034204737$10342047$Inappropriate schedule of product administration$
+1034204737$10342047$Intentional self-injury$
+1034204737$10342047$Haematological infection$
+1034204737$10342047$Mental disorder$
+1034204737$10342047$Blood pressure diastolic decreased$
+1034204737$10342047$Skin infection$
+1034204737$10342047$Localised infection$
+1034204737$10342047$Hypoglycaemia$
+103467952$10346795$Drug ineffective$
+104101353$10410135$Large intestine perforation$
+104101353$10410135$Sepsis$
+104101353$10410135$Enterocolitis$
+104142444$10414244$Osteoarthritis$
+104142444$10414244$Medication error$
+104142444$10414244$Heart rate increased$
+104142444$10414244$Hypertransaminasaemia$
+104142444$10414244$Infusion related reaction$
+104142444$10414244$Blood pressure diastolic decreased$
+104142444$10414244$Temporomandibular pain and dysfunction syndrome$
+104142444$10414244$Sneezing$
+104142444$10414244$Weight decreased$
+104142444$10414244$Blood pressure systolic abnormal$
+104142444$10414244$Rhinorrhoea$
+104142444$10414244$Blood pressure fluctuation$
+104142444$10414244$Oxygen saturation decreased$
+104142444$10414244$Hepatic fibrosis$
+104142444$10414244$Foot deformity$
+104142444$10414244$Cough$
+104142444$10414244$Diarrhoea$
+104142444$10414244$Nasopharyngitis$
+104142444$10414244$Incorrect dose administered$
+104142444$10414244$Blood pressure systolic increased$
+104142444$10414244$Depression$
+104142444$10414244$Throat irritation$
+104142444$10414244$Anxiety$
+104142444$10414244$Pain in extremity$
+104142444$10414244$Sleep disorder$
+104142444$10414244$Blood pressure increased$
+104142444$10414244$Lymphopenia$
+104142444$10414244$Weight increased$
+104142444$10414244$Platelet count decreased$
+104142444$10414244$Localised infection$
+104142444$10414244$Blood pressure diastolic increased$
+104142444$10414244$Heart rate decreased$
+104142444$10414244$Blood pressure diastolic abnormal$
+104142444$10414244$Decreased appetite$
+1042728411$10427284$Colon cancer$
+1042728411$10427284$Septic shock$
+1042728411$10427284$Cytomegalovirus infection$
+1042728411$10427284$Haemolysis$
+1042728411$10427284$Gastroenteritis aeromonas$
+1042728411$10427284$Bacterial sepsis$
+1042728411$10427284$Colitis ulcerative$
+1042881841$10428818$Aphonia$
+1042881841$10428818$Somnolence$
+1042881841$10428818$Back pain$
+1042881841$10428818$Urticaria$
+1042881841$10428818$Gallbladder disorder$
+1042881841$10428818$Forced expiratory volume decreased$
+1042881841$10428818$Pyrexia$
+1042881841$10428818$Animal bite$
+1042881841$10428818$Road traffic accident$
+1042881841$10428818$Fall$
+1042881841$10428818$Contusion$
+1042881841$10428818$Pallor$
+1042881841$10428818$Cough$
+1042881841$10428818$Weight decreased$
+1042881841$10428818$Wheezing$
+1042881841$10428818$Gastritis bacterial$
+1042881841$10428818$Dyspnoea exertional$
+1042881841$10428818$Arthralgia$
+1042881841$10428818$Headache$
+1042881841$10428818$Pain in extremity$
+1042881841$10428818$Clostridial infection$
+1042881841$10428818$Heart rate increased$
+1042881841$10428818$Gout$
+1042881841$10428818$Incorrect dose administered$
+1042881841$10428818$Stress$
+1042881841$10428818$Decreased activity$
+1042881841$10428818$Dyspnoea$
+1042881841$10428818$Product dose omission issue$
+1042881841$10428818$Decreased appetite$
+1042881841$10428818$Inappropriate schedule of product administration$
+1042881841$10428818$Hypersensitivity$
+1042881841$10428818$Pneumonia$
+1042881841$10428818$Wound$
+1042881841$10428818$Chills$
+1042881841$10428818$Body temperature decreased$
+1042881841$10428818$Malaise$
+1042881841$10428818$Infected bite$
+1042881841$10428818$Nausea$
+1042881841$10428818$Asthma$
+1042881841$10428818$Obstructive airways disorder$
+104326467$10432646$Mononucleosis syndrome$
+104326467$10432646$Hallucination$
+104326467$10432646$Hepatosplenomegaly$
+104326467$10432646$Product use in unapproved indication$
+104326467$10432646$Seizure$
+104326467$10432646$Pyrexia$
+104326467$10432646$Graft versus host disease$
+104326467$10432646$Epstein-Barr virus associated lymphoproliferative disorder$
+104326467$10432646$Epstein-Barr virus infection reactivation$
+104326467$10432646$Tremor$
+104326467$10432646$Hepatic function abnormal$
+104326467$10432646$Acute lymphocytic leukaemia recurrent$
+104326467$10432646$Muscle rigidity$
+104326467$10432646$Monoclonal B-cell lymphocytosis$
+104326467$10432646$Purpura$
+104326467$10432646$Disorientation$
+104326467$10432646$Human polyomavirus infection$
+104326467$10432646$Lymphadenopathy$
+104326467$10432646$Loss of consciousness$
+104326467$10432646$BK polyomavirus test positive$
+104326467$10432646$Post transplant lymphoproliferative disorder$
+104326467$10432646$Graft versus host disease in skin$
+104326467$10432646$Cystitis haemorrhagic$
+104469913$10446991$Blood pressure increased$
+104469913$10446991$Normal newborn$
+104469913$10446991$Maternal exposure during pregnancy$
+104469913$10446991$Gestational diabetes$
+104490485$10449048$Completed suicide$
+104490485$10449048$Death$
+104490485$10449048$Overdose$
+104490485$10449048$Toxicity to various agents$
+104630574$10463057$Disease progression$
+104718277$10471827$Caesarean section$
+104718277$10471827$Polyhydramnios$
+104718277$10471827$Placental insufficiency$
+104718277$10471827$Premature delivery$
+104718277$10471827$Maternal exposure during pregnancy$
+1051596726$10515967$Diarrhoea$
+1051596726$10515967$Blood pressure systolic increased$
+1051596726$10515967$Back pain$
+1051596726$10515967$Weight increased$
+1051596726$10515967$Limb mass$
+1051596726$10515967$Arthralgia$
+1051596726$10515967$Pain$
+1051596726$10515967$Flank pain$
+1051596726$10515967$Asthenia$
+1051596726$10515967$Blood iron decreased$
+1051596726$10515967$Hyperhidrosis$
+1051596726$10515967$Arthralgia$
+1051596726$10515967$Fear of injection$
+1051596726$10515967$Nausea$
+1051596726$10515967$Flushing$
+1051596726$10515967$Constipation$
+1051596726$10515967$Sinusitis$
+1051596726$10515967$Gait disturbance$
+1051596726$10515967$Abdominal pain lower$
+1051596726$10515967$Nasal polyps$
+1051596726$10515967$Depression$
+1051596726$10515967$Lower respiratory tract infection$
+1051596726$10515967$Incorrect dose administered by device$
+1051596726$10515967$Fatigue$
+1051596726$10515967$Abdominal pain$
+1051596726$10515967$Diarrhoea$
+1051596726$10515967$Musculoskeletal stiffness$
+1051596726$10515967$Groin pain$
+1051596726$10515967$Needle issue$
+1051596726$10515967$Renal pain$
+1051596726$10515967$Blood pressure increased$
+1051596726$10515967$Malaise$
+1051596726$10515967$Inappropriate schedule of product administration$
+1052927315$10529273$Weight increased$
+1052927315$10529273$Mouth ulceration$
+1052927315$10529273$Blood pressure increased$
+1052927315$10529273$Abdominal mass$
+1052927315$10529273$Weight decreased$
+1052927315$10529273$Blood pressure diastolic abnormal$
+1052927315$10529273$Blood pressure systolic increased$
+1052927315$10529273$Duodenal ulcer$
+1052927315$10529273$Oxygen saturation decreased$
+105801388$10580138$White blood cell count decreased$
+105801388$10580138$Blood creatinine increased$
+105801388$10580138$Coagulopathy$
+105801388$10580138$Renal impairment$
+105801388$10580138$White blood cell count decreased$
+105973168$10597316$White blood cell count decreased$
+105973168$10597316$Pulmonary alveolar haemorrhage$
+105973168$10597316$Incorrect dose administered$
+105973168$10597316$Pharyngitis$
+105973168$10597316$Drug ineffective$
+105973168$10597316$Purpura$
+105973168$10597316$Embolism$
+105973168$10597316$Insomnia$
+105973168$10597316$Gangrene$
+106214153$10621415$Splenic rupture$
+1063710655$10637106$Ear pain$
+1063710655$10637106$Dyspnoea exertional$
+1063710655$10637106$Weight decreased$
+1063710655$10637106$Oropharyngeal pain$
+1063710655$10637106$Influenza$
+1063710655$10637106$Hip fracture$
+1063710655$10637106$Respiratory tract congestion$
+1063710655$10637106$Malaise$
+1063710655$10637106$Urinary tract infection$
+1063710655$10637106$Headache$
+1063710655$10637106$Pneumonia$
+1063710655$10637106$Dizziness postural$
+1063710655$10637106$Migraine$
+1063710655$10637106$Brain neoplasm$
+1063710655$10637106$Lung neoplasm malignant$
+1063710655$10637106$Illness$
+1063710655$10637106$Blood glucose abnormal$
+1063710655$10637106$Pyrexia$
+1063710655$10637106$Vomiting$
+1063710655$10637106$Dehydration$
+1063710655$10637106$Fatigue$
+1063710655$10637106$Cough$
+1063710655$10637106$Therapeutic product effect decreased$
+1063710655$10637106$Platelet count decreased$
+1063710655$10637106$Fall$
+1063710655$10637106$Wound$
+1063710655$10637106$Off label use$
+1063710655$10637106$Contusion$
+1063710655$10637106$Epistaxis$
+1063710655$10637106$Drug hypersensitivity$
+1063710655$10637106$Nasopharyngitis$
+1063710655$10637106$Dizziness$
+1063710655$10637106$Asthma$
+1063710655$10637106$Dyspnoea$
+1063710655$10637106$Dysphonia$
+106448704$10644870$Bronchitis$
+106448704$10644870$Influenza like illness$
+106448704$10644870$Drug resistance$
+106448704$10644870$Hot flush$
+106448704$10644870$Paraesthesia$
+106448704$10644870$Off label use$
+106448704$10644870$Myocarditis$
+106495525$10649552$Angina pectoris$
+106523185$10652318$Foreign body in throat$
+106523185$10652318$Oesophagitis$
+106523185$10652318$Cognitive disorder$
+106523185$10652318$Basilar artery thrombosis$
+107309345$10730934$Haemorrhage$
+107309345$10730934$Ligament sprain$
+107320783$10732078$Thrombocytopenia$
+107320783$10732078$Pneumonia bacterial$
+107320783$10732078$Pancytopenia$
+107320783$10732078$Cytomegalovirus infection reactivation$
+107320783$10732078$Bacterial sepsis$
+107320783$10732078$Encephalitis herpes$
+107320783$10732078$Anaemia$
+1078607316$10786073$Leukocytosis$
+1078607316$10786073$Platelet count abnormal$
+1078607316$10786073$Spleen palpable$
+1078607316$10786073$Platelet count decreased$
+1078607316$10786073$Lipoma$
+1078607316$10786073$White blood cell count decreased$
+1078607316$10786073$Chronic myeloid leukaemia$
+1078607316$10786073$Product use issue$
+1078607316$10786073$Hypersensitivity$
+1078607316$10786073$White blood cell count abnormal$
+1078607316$10786073$Diabetes mellitus$
+1078607316$10786073$Hyperuricaemia$
+1078607316$10786073$Fibromyalgia$
+1078607316$10786073$Pruritus$
+1078607316$10786073$Liver palpable$
+1078607316$10786073$Thrombocytopenia$
+1078607316$10786073$Polycythaemia$
+1078607316$10786073$Splenomegaly$
+1078607316$10786073$Tuberculosis$
+1078729226$10787292$Middle insomnia$
+1078729226$10787292$Vital capacity decreased$
+1078729226$10787292$Inappropriate schedule of product administration$
+1078729226$10787292$Wheezing$
+1078729226$10787292$Obstructive airways disorder$
+1078729226$10787292$Rhinorrhoea$
+1078729226$10787292$Abdominal pain upper$
+1078729226$10787292$Blood pressure increased$
+1078729226$10787292$Bronchial hyperreactivity$
+1078729226$10787292$Weight decreased$
+1078729226$10787292$Cough$
+1078729226$10787292$Pyrexia$
+1078729226$10787292$Productive cough$
+1078729226$10787292$Headache$
+1078729226$10787292$Lung disorder$
+1078729226$10787292$Asthma$
+1078729226$10787292$Total lung capacity decreased$
+1078729226$10787292$Heart rate increased$
+1078729226$10787292$Respiratory rate increased$
+1078729226$10787292$Malaise$
+1078729226$10787292$Nasopharyngitis$
+1078729226$10787292$Pollakiuria$
+1078729226$10787292$Forced expiratory volume decreased$
+1078729226$10787292$Influenza like illness$
+1078729226$10787292$Dyspnoea$
+108153556$10815355$Febrile neutropenia$
+108153556$10815355$Sepsis$
+108153556$10815355$Anuria$
+108153556$10815355$Ascites$
+108153556$10815355$Protothecosis$
+108153556$10815355$Venoocclusive liver disease$
+108153556$10815355$Renal failure$
+108153556$10815355$Fluid retention$
+108153556$10815355$Peritonitis$
+108153556$10815355$Staphylococcal infection$
+108153556$10815355$Stenotrophomonas infection$
+108153556$10815355$Enterococcal infection$
+108153556$10815355$Intestinal haemorrhage$
+108153556$10815355$Multiple organ dysfunction syndrome$
+108153556$10815355$Candida infection$
+108153556$10815355$Acute graft versus host disease in intestine$
+108153556$10815355$Pyrexia$
+108153556$10815355$Klebsiella infection$
+108153556$10815355$Respiratory failure$
+108165676$10816567$Skin exfoliation$
+108165676$10816567$Burning sensation$
+108165676$10816567$Skin irritation$
+108165676$10816567$Dry eye$
+108165676$10816567$Skin fissures$
+108165676$10816567$Mouth injury$
+108165676$10816567$Nasal dryness$
+108165676$10816567$Salivary hyposecretion$
+108165676$10816567$Eating disorder$
+108165676$10816567$Thyroid disorder$
+108165676$10816567$Tongue disorder$
+108165676$10816567$Abscess limb$
+108165676$10816567$Dry mouth$
+108165676$10816567$Diarrhoea$
+108165676$10816567$Acne$
+108165676$10816567$Hyperaemia$
+108165676$10816567$Peripheral swelling$
+108165676$10816567$Pain in extremity$
+108165676$10816567$Cheilitis$
+108165676$10816567$Erythema$
+108165676$10816567$Eyelid oedema$
+108165676$10816567$Skin plaque$
+108165676$10816567$Death$
+108165676$10816567$Nausea$
+108165676$10816567$Blister$
+108165676$10816567$Acne$
+108165676$10816567$Hypersensitivity$
+108165676$10816567$Tongue dry$
+108165676$10816567$Palmar-plantar erythrodysaesthesia syndrome$
+108165676$10816567$Pain$
+108165676$10816567$Musculoskeletal stiffness$
+108165676$10816567$Eyelid disorder$
+108165676$10816567$Erythema$
+1086486218$10864862$Nasopharyngitis$
+1086486218$10864862$Therapeutic response unexpected$
+1086486218$10864862$Protein urine present$
+1086486218$10864862$Nephritis$
+1086486218$10864862$Condition aggravated$
+1086486218$10864862$Product dose omission issue$
+1086486218$10864862$Erythema$
+1086486218$10864862$Drug ineffective$
+1086486218$10864862$Skin wound$
+1086486218$10864862$Influenza$
+1086486218$10864862$Alopecia$
+1086486218$10864862$Renal impairment$
+1086486218$10864862$Pain$
+1086486218$10864862$Overweight$
+1086486218$10864862$Inappropriate schedule of product administration$
+1086486218$10864862$Onychoclasis$
+1086486218$10864862$Tooth fracture$
+108660562$10866056$Mental status changes$
+108660562$10866056$Stupor$
+108660562$10866056$Somnolence$
+108660562$10866056$Disease progression$
+108660562$10866056$Drug ineffective$
+108660562$10866056$Partial seizures with secondary generalisation$
+108660562$10866056$Hepatic encephalopathy$
+108660562$10866056$Acute hepatic failure$
+108660562$10866056$Metabolic encephalopathy$
+108660562$10866056$Drug intolerance$
+108660562$10866056$Partial seizures$
+108660562$10866056$Anticonvulsant drug level below therapeutic$
+108660562$10866056$Seizure$
+108660562$10866056$Ammonia increased$
+109044244$10904424$Drug ineffective$
+109044244$10904424$Crohn's disease$
+109273193$10927319$Weight decreased$
+109273193$10927319$Diarrhoea$
+109273193$10927319$Dyspepsia$
+109273193$10927319$Myalgia$
+109273193$10927319$Abdominal pain$
+109273193$10927319$Product use in unapproved indication$
+109273193$10927319$Hyperhidrosis$
+109273193$10927319$Gait disturbance$
+109273193$10927319$Depression$
+109273193$10927319$Laryngospasm$
+109273193$10927319$Photophobia$
+109273193$10927319$Headache$
+109273193$10927319$Polydipsia$
+109273193$10927319$Vomiting$
+109273193$10927319$Dystonia$
+109273193$10927319$Neck pain$
+109273193$10927319$Condition aggravated$
+109273193$10927319$Asthenia$
+109273193$10927319$Speech disorder$
+109273193$10927319$Tremor$
+109273193$10927319$Balance disorder$
+109273193$10927319$Feeling abnormal$
+109273193$10927319$Vertigo$
+109273193$10927319$Fall$
+109273193$10927319$Nausea$
+109273193$10927319$Myoclonus$
+109273193$10927319$Arthralgia$
+109273193$10927319$Nervousness$
+109432294$10943229$Weight increased$
+109432294$10943229$Off label use$
+109432294$10943229$Emotional disorder$
+109432294$10943229$Gynaecomastia$
+109432474$10943247$Insomnia$
+109432474$10943247$Off label use$
+109432474$10943247$Gynaecomastia$
+109432474$10943247$Emotional disorder$
+109432474$10943247$Weight increased$
+1095179847$10951798$Heart rate decreased$
+1095179847$10951798$Body temperature decreased$
+1095179847$10951798$Menopause$
+1095179847$10951798$Oxygen saturation decreased$
+1095179847$10951798$Joint range of motion decreased$
+1095179847$10951798$Disability assessment scale score increased$
+1095179847$10951798$Gastrointestinal disorder$
+1095179847$10951798$Rhinorrhoea$
+1095179847$10951798$Nasopharyngitis$
+1095179847$10951798$Gastroenteritis viral$
+1095179847$10951798$Musculoskeletal stiffness$
+1095179847$10951798$Weight decreased$
+1095179847$10951798$Nasal congestion$
+1095179847$10951798$Weight increased$
+1095179847$10951798$Fatigue$
+1095179847$10951798$Malaise$
+1095179847$10951798$Influenza$
+1095179847$10951798$Vasculitis$
+1095179847$10951798$Blood pressure increased$
+1095179847$10951798$Respiratory tract infection$
+1095179847$10951798$Productive cough$
+1095179847$10951798$Infusion related reaction$
+1095179847$10951798$Haemorrhage$
+1095179847$10951798$Oropharyngeal pain$
+1095179847$10951798$Nasopharyngitis$
+1095179847$10951798$Staphylococcal infection$
+1095179847$10951798$Arthralgia$
+1095179847$10951798$Hypersensitivity$
+1095179847$10951798$Immunodeficiency$
+1095179847$10951798$Cough$
+1095179847$10951798$Oxygen saturation decreased$
+1095179847$10951798$Hypotension$
+1095179847$10951798$SARS-CoV-2 test positive$
+1095179847$10951798$Blood pressure increased$
+1095179847$10951798$Therapeutic product effect decreased$
+1095179847$10951798$Joint swelling$
+1095179847$10951798$Heart rate decreased$
+1095179847$10951798$Insomnia$
+1095179847$10951798$Eye infection$
+1095179847$10951798$Gastroenteritis$
+1095179847$10951798$Breast inflammation$
+1095179847$10951798$Heart rate increased$
+109728963$10972896$Emotional disorder$
+109728963$10972896$Tardive dyskinesia$
+109728963$10972896$Gynaecomastia$
+109728963$10972896$Drooling$
+109728963$10972896$Neuroleptic malignant syndrome$
+1099223015$10992230$Acute graft versus host disease in intestine$
+1099223015$10992230$Dyspnoea$
+1099223015$10992230$Proteus test positive$
+1099223015$10992230$Rash pustular$
+1099223015$10992230$Bronchopulmonary aspergillosis$
+1099223015$10992230$Rash erythematous$
+1099223015$10992230$Colitis$
+1099223015$10992230$Aspergillus test positive$
+1099223015$10992230$Diarrhoea$
+1099223015$10992230$Ulcer$
+1099223015$10992230$Death$
+1099223015$10992230$Cough$
+1099223015$10992230$Graft versus host disease$
+1099223015$10992230$Pyrexia$
+1099223015$10992230$Dermatitis infected$
+1099223015$10992230$Vomiting$
+1099223015$10992230$Multiple organ dysfunction syndrome$
+1099223015$10992230$Clostridium difficile colitis$
+1099223015$10992230$Hallucination$
+1099223015$10992230$Condition aggravated$
+1099223015$10992230$Haemodynamic instability$
+1099223015$10992230$Hypoxia$
+1099223015$10992230$Aspergillus infection$
+1099223015$10992230$Congenital aplasia$
+1099223015$10992230$Large intestine infection$
+1102019563$11020195$Bladder disorder$
+1102019563$11020195$Pain$
+1102019563$11020195$Drug ineffective$
+1102019563$11020195$Oropharyngeal pain$
+1102019563$11020195$Product dispensing error$
+1102019563$11020195$Abdominal pain upper$
+1102019563$11020195$Bronchitis$
+1102019563$11020195$Road traffic accident$
+1102019563$11020195$Lower respiratory tract infection$
+1102019563$11020195$Blood pressure diastolic decreased$
+1102019563$11020195$Muscle tightness$
+1102019563$11020195$Blood pressure systolic abnormal$
+1102019563$11020195$Tooth disorder$
+1102019563$11020195$Blood pressure decreased$
+1102019563$11020195$Fatigue$
+1102019563$11020195$Type 2 diabetes mellitus$
+1102019563$11020195$Lower respiratory tract congestion$
+1102019563$11020195$Peripheral swelling$
+1102019563$11020195$Weight increased$
+1102019563$11020195$Constipation$
+1102019563$11020195$Blood pressure diastolic abnormal$
+1102019563$11020195$Product administration error$
+1102019563$11020195$Health assessment questionnaire score increased$
+1102019563$11020195$Headache$
+1102019563$11020195$Cough$
+1102019563$11020195$Nasopharyngitis$
+1102019563$11020195$Blood pressure fluctuation$
+1102019563$11020195$Medication error$
+1102019563$11020195$Swelling face$
+1102019563$11020195$Weight decreased$
+1102019563$11020195$Dizziness$
+1102019563$11020195$Weight fluctuation$
+1102019563$11020195$Arthralgia$
+1102019563$11020195$Diarrhoea$
+1102019563$11020195$Gastrointestinal disorder$
+1102019563$11020195$Soft tissue injury$
+1102019563$11020195$Oxygen saturation decreased$
+1102019563$11020195$Nasal congestion$
+1102019563$11020195$Blood pressure systolic decreased$
+1102019563$11020195$Vomiting$
+1102019563$11020195$Sinus congestion$
+110215903$11021590$Rash pustular$
+110215903$11021590$Intestinal ulcer$
+110215903$11021590$Bronchopulmonary aspergillosis$
+110215903$11021590$Acute graft versus host disease in intestine$
+110215903$11021590$Pyrexia$
+110215903$11021590$Cough$
+110215903$11021590$Rash erythematous$
+110215903$11021590$Dyspnoea$
+110215903$11021590$Congenital aplasia$
+110215903$11021590$Vomiting$
+110215903$11021590$Condition aggravated$
+110215903$11021590$Haemodynamic instability$
+110215903$11021590$Colitis$
+110215903$11021590$Clostridium difficile colitis$
+110215903$11021590$Aspergillus test positive$
+110215903$11021590$Large intestine infection$
+110215903$11021590$Hallucination$
+110215903$11021590$Hypoxia$
+110215903$11021590$Multiple organ dysfunction syndrome$
+110215903$11021590$Proteus test positive$
+110215903$11021590$Aspergillus infection$
+110215903$11021590$Dermatitis infected$
+110215903$11021590$Diarrhoea$
+1103273311$11032733$Ectopic pregnancy$
+1103273311$11032733$Maternal exposure during pregnancy$
+110347323$11034732$Aphasia$
+110347323$11034732$Disturbance in attention$
+110347323$11034732$Memory impairment$
+110347323$11034732$Product use issue$
+110462238$11046223$Cough$
+110462238$11046223$Rash$
+110462238$11046223$Intestinal ulcer$
+110462238$11046223$Large intestine infection$
+110462238$11046223$Aspergillus infection$
+110462238$11046223$Dermatitis infected$
+110462238$11046223$Congenital aplasia$
+110462238$11046223$Clostridium difficile colitis$
+110462238$11046223$Proteus test positive$
+110462238$11046223$Aspergillus test positive$
+110462238$11046223$Clostridium difficile infection$
+110462238$11046223$Clostridium test positive$
+110462238$11046223$Hallucination$
+110462238$11046223$Bronchopulmonary aspergillosis$
+110462238$11046223$Rash pustular$
+110462238$11046223$Death$
+110462238$11046223$Rash erythematous$
+110462238$11046223$Acute graft versus host disease$
+110462238$11046223$Graft versus host disease$
+110462238$11046223$Colitis$
+110462238$11046223$Haemodynamic instability$
+110462238$11046223$Hypoxia$
+110462238$11046223$Diarrhoea$
+110462238$11046223$Condition aggravated$
+110462238$11046223$Pyrexia$
+110462238$11046223$Vomiting$
+110462238$11046223$Multiple organ dysfunction syndrome$
+110462238$11046223$Dyspnoea$
+110683479$11068347$Toxicity to various agents$
+110683479$11068347$Intentional overdose$
+111109752$11110975$Drug screen positive$
+111109752$11110975$Homicide$
+111109752$11110975$Substance abuse$
+111109752$11110975$Road traffic accident$
+111109752$11110975$Impaired driving ability$
+111109752$11110975$Toxicity to various agents$
+111148894$11114889$Interstitial lung disease$
+111148894$11114889$Cough$
+111148894$11114889$White blood cell count increased$
+111148894$11114889$Dyspnoea$
+111148894$11114889$Oxygen saturation decreased$
+111148894$11114889$Pyrexia$
+111174714$11117471$Completed suicide$
+111174714$11117471$Cutaneous vasculitis$
+111174714$11117471$Drug level above therapeutic$
+111174714$11117471$Toxicity to various agents$
+111351992$11135199$Liver function test increased$
+111401794$11140179$Emotional disorder$
+111401794$11140179$Tic$
+111401794$11140179$Weight increased$
+111401794$11140179$Tardive dyskinesia$
+111401794$11140179$Gynaecomastia$
+111462422$11146242$Infarction$
+111462422$11146242$Eye disorder$
+111462422$11146242$Cerebral artery embolism$
+111462422$11146242$Blindness$
+111488124$11148812$Haemorrhage$
+111488124$11148812$Cardiac arrest$
+111488124$11148812$Pyrexia$
+111488124$11148812$Oxygen saturation decreased$
+111488124$11148812$Cough$
+111488124$11148812$Lung infiltration$
+111488124$11148812$Interstitial lung disease$
+111488124$11148812$White blood cell count increased$
+111488124$11148812$Dyspnoea$
+1117312624$11173126$Haemorrhage$
+1117312624$11173126$Haemarthrosis$
+1117312624$11173126$Traumatic haemorrhage$
+1117312624$11173126$Eye haemorrhage$
+1117312624$11173126$Haemarthrosis$
+1117312624$11173126$Haemorrhage$
+1117312624$11173126$Haemorrhage$
+111765029$11176502$Forced expiratory volume decreased$
+111765029$11176502$Gastrooesophageal reflux disease$
+111765029$11176502$Weight increased$
+111765029$11176502$Nasal polyps$
+111765029$11176502$Dyspnoea exertional$
+111765029$11176502$Obstructive airways disorder$
+111765029$11176502$Dyspepsia$
+111765029$11176502$Middle insomnia$
+111765029$11176502$Sinusitis fungal$
+111765029$11176502$Perfume sensitivity$
+111765029$11176502$Dust allergy$
+111765029$11176502$Weight decreased$
+111765029$11176502$Cough$
+111765029$11176502$Upper-airway cough syndrome$
+111765029$11176502$Wheezing$
+111765029$11176502$Feeling abnormal$
+111765029$11176502$Throat clearing$
+111765029$11176502$Asthma$
+111792443$11179244$Haemorrhoids$
+111792443$11179244$Intestinal mass$
+111792443$11179244$Xanthoma$
+111792443$11179244$Rectal haemorrhage$
+1118631617$11186316$Therapy non-responder$
+1118631617$11186316$Drug ineffective$
+1118631617$11186316$Hyperkeratosis$
+1118631617$11186316$Superficial spreading melanoma stage unspecified$
+1118631617$11186316$Blood pressure increased$
+1118631617$11186316$Malignant melanoma$
+1118631617$11186316$Malignant melanoma stage I$
+1118631617$11186316$Therapeutic product effect incomplete$
+1118631617$11186316$Keratoacanthoma$
+1119006921$11190069$Rectal haemorrhage$
+1119006921$11190069$Pain in extremity$
+1119006921$11190069$Skin discolouration$
+1119006921$11190069$Chest pain$
+1119006921$11190069$External ear pain$
+1119006921$11190069$Ear swelling$
+1119006921$11190069$Haemorrhage$
+1119006921$11190069$Injury$
+1119006921$11190069$Swelling$
+1119006921$11190069$Fatigue$
+1119006921$11190069$Epistaxis$
+1119006921$11190069$Product prescribing issue$
+1119006921$11190069$Dyspnoea$
+1119006921$11190069$Hypertension$
+1119006921$11190069$Haematoma$
+1119561922$11195619$Colon cancer$
+1119561922$11195619$Osteoporosis$
+1119561922$11195619$Therapeutic response unexpected$
+1119561922$11195619$Hypertension$
+1119561922$11195619$Chest pain$
+1119561922$11195619$Pain$
+1119561922$11195619$Hair growth abnormal$
+1119561922$11195619$Pneumothorax$
+1119561922$11195619$Lyme disease$
+1119561922$11195619$Drug dependence$
+1119561922$11195619$Pain$
+1119561922$11195619$Underweight$
+1119561922$11195619$Vomiting$
+1119561922$11195619$Anxiety$
+1119561922$11195619$Anaemia$
+1119561922$11195619$Illness$
+1119561922$11195619$Anger$
+1119561922$11195619$Hepatic cancer$
+1119561922$11195619$Decreased appetite$
+1119561922$11195619$Stress$
+1119561922$11195619$Feeling abnormal$
+1119561922$11195619$Mental disorder$
+1119561922$11195619$Anxiety$
+1119561922$11195619$Personality disorder$
+1119561922$11195619$Memory impairment$
+1119561922$11195619$Irritability$
+1119561922$11195619$Hypoacusis$
+1119561922$11195619$Cataract$
+1119561922$11195619$Mood swings$
+1119561922$11195619$Frustration tolerance decreased$
+1119561922$11195619$Blindness unilateral$
+1119561922$11195619$Malaise$
+1119561922$11195619$Breast fibroma$
+1119561922$11195619$Back injury$
+1119561922$11195619$Back disorder$
+112126335$11212633$Weight increased$
+112126335$11212633$Appendicitis$
+112126335$11212633$Weight decreased$
+112126335$11212633$Hereditary angioedema$
+1121563810$11215638$Rash$
+1121563810$11215638$Poliomyelitis$
+1121563810$11215638$Illness$
+1121563810$11215638$Vomiting$
+1121563810$11215638$Paralysis$
+1121563810$11215638$Legionella infection$
+1121563810$11215638$Gastrointestinal pain$
+1121563810$11215638$Hypoglycaemia$
+1121563810$11215638$General physical health deterioration$
+1121563810$11215638$Nausea$
+1121563810$11215638$Abdominal pain$
+1121563810$11215638$Dysphagia$
+1121563810$11215638$Onychomadesis$
+1121563810$11215638$Condition aggravated$
+1121563810$11215638$Toxicity to various agents$
+1121563810$11215638$Product label issue$
+1121563810$11215638$Allergic sinusitis$
+1121563810$11215638$Pain$
+1121563810$11215638$Abdominal distension$
+1121563810$11215638$Choking$
+1121563810$11215638$Drug hypersensitivity$
+1121563810$11215638$Weight increased$
+1121563810$11215638$Diarrhoea$
+1121563810$11215638$Nail growth abnormal$
+1121563810$11215638$Allergic reaction to excipient$
+1121749417$11217494$Asthma$
+1121749417$11217494$Weight increased$
+1121749417$11217494$Lung hyperinflation$
+1121749417$11217494$Pain in extremity$
+1121749417$11217494$Drug ineffective$
+1121749417$11217494$Forced expiratory volume decreased$
+1121749417$11217494$Dyspnoea exertional$
+1121749417$11217494$Weight decreased$
+1121749417$11217494$Chronic obstructive pulmonary disease$
+1121749417$11217494$Malaise$
+1121749417$11217494$Nasopharyngitis$
+1121749417$11217494$Off label use$
+112191883$11219188$Pulseless electrical activity$
+112191883$11219188$Dizziness$
+112191883$11219188$Confusional state$
+112191883$11219188$Nausea$
+112191883$11219188$Toxicity to various agents$
+112191883$11219188$Hypotension$
+112191883$11219188$Multiple organ dysfunction syndrome$
+112191883$11219188$Intentional overdose$
+112562232$11256223$Death$
+112562232$11256223$Drug ineffective$
+112853892$11285389$Product dose omission issue$
+112853892$11285389$Colitis ulcerative$
+112853892$11285389$Pain$
+113156464$11315646$Hyper IgE syndrome$
+113156464$11315646$Blood pressure increased$
+113156464$11315646$Blood immunoglobulin E decreased$
+113156464$11315646$Intercepted product dispensing error$
+113156464$11315646$Nasal polyps$
+113298623$11329862$Hepatitis acute$
+113298623$11329862$Hepatic steatosis$
+113298623$11329862$Gastritis$
+113298623$11329862$Hepatic enzyme increased$
+113454053$11345405$Cholangiocarcinoma$
+113454053$11345405$Immunosuppressant drug level increased$
+113454053$11345405$Off label use$
+113491984$11349198$Product quality issue$
+113491984$11349198$Sensation of foreign body$
+113496463$11349646$Retroperitoneal lymphadenopathy$
+113496463$11349646$Adenocarcinoma gastric$
+113496463$11349646$Gastritis$
+113496463$11349646$Hilar lymphadenopathy$
+113496463$11349646$Abdominal pain upper$
+113496463$11349646$Constipation$
+113496463$11349646$Off label use$
+113496463$11349646$Immunosuppressant drug level decreased$
+113496463$11349646$Fibrosis$
+1136253610$11362536$Cognitive disorder$
+1136253610$11362536$Depressed level of consciousness$
+1136253610$11362536$Creatinine renal clearance increased$
+1136253610$11362536$Hypotension$
+1136253610$11362536$Dyspnoea$
+1136253610$11362536$Dementia$
+1136253610$11362536$Pain$
+1136253610$11362536$Blood calcium decreased$
+1136253610$11362536$Sedation complication$
+1136253610$11362536$Drug abuse$
+1136253610$11362536$Sedation$
+1136253610$11362536$Renal function test abnormal$
+1136253610$11362536$Bladder disorder$
+1136253610$11362536$Product use in unapproved indication$
+1136253610$11362536$Overdose$
+1136253610$11362536$Mobility decreased$
+1136253610$11362536$Orthostatic hypotension$
+1136253610$11362536$Constipation$
+1136253610$11362536$Balance disorder$
+1136253610$11362536$Fall$
+1136253610$11362536$Off label use$
+1136253610$11362536$Creatinine renal clearance decreased$
+1136253610$11362536$Drug interaction$
+1136253610$11362536$Toxicity to various agents$
+1136621312$11366213$Road traffic accident$
+1136621312$11366213$Head injury$
+113827157$11382715$Spinal operation$
+113827157$11382715$Surgery$
+113827157$11382715$Off label use$
+1138286735$11382867$Treatment failure$
+1138286735$11382867$Alopecia$
+1138286735$11382867$Condition aggravated$
+1138286735$11382867$Fatigue$
+1138286735$11382867$Abdominal discomfort$
+1138286735$11382867$Pericarditis$
+1138286735$11382867$Loss of personal independence in daily activities$
+1138286735$11382867$Pain$
+1138286735$11382867$Joint swelling$
+1138286735$11382867$Synovitis$
+1138286735$11382867$Onychomycosis$
+1138286735$11382867$Product use issue$
+1138286735$11382867$Systemic lupus erythematosus$
+1138286735$11382867$Drug ineffective$
+1138286735$11382867$Blood cholesterol increased$
+1138286735$11382867$Movement disorder$
+1138286735$11382867$Onychomadesis$
+1138286735$11382867$Gait disturbance$
+1138286735$11382867$General physical health deterioration$
+1138286735$11382867$Off label use$
+1138286735$11382867$Hypertension$
+1138286735$11382867$Pemphigus$
+1138286735$11382867$Hypersensitivity$
+1138286735$11382867$Swelling$
+1138286735$11382867$Arthropathy$
+1138286735$11382867$Headache$
+1138286735$11382867$Swollen joint count increased$
+1138286735$11382867$Rheumatic fever$
+1138286735$11382867$Maternal exposure during pregnancy$
+1138286735$11382867$Nail disorder$
+1138286735$11382867$Contraindicated product administered$
+1138286735$11382867$Arthralgia$
+1138286735$11382867$Type 2 diabetes mellitus$
+1138286735$11382867$Nail operation$
+1138286735$11382867$Rheumatoid arthritis$
+1138286735$11382867$Coeliac disease$
+1138286735$11382867$Abdominal discomfort$
+1138286735$11382867$Therapeutic product effect decreased$
+1138286735$11382867$Grip strength decreased$
+1138286735$11382867$Injection site reaction$
+1138286735$11382867$Musculoskeletal stiffness$
+1138896012$11388960$Peripheral swelling$
+1138896012$11388960$Headache$
+1138896012$11388960$Nausea$
+1138896012$11388960$Angina pectoris$
+1138896012$11388960$Eye pain$
+1138896012$11388960$Cough$
+1138896012$11388960$Dysstasia$
+1138896012$11388960$Pain$
+1138896012$11388960$Throat irritation$
+1138896012$11388960$Intervertebral disc protrusion$
+1138896012$11388960$Thrombosis$
+1138896012$11388960$Pain in extremity$
+1138896012$11388960$Muscle tightness$
+1138896012$11388960$Hyperaesthesia$
+1140989428$11409894$Drug abuse$
+1140989428$11409894$Multiple drug therapy$
+1140989428$11409894$Mobility decreased$
+1140989428$11409894$Sedation$
+1140989428$11409894$Overdose$
+1140989428$11409894$Constipation$
+1140989428$11409894$Sedation complication$
+1140989428$11409894$Balance disorder$
+1140989428$11409894$Pain$
+1140989428$11409894$Drug interaction$
+1140989428$11409894$Renal function test abnormal$
+1140989428$11409894$Blood calcium decreased$
+1140989428$11409894$Depressed level of consciousness$
+1140989428$11409894$Cognitive disorder$
+1140989428$11409894$Bladder disorder$
+1140989428$11409894$Product use in unapproved indication$
+1140989428$11409894$Creatinine renal clearance decreased$
+1140989428$11409894$Orthostatic hypotension$
+1140989428$11409894$Hypotension$
+1140989428$11409894$Toxicity to various agents$
+1140989428$11409894$Off label use$
+1140989428$11409894$Dementia$
+1140989428$11409894$Dyspnoea$
+1140989428$11409894$Creatinine renal clearance increased$
+1140989428$11409894$Fall$
+114151387$11415138$Weight decreased$
+114151387$11415138$Obstructive airways disorder$
+114151387$11415138$Chronic obstructive pulmonary disease$
+114151387$11415138$Mixed obstructive and restrictive lung disease$
+114151387$11415138$Blood pressure systolic increased$
+114151387$11415138$Lung diffusion test decreased$
+114151387$11415138$Forced expiratory volume decreased$
+114151387$11415138$Bronchiectasis$
+114310462$11431046$Pneumonia bacterial$
+114310462$11431046$Bacterial sepsis$
+114310462$11431046$Pancytopenia$
+114310462$11431046$Anaemia$
+114310462$11431046$Candida sepsis$
+1144476756$11444767$Therapeutic product effect incomplete$
+1144476756$11444767$Gastrointestinal disorder$
+1144476756$11444767$Vomiting$
+1144476756$11444767$Abdominal distension$
+1144476756$11444767$Hypersensitivity$
+1144476756$11444767$Dyspepsia$
+1144476756$11444767$Synovitis$
+1144476756$11444767$Anti-cyclic citrullinated peptide antibody positive$
+1144476756$11444767$Hepatitis$
+1144476756$11444767$Fall$
+1144476756$11444767$Malaise$
+1144476756$11444767$Drug hypersensitivity$
+1144476756$11444767$Headache$
+1144476756$11444767$Coeliac disease$
+1144476756$11444767$Adverse reaction$
+1144476756$11444767$Hypertension$
+1144476756$11444767$Drug ineffective$
+1144476756$11444767$Hepatic enzyme increased$
+1144476756$11444767$Contraindicated product administered$
+1144476756$11444767$Finger deformity$
+1144476756$11444767$Blood cholesterol increased$
+1144476756$11444767$Arthropathy$
+1144476756$11444767$Glossodynia$
+1144476756$11444767$Condition aggravated$
+1144476756$11444767$Hand deformity$
+1144476756$11444767$Treatment failure$
+1144476756$11444767$Musculoskeletal stiffness$
+1144476756$11444767$Product label confusion$
+1144476756$11444767$Drug intolerance$
+1144476756$11444767$Arthralgia$
+1144476756$11444767$Grip strength decreased$
+1144476756$11444767$Fatigue$
+1144476756$11444767$Wheezing$
+1144476756$11444767$Abdominal discomfort$
+1144476756$11444767$Product quality issue$
+1144476756$11444767$General physical health deterioration$
+1144476756$11444767$Off label use$
+1144476756$11444767$Product use in unapproved indication$
+1144476756$11444767$Intentional product use issue$
+1144476756$11444767$Drug-induced liver injury$
+1144476756$11444767$Alopecia$
+1144476756$11444767$Product use issue$
+1144476756$11444767$Weight increased$
+1144476756$11444767$Therapeutic product effect decreased$
+1144476756$11444767$Taste disorder$
+1144476756$11444767$Insomnia$
+1144476756$11444767$Wound$
+1144476756$11444767$Exposure during pregnancy$
+114508102$11450810$Electrocardiogram abnormal$
+114508102$11450810$Acute myocardial infarction$
+114508102$11450810$Pneumonia$
+1145717526$11457175$Swelling$
+1145717526$11457175$Maternal exposure during pregnancy$
+1145717526$11457175$Treatment failure$
+1145717526$11457175$Fatigue$
+1145717526$11457175$Gait disturbance$
+1145717526$11457175$Drug ineffective$
+1145717526$11457175$Abdominal discomfort$
+1145717526$11457175$Contraindicated product administered$
+1145717526$11457175$Pericarditis$
+1145717526$11457175$Loss of personal independence in daily activities$
+1145717526$11457175$Rheumatoid arthritis$
+1145717526$11457175$Off label use$
+1145717526$11457175$Musculoskeletal stiffness$
+1145717526$11457175$Onychomadesis$
+1145717526$11457175$Joint swelling$
+1145717526$11457175$Alopecia$
+1145717526$11457175$Pain$
+1145717526$11457175$Onychomycosis$
+1145717526$11457175$Hypertension$
+1145717526$11457175$Arthropathy$
+1145717526$11457175$Movement disorder$
+1145717526$11457175$Coeliac disease$
+1145717526$11457175$Headache$
+1145717526$11457175$Arthralgia$
+1145717526$11457175$Product use issue$
+1145717526$11457175$Systemic lupus erythematosus$
+1145717526$11457175$Condition aggravated$
+1145717526$11457175$General physical health deterioration$
+1145717526$11457175$Therapeutic product effect decreased$
+1145717526$11457175$Nail operation$
+1145717526$11457175$Pemphigus$
+1145717526$11457175$Hypersensitivity$
+1145717526$11457175$Rheumatic fever$
+1145717526$11457175$Swollen joint count increased$
+1145717526$11457175$Blood cholesterol increased$
+1145717526$11457175$Injection site reaction$
+1145717526$11457175$Type 2 diabetes mellitus$
+1145717526$11457175$Grip strength decreased$
+1145717526$11457175$Synovitis$
+1145717526$11457175$Exposure during pregnancy$
+1145717526$11457175$Nail disorder$
+114630764$11463076$Electrocardiogram ST segment elevation$
+114630764$11463076$Dyspnoea$
+114630764$11463076$Brugada syndrome$
+114630764$11463076$Coronary artery disease$
+114630764$11463076$Electrocardiogram abnormal$
+114630764$11463076$Pneumonia$
+114630764$11463076$Acute myocardial infarction$
+114630764$11463076$Chest discomfort$
+114765872$11476587$Cold sweat$
+114765872$11476587$Abnormal behaviour$
+114765872$11476587$Burning sensation$
+114765872$11476587$Neuropathy peripheral$
+114765872$11476587$Pruritus$
+114916593$11491659$Lumbar vertebral fracture$
+114916593$11491659$Road traffic accident$
+1151945698$11519456$Infusion related reaction$
+1151945698$11519456$Rheumatoid factor positive$
+1151945698$11519456$Maternal exposure during pregnancy$
+1151945698$11519456$Product use issue$
+1151945698$11519456$Anti-cyclic citrullinated peptide antibody positive$
+1151945698$11519456$Taste disorder$
+1151945698$11519456$Prescribed overdose$
+1151945698$11519456$Pneumonia$
+1151945698$11519456$Swollen joint count increased$
+1151945698$11519456$Gait inability$
+1151945698$11519456$Red blood cell sedimentation rate increased$
+1151945698$11519456$Peripheral swelling$
+1151945698$11519456$Systemic lupus erythematosus$
+1151945698$11519456$Product quality issue$
+1151945698$11519456$Irritable bowel syndrome$
+1151945698$11519456$Weight increased$
+1151945698$11519456$Weight decreased$
+1151945698$11519456$Joint stiffness$
+1151945698$11519456$Rheumatic fever$
+1151945698$11519456$Amnesia$
+1151945698$11519456$Injury$
+1151945698$11519456$Wheezing$
+1151945698$11519456$Infusion site reaction$
+1151945698$11519456$Insomnia$
+1151945698$11519456$Therapeutic product effect decreased$
+1151945698$11519456$Liver function test increased$
+1151945698$11519456$Lung disorder$
+1151945698$11519456$Intentional product use issue$
+1151945698$11519456$Fatigue$
+1151945698$11519456$Pericarditis$
+1151945698$11519456$Abdominal pain upper$
+1151945698$11519456$Hypoaesthesia$
+1151945698$11519456$Incorrect route of product administration$
+1151945698$11519456$Therapeutic product effect incomplete$
+1151945698$11519456$Prescribed underdose$
+1151945698$11519456$Synovitis$
+1151945698$11519456$Arthralgia$
+1151945698$11519456$Wound infection$
+1151945698$11519456$Dyspnoea$
+1151945698$11519456$Muscle spasms$
+1151945698$11519456$Rash$
+1151945698$11519456$Adverse event$
+1151945698$11519456$Peripheral venous disease$
+1151945698$11519456$Memory impairment$
+1151945698$11519456$Abdominal pain$
+1151945698$11519456$Muscle injury$
+1151945698$11519456$Exostosis$
+1151945698$11519456$Lip dry$
+1151945698$11519456$Vomiting$
+1151945698$11519456$Sciatica$
+1151945698$11519456$Dry mouth$
+1151945698$11519456$Mobility decreased$
+1151945698$11519456$Stomatitis$
+1151945698$11519456$Adverse drug reaction$
+1151945698$11519456$Dyspepsia$
+1151945698$11519456$Folliculitis$
+1151945698$11519456$Migraine$
+1151945698$11519456$Ear pain$
+1151945698$11519456$Sleep disorder due to a general medical condition$
+1151945698$11519456$Malaise$
+1151945698$11519456$Abdominal discomfort$
+1151945698$11519456$Pemphigus$
+1151945698$11519456$Liver injury$
+1151945698$11519456$Type 2 diabetes mellitus$
+1151945698$11519456$Adjustment disorder with depressed mood$
+1151945698$11519456$Joint range of motion decreased$
+1151945698$11519456$Product use in unapproved indication$
+1151945698$11519456$Urticaria$
+1151945698$11519456$Facet joint syndrome$
+1151945698$11519456$Lower respiratory tract infection$
+1151945698$11519456$Lower limb fracture$
+1151945698$11519456$Respiratory disorder$
+1151945698$11519456$Inflammation$
+1151945698$11519456$Pulmonary fibrosis$
+1151945698$11519456$Laryngitis$
+1151945698$11519456$Treatment failure$
+1151945698$11519456$Pyrexia$
+1151945698$11519456$Fibromyalgia$
+1151945698$11519456$Sleep disorder$
+1151945698$11519456$Live birth$
+1151945698$11519456$Off label use$
+1151945698$11519456$Swelling$
+1151945698$11519456$Alopecia$
+1151945698$11519456$Epilepsy$
+1151945698$11519456$Lupus-like syndrome$
+1151945698$11519456$Therapy non-responder$
+1151945698$11519456$Wound$
+1151945698$11519456$Duodenal ulcer perforation$
+1151945698$11519456$Psoriatic arthropathy$
+1151945698$11519456$Gait disturbance$
+1151945698$11519456$Infection$
+1151945698$11519456$Exposure during pregnancy$
+1151945698$11519456$Drug tolerance$
+1151945698$11519456$Anxiety$
+1151945698$11519456$Medication error$
+1151945698$11519456$Sinusitis$
+1151945698$11519456$Ulcer haemorrhage$
+1151945698$11519456$Rheumatoid arthritis$
+1151945698$11519456$Joint swelling$
+115273074$11527307$Anuria$
+115273074$11527307$Pericarditis$
+115273074$11527307$Dyspnoea$
+115273074$11527307$Metabolic acidosis$
+115273074$11527307$Coronary artery thrombosis$
+115273074$11527307$Hypotension$
+115273074$11527307$Pericardial effusion$
+115273074$11527307$Multiple organ dysfunction syndrome$
+115273074$11527307$Oedema peripheral$
+115273074$11527307$Vasculitis necrotising$
+115273074$11527307$Cardiac arrest$
+115273074$11527307$Post transplant lymphoproliferative disorder$
+115273074$11527307$Ventricular dysfunction$
+115273074$11527307$Pleural effusion$
+115273074$11527307$Heart transplant rejection$
+115273074$11527307$Acute myocardial infarction$
+115273074$11527307$Vasculitis$
+1156227659$11562276$Influenza$
+1156227659$11562276$Foot fracture$
+1156227659$11562276$Fatigue$
+1156227659$11562276$Decreased appetite$
+1156227659$11562276$Pleuritic pain$
+1156227659$11562276$Foot fracture$
+1156227659$11562276$Diarrhoea$
+1156227659$11562276$Urinary tract infection$
+1156227659$11562276$Albumin urine present$
+1156227659$11562276$Urinary retention$
+1156227659$11562276$Dizziness$
+1156227659$11562276$Graves' disease$
+1156227659$11562276$Animal bite$
+1156227659$11562276$Peripheral swelling$
+1156227659$11562276$Liver function test increased$
+1156227659$11562276$Skin burning sensation$
+1156227659$11562276$Headache$
+1156227659$11562276$Muscular weakness$
+1156227659$11562276$Biliary obstruction$
+1156227659$11562276$Muscle spasms$
+1156227659$11562276$Flank pain$
+1156227659$11562276$Vomiting$
+1156227659$11562276$Limb discomfort$
+1156227659$11562276$Muscle spasms$
+1156227659$11562276$Pyelonephritis$
+1156227659$11562276$Seizure$
+1156227659$11562276$Vision blurred$
+1156227659$11562276$Upper respiratory tract infection$
+1156227659$11562276$Oral candidiasis$
+1156227659$11562276$Pain in extremity$
+1156227659$11562276$Flushing$
+1156227659$11562276$Hypotension$
+1156227659$11562276$Tachycardia$
+1156227659$11562276$Muscle spasms$
+1156227659$11562276$Constipation$
+1156227659$11562276$Haematuria$
+1156227659$11562276$Dizziness$
+1156227659$11562276$Paraesthesia$
+1156227659$11562276$Tooth infection$
+1156227659$11562276$Nausea$
+1156227659$11562276$Foot fracture$
+1156227659$11562276$Multiple sclerosis relapse$
+1156227659$11562276$Blood thyroid stimulating hormone decreased$
+1156227659$11562276$Thyroid mass$
+1156227659$11562276$Hyperthyroidism$
+1156227659$11562276$Urinary tract infection$
+1156227659$11562276$Pain$
+1156227659$11562276$Nausea$
+1156227659$11562276$Albumin urine present$
+1156227659$11562276$Neuralgia$
+1156227659$11562276$Hypoaesthesia$
+115630142$11563014$Chest discomfort$
+115630142$11563014$Tachyphrenia$
+115630142$11563014$Tremor$
+115630142$11563014$Dyspnoea$
+115630142$11563014$Influenza like illness$
+115630142$11563014$Hypersensitivity$
+115630142$11563014$Suicidal ideation$
+115630142$11563014$Restlessness$
+115630142$11563014$Rash$
+115630142$11563014$Myalgia$
+115640713$11564071$Respiratory failure$
+115640713$11564071$Cardiac arrest$
+115640713$11564071$Toxicity to various agents$
+115640713$11564071$Myocardial ischaemia$
+115640713$11564071$Atrioventricular block complete$
+115640713$11564071$Multiple organ dysfunction syndrome$
+115640713$11564071$Overdose$
+115640713$11564071$Cardiogenic shock$
+115779542$11577954$Drug ineffective$
+115779542$11577954$Condition aggravated$
+115908833$11590883$Gingival disorder$
+115908833$11590883$Gingival hypertrophy$
+1159140922$11591409$Pyrexia$
+1159140922$11591409$Nasopharyngitis$
+1159140922$11591409$Pulmonary congestion$
+1159140922$11591409$Malaise$
+1159140922$11591409$Increased appetite$
+1159140922$11591409$Dyspnoea$
+1159140922$11591409$Wheezing$
+1159140922$11591409$Weight decreased$
+1159140922$11591409$Middle insomnia$
+1159140922$11591409$Obstructive airways disorder$
+1159140922$11591409$Hypertension$
+1159140922$11591409$Therapeutic response decreased$
+1159140922$11591409$Cough$
+1159140922$11591409$Lung disorder$
+1159140922$11591409$Oropharyngeal pain$
+1159140922$11591409$Headache$
+1159140922$11591409$Forced expiratory flow decreased$
+1159140922$11591409$Forced vital capacity decreased$
+1159140922$11591409$Forced expiratory volume decreased$
+1159140922$11591409$Lower respiratory tract infection$
+1159140922$11591409$Asthma$
+1159140922$11591409$Nasal congestion$
+1159140922$11591409$Emphysema$
+115948173$11594817$Headache$
+115948173$11594817$Irritability$
+115948173$11594817$Respiratory tract infection$
+115948173$11594817$Insurance issue$
+115948173$11594817$Product use issue$
+115948173$11594817$Anaphylactic reaction$
+115948173$11594817$Gastroenteritis viral$
+115948173$11594817$Pyrexia$
+116140293$11614029$Drug ineffective$
+1163606329$11636063$Forced expiratory volume decreased$
+1163606329$11636063$Pneumonia$
+1163606329$11636063$Bacterial infection$
+1163606329$11636063$Nasopharyngitis$
+1163606329$11636063$Cardiac arrest$
+1163606329$11636063$Cystic fibrosis$
+1163606329$11636063$Concomitant disease aggravated$
+1163606329$11636063$Brain hypoxia$
+1163606329$11636063$Obstructive airways disorder$
+1163606329$11636063$Forced vital capacity decreased$
+1163606329$11636063$FEV1/FVC ratio decreased$
+1163606329$11636063$Infective pulmonary exacerbation of cystic fibrosis$
+116500983$11650098$Breakthrough pain$
+116500983$11650098$Product colour issue$
+116500983$11650098$Therapeutic product effect decreased$
+116500983$11650098$Skin discolouration$
+116500983$11650098$Abdominal pain upper$
+116500983$11650098$Pain$
+116500983$11650098$Drug ineffective$
+116516953$11651695$Systemic candida$
+116516953$11651695$Drug resistance$
+116539212$11653921$Trichosporon infection$
+1165454514$11654545$Weight increased$
+1165454514$11654545$Catheter site irritation$
+1165454514$11654545$Stress$
+1165454514$11654545$Catheter site erythema$
+1165454514$11654545$Pregnancy$
+1165454514$11654545$Maternal exposure during pregnancy$
+1165454514$11654545$Breast feeding$
+1165454514$11654545$Product use issue$
+1165454514$11654545$Hereditary angioedema$
+1165454514$11654545$Inappropriate schedule of product administration$
+1168527120$11685271$Cerebral artery thrombosis$
+1168527120$11685271$Brain scan abnormal$
+1168527120$11685271$Cerebrovascular accident$
+1168527120$11685271$Hemiplegia$
+1168527120$11685271$Respiratory failure$
+1168527120$11685271$Respiratory distress$
+1168527120$11685271$Nausea$
+1168527120$11685271$Ischaemic stroke$
+1168527120$11685271$Facial paralysis$
+1168527120$11685271$Product use issue$
+1168527120$11685271$Off label use$
+1168527120$11685271$Areflexia$
+1168527120$11685271$Disease recurrence$
+116899943$11689994$Oesophagitis$
+1169883818$11698838$Asthenia$
+1169883818$11698838$Abdominal pain$
+1169883818$11698838$White blood cell count decreased$
+1169883818$11698838$Gait disturbance$
+1169883818$11698838$Urinary tract infection bacterial$
+1169883818$11698838$Weight increased$
+1169883818$11698838$Hypokinesia$
+1169883818$11698838$Chromaturia$
+1169883818$11698838$Hepatic cirrhosis$
+1169883818$11698838$Asphyxia$
+1169883818$11698838$Haemoglobin increased$
+1169883818$11698838$Skin burning sensation$
+1169883818$11698838$Liver function test abnormal$
+1169883818$11698838$Off label use$
+1169883818$11698838$Pruritus$
+1169883818$11698838$Rash$
+1169883818$11698838$Pyrexia$
+1169883818$11698838$Fatigue$
+1169883818$11698838$Feeling abnormal$
+1169883818$11698838$Platelet count increased$
+1169883818$11698838$Kidney infection$
+1169883818$11698838$Cerebral haemorrhage$
+1169883818$11698838$Haemoglobin decreased$
+1169883818$11698838$Urine odour abnormal$
+1169883818$11698838$Thrombosis$
+1169883818$11698838$Skin hypertrophy$
+1169883818$11698838$Hypophagia$
+1169883818$11698838$Fluid retention$
+1169883818$11698838$Headache$
+1169883818$11698838$White blood cell count increased$
+1169883818$11698838$Philadelphia chromosome positive$
+1169883818$11698838$Product availability issue$
+1169883818$11698838$Dizziness$
+1169883818$11698838$Dysuria$
+1169883818$11698838$Urine output decreased$
+1169883818$11698838$Acne$
+1169883818$11698838$Tachycardia$
+1169883818$11698838$Platelet count abnormal$
+117004567$11700456$Colorectal adenocarcinoma$
+1170338911$11703389$Influenza like illness$
+1170338911$11703389$Vertigo$
+1170338911$11703389$Heart rate increased$
+1170338911$11703389$Drug ineffective$
+1170338911$11703389$Influenza$
+1170338911$11703389$Fatigue$
+1170338911$11703389$Ileal ulcer$
+1170338911$11703389$Intestinal obstruction$
+1170338911$11703389$Blood pressure increased$
+1170338911$11703389$Nausea$
+117038953$11703895$Accidental overdose$
+117038953$11703895$Hypotension$
+117038953$11703895$Accidental exposure to product$
+117038953$11703895$Unresponsive to stimuli$
+117038953$11703895$Generalised tonic-clonic seizure$
+117038953$11703895$Arrhythmia$
+117038953$11703895$Coma$
+117038953$11703895$Condition aggravated$
+117038953$11703895$Cardiac arrest$
+117038953$11703895$Drug screen positive$
+117038953$11703895$Mobility decreased$
+117038953$11703895$Somnolence$
+117038953$11703895$Sensory loss$
+117038953$11703895$Cardiomyopathy$
+117038953$11703895$Drug level increased$
+117038953$11703895$Compartment syndrome$
+117038953$11703895$Ejection fraction abnormal$
+117177538$11717753$Chills$
+117177538$11717753$Stress$
+117177538$11717753$Pulmonary congestion$
+117177538$11717753$Drug ineffective$
+117177538$11717753$Weight increased$
+117177538$11717753$Product use issue$
+117177538$11717753$Blood iron decreased$
+117177538$11717753$Influenza like illness$
+117177538$11717753$Dizziness$
+117177538$11717753$Weight decreased$
+117177538$11717753$Wheezing$
+117177538$11717753$Cough$
+117177538$11717753$Dyspnoea$
+117177538$11717753$Nasopharyngitis$
+117177538$11717753$Hypoglycaemia$
+117177538$11717753$Feeling abnormal$
+117177538$11717753$Productive cough$
+117197534$11719753$Lung infiltration$
+117197534$11719753$Hypoxia$
+117197534$11719753$Tachycardia$
+117197534$11719753$Pulmonary toxicity$
+117197534$11719753$Respiratory alkalosis$
+117239762$11723976$Infusion site discharge$
+117239762$11723976$Scar$
+117239762$11723976$Bronchitis$
+117605195$11760519$Lung disorder$
+117749014$11774901$Dyspepsia$
+117749014$11774901$Hip surgery$
+117840412$11784041$Myalgia$
+117840412$11784041$Arthralgia$
+117840412$11784041$Thrombocytopenia$
+117840412$11784041$Lupus-like syndrome$
+1178768314$11787683$Snoring$
+1178768314$11787683$Headache$
+1178768314$11787683$Hypersensitivity$
+1178768314$11787683$Focal dyscognitive seizures$
+117919917$11791991$Bronchitis$
+117919917$11791991$Productive cough$
+117919917$11791991$Tooth disorder$
+117919917$11791991$Tooth abscess$
+117919917$11791991$Pneumonia$
+117919917$11791991$Pyrexia$
+118099976$11809997$Hypoacusis$
+118099976$11809997$Heart rate increased$
+118099976$11809997$Atrial fibrillation$
+118099976$11809997$Thyroid disorder$
+118114922$11811492$Product administered to patient of inappropriate age$
+118178562$11817856$Drug ineffective$
+118178562$11817856$Agitation$
+118178562$11817856$Breast discharge$
+118178562$11817856$Irritability$
+118252832$11825283$Hemiparesis$
+118252832$11825283$Scedosporium infection$
+118252832$11825283$Dengue fever$
+118252832$11825283$Fungal abscess central nervous system$
+118405957$11840595$Haematochezia$
+118405957$11840595$Abdominal pain$
+118405957$11840595$Pyrexia$
+118414824$11841482$Maternal exposure before pregnancy$
+118414824$11841482$Polyhydramnios$
+118414824$11841482$Nephrolithiasis$
+1185453710$11854537$Discomfort$
+1185453710$11854537$Dysmenorrhoea$
+1185453710$11854537$Nephrolithiasis$
+1185453710$11854537$Urticaria$
+1185453710$11854537$Lower respiratory tract congestion$
+1185453710$11854537$Urticaria$
+1185453710$11854537$Throat tightness$
+1185453710$11854537$Oropharyngeal pain$
+1185453710$11854537$Gastroenteritis viral$
+1185453710$11854537$Drug hypersensitivity$
+1185453710$11854537$Pneumonia$
+1185453710$11854537$Off label use$
+1185453710$11854537$Choking$
+1185453710$11854537$Peripheral swelling$
+1185453710$11854537$Sinusitis$
+1185453710$11854537$Sedation$
+1185453710$11854537$Incorrect dose administered$
+1185453710$11854537$Rash$
+1185453710$11854537$Headache$
+1185453710$11854537$Anxiety$
+1185453710$11854537$Lower respiratory tract infection$
+1185453710$11854537$Nasopharyngitis$
+1185453710$11854537$Anaphylactic reaction$
+1185453710$11854537$Herpes zoster$
+1185453710$11854537$Nasal congestion$
+1185453710$11854537$Illness$
+1185933610$11859336$Candida infection$
+1185933610$11859336$Temporomandibular pain and dysfunction syndrome$
+1185933610$11859336$Osteopenia$
+1185933610$11859336$Diarrhoea$
+1185933610$11859336$Condition aggravated$
+1185933610$11859336$Fibromyalgia$
+1185933610$11859336$Hysterectomy$
+1185933610$11859336$Muscle spasms$
+1185933610$11859336$Condition aggravated$
+1185933610$11859336$Tendonitis$
+1185933610$11859336$Condition aggravated$
+1185933610$11859336$Hypogammaglobulinaemia$
+1185933610$11859336$Osteoporosis$
+1185933610$11859336$Lower limb fracture$
+1185933610$11859336$Condition aggravated$
+1185933610$11859336$Hiatus hernia$
+1185933610$11859336$Abdominal pain upper$
+1185933610$11859336$Drug ineffective$
+1185933610$11859336$Chondromalacia$
+1185933610$11859336$Limb injury$
+1185933610$11859336$Endometriosis$
+1185933610$11859336$Fall$
+1185933610$11859336$Condition aggravated$
+1185933610$11859336$Product dispensing error$
+1185933610$11859336$Fatigue$
+1185933610$11859336$Bone pain$
+1185933610$11859336$Cataract$
+118699355$11869935$Toxicity to various agents$
+118699355$11869935$Tendon pain$
+118699355$11869935$Neuropathy peripheral$
+118699355$11869935$Peripheral coldness$
+118699355$11869935$Autonomic nervous system imbalance$
+118699355$11869935$Alopecia$
+118699355$11869935$Arthralgia$
+118699355$11869935$Metabolic disorder$
+118699355$11869935$Myalgia$
+118699355$11869935$Muscle atrophy$
+118699355$11869935$Fatigue$
+118699355$11869935$Dyspnoea$
+118699355$11869935$Visual impairment$
+118699355$11869935$Muscular weakness$
+118699355$11869935$Cardiovascular disorder$
+118699355$11869935$Gastrointestinal disorder$
+118699355$11869935$Confusional state$
+118699355$11869935$Sleep disorder$
+118699355$11869935$Eye disorder$
+118699355$11869935$Sensory disturbance$
+118699355$11869935$Headache$
+118699355$11869935$Muscle spasms$
+118699355$11869935$Muscle contractions involuntary$
+118699355$11869935$Cognitive disorder$
+118699355$11869935$Affective disorder$
+118699355$11869935$Dry eye$
+118699355$11869935$Tendon disorder$
+118699355$11869935$Respiratory muscle weakness$
+118699355$11869935$Blood glucose abnormal$
+118840513$11884051$Drug interaction$
+118840513$11884051$Trismus$
+118840513$11884051$Dystonia$
+119050892$11905089$Gynaecomastia$
+119050892$11905089$Abnormal weight gain$
+119050892$11905089$Emotional disorder$
+119213773$11921377$Vision blurred$
+119213773$11921377$Visual impairment$
+119213773$11921377$Illness$
+119262078$11926207$Off label use$
+119262078$11926207$Fatigue$
+119262078$11926207$Decreased appetite$
+119262078$11926207$Eye pruritus$
+119262078$11926207$Parkinson's disease$
+119262078$11926207$Constipation$
+119262078$11926207$Abdominal distension$
+119262078$11926207$Product use in unapproved indication$
+119262078$11926207$Drug ineffective$
+119262078$11926207$Dizziness$
+119262078$11926207$Vertigo$
+119262078$11926207$Fall$
+119262078$11926207$Vitamin B12 decreased$
+119262078$11926207$Condition aggravated$
+119262078$11926207$Nausea$
+119262078$11926207$Loss of personal independence in daily activities$
+119262078$11926207$Vomiting$
+119262078$11926207$Hypersensitivity$
+119262078$11926207$Dry mouth$
+119262078$11926207$Depressed mood$
+119262078$11926207$Lacrimation increased$
+119262078$11926207$Hypotension$
+119878963$11987896$Steatohepatitis$
+119948203$11994820$Cytomegalovirus colitis$
+119948203$11994820$Off label use$
+120007572$12000757$Photophobia$
+120007572$12000757$Eye pain$
+120007572$12000757$Tinnitus$
+120007572$12000757$Metastases to bone$
+120007572$12000757$Idiopathic intracranial hypertension$
+120007572$12000757$Blindness$
+120007572$12000757$Brain herniation$
+120007572$12000757$Magnetic resonance imaging head abnormal$
+120007572$12000757$Visual impairment$
+120007572$12000757$Prostatic specific antigen increased$
+120007572$12000757$Nausea$
+120007572$12000757$Exophthalmos$
+120007572$12000757$Visual acuity reduced$
+120007572$12000757$Fluid retention$
+120007572$12000757$Disease progression$
+120007572$12000757$Weight increased$
+120007572$12000757$Papilloedema$
+120056967$12005696$Acute kidney injury$
+120056967$12005696$Pleural effusion$
+120056967$12005696$Haemolysis$
+120056967$12005696$Hepatitis$
+120056967$12005696$Meningococcal sepsis$
+120056967$12005696$Angiopathy$
+120056967$12005696$Vaccination failure$
+120056967$12005696$Cholestasis$
+120056967$12005696$Haemodynamic instability$
+120056967$12005696$Drug interaction$
+120056967$12005696$Drug ineffective$
+120056967$12005696$Septic shock$
+120056967$12005696$Myelosuppression$
+120056967$12005696$Haemolytic anaemia$
+120113183$12011318$Multiple-drug resistance$Multiple-drug resistance
+120113183$12011318$Treatment failure$Treatment failure
+1204235613$12042356$Vomiting$
+1204235613$12042356$Weight decreased$
+1204235613$12042356$Rash$
+1204235613$12042356$Oedema peripheral$
+1204235613$12042356$Cough$
+1204235613$12042356$Off label use$
+1204235613$12042356$Diarrhoea$
+1204235613$12042356$Rhinovirus infection$
+1204235613$12042356$Nausea$
+1204235613$12042356$Atrial fibrillation$
+1204235613$12042356$Fatigue$
+1204235613$12042356$Exercise tolerance decreased$
+1204235613$12042356$Fluid retention$
+1204235613$12042356$Diabetes mellitus$
+1204235613$12042356$Dyspnoea exertional$
+1204235613$12042356$Cardiac failure congestive$
+120429906$12042990$Asthma$
+120429906$12042990$Wheezing$
+120448652$12044865$Colitis ulcerative$
+120486433$12048643$Sepsis$
+120486433$12048643$Intentional product use issue$
+120486433$12048643$Neutropenia$
+120486433$12048643$Off label use$
+120527002$12052700$Pharyngitis streptococcal$
+120599403$12059940$Completed suicide$
+120599403$12059940$Intentional overdose$
+120599403$12059940$Unresponsive to stimuli$
+120599403$12059940$Toxicity to various agents$
+120599403$12059940$Pulmonary oedema$
+120715846$12071584$Renal impairment$
+120715846$12071584$Skin lesion$
+120715846$12071584$Fungal infection$
+120715846$12071584$Drug interaction$
+120736634$12073663$Hypoglycaemia$
+1207531621$12075316$Oculogyric crisis$
+1207531621$12075316$Disease recurrence$
+1207531621$12075316$Product use in unapproved indication$
+120787024$12078702$Febrile neutropenia$
+120787024$12078702$Small intestinal obstruction$
+120787024$12078702$Rash$
+120787024$12078702$Irritable bowel syndrome$
+120787024$12078702$Abdominal pain$
+120813459$12081345$Aplastic anaemia$
+1209149733$12091497$Off label use$
+1209149733$12091497$Product use issue$
+1209149733$12091497$Drug ineffective$
+1209149733$12091497$Drug intolerance$
+1209149733$12091497$Joint swelling$
+1209149733$12091497$Drug hypersensitivity$
+1209149733$12091497$Tuberculin test positive$
+1209149733$12091497$Arthralgia$
+1209149733$12091497$Non-Hodgkin's lymphoma$
+1209149733$12091497$Rheumatoid arthritis$
+120922012$12092201$Unresponsive to stimuli$
+120922012$12092201$Completed suicide$
+120922012$12092201$Pulmonary oedema$
+120922012$12092201$Intentional overdose$
+120922012$12092201$Toxicity to various agents$
+120925942$12092594$Ecchymosis$
+120925942$12092594$Disseminated intravascular coagulation$
+120925942$12092594$Acute promyelocytic leukaemia$
+120925942$12092594$Pancytopenia$
+120937638$12093763$Diarrhoea$
+120937638$12093763$Fatigue$
+120937638$12093763$Stomatitis$
+120937638$12093763$White blood cell count decreased$
+120937638$12093763$Fatigue$
+120937638$12093763$Acute kidney injury$
+120937638$12093763$Alopecia$
+120984983$12098498$Sensation of foreign body$
+120984983$12098498$Device malfunction$
+121016533$12101653$Mania$
+1212559021$12125590$Vision blurred$
+1212559021$12125590$Inappropriate schedule of product administration$
+1212559021$12125590$Malaise$
+1212559021$12125590$Lower respiratory tract infection$
+1212559021$12125590$Sinus congestion$
+1212559021$12125590$Nasopharyngitis$
+1212559021$12125590$Headache$
+1212559021$12125590$Weight fluctuation$
+1212559021$12125590$Pruritus$
+1212559021$12125590$Obstructive airways disorder$
+1212559021$12125590$Respiratory tract congestion$
+1212559021$12125590$Asthenia$
+1212559021$12125590$Chest discomfort$
+1212559021$12125590$Sensitivity to weather change$
+1212559021$12125590$Illness$
+1212559021$12125590$Cough$
+1212559021$12125590$Pyrexia$
+1212559021$12125590$Polyp$
+1212559021$12125590$Viral infection$
+1212559021$12125590$Respiratory tract infection$
+1212559021$12125590$Sinusitis$
+1212559021$12125590$Rash$
+1212559021$12125590$COVID-19$
+1212559021$12125590$Dyspnoea$
+1212559021$12125590$Asthma$
+1212559021$12125590$Fatigue$
+1212559021$12125590$Feeling abnormal$
+1212559021$12125590$Emphysema$
+1212559021$12125590$Hypersensitivity$
+1213337528$12133375$Drug intolerance$
+1213337528$12133375$Joint swelling$
+1213337528$12133375$Non-Hodgkin's lymphoma$
+1213337528$12133375$Drug hypersensitivity$
+1213337528$12133375$Off label use$
+1213337528$12133375$Product use issue$
+1213337528$12133375$Arthralgia$
+1213337528$12133375$Tuberculin test positive$
+1213337528$12133375$Rheumatoid arthritis$
+1213337528$12133375$Drug ineffective$
+1213337528$12133375$Unevaluable event$
+1213337528$12133375$Adverse drug reaction$
+1213337528$12133375$Non-Hodgkin's lymphoma$
+121703148$12170314$Tongue disorder$
+121703148$12170314$Drug ineffective$
+121703148$12170314$Pain in extremity$
+121703148$12170314$Arthralgia$
+121703148$12170314$Weight increased$
+121703148$12170314$Chronic obstructive pulmonary disease$
+121703148$12170314$Back pain$
+121703148$12170314$Infusion related reaction$
+121703148$12170314$Malaise$
+121703148$12170314$Quality of life decreased$
+121745245$12174524$Completed suicide$
+121745245$12174524$Intentional overdose$
+121745245$12174524$Unresponsive to stimuli$
+121745245$12174524$Toxicity to various agents$
+121769003$12176900$Neutropenia$
+121769003$12176900$Drug level decreased$
+121896655$12189665$Off label use$
+121896655$12189665$Encephalopathy$
+121896655$12189665$Drug interaction$
+121896655$12189665$False negative investigation result$
+121896655$12189665$Meningitis cryptococcal$
+121896655$12189665$Agitation$
+121896655$12189665$Nervous system disorder$
+121987312$12198731$Gynaecomastia$
+121987312$12198731$Galactorrhoea$
+121987312$12198731$Abnormal weight gain$
+122037574$12203757$Off label use$
+122037574$12203757$Diarrhoea$
+122037574$12203757$Osteonecrosis$
+122037574$12203757$Discomfort$
+122104103$12210410$Hypotension$
+122104103$12210410$Mental status changes$
+122104103$12210410$Fatigue$
+122104103$12210410$Toxicity to various agents$
+122104103$12210410$Brain oedema$
+122104103$12210410$Overdose$
+122104103$12210410$Death$
+122104103$12210410$Intracranial hypotension$
+122104103$12210410$Ocular icterus$
+122104103$12210410$Acute hepatic failure$
+1223218711$12232187$Intentional product misuse$
+1223218711$12232187$Hyperhidrosis$
+1223218711$12232187$Irritability$
+1223218711$12232187$Emotional disorder$
+1223218711$12232187$Feeling abnormal$
+1223218711$12232187$Insomnia$
+1223218711$12232187$Off label use$
+1223218711$12232187$Disturbance in attention$
+1223218711$12232187$Anger$
+122375574$12237557$Tubulointerstitial nephritis$
+122375574$12237557$Overdose$
+122375574$12237557$Exposure during pregnancy$
+122439954$12243995$Cardiac failure congestive$
+122439954$12243995$Asthma$
+122441929$12244192$Heart rate increased$
+122441929$12244192$Cough$
+122441929$12244192$Decreased activity$
+122441929$12244192$Weight decreased$
+122441929$12244192$Blood pressure systolic increased$
+122441929$12244192$Pneumonia$
+122441929$12244192$Dyspnoea$
+122441929$12244192$Respiratory rate increased$
+122441929$12244192$Wheezing$
+122441929$12244192$Bronchitis$
+122441929$12244192$Asthma$
+122441929$12244192$Pruritus$
+122441929$12244192$Nasopharyngitis$
+122441929$12244192$Gait disturbance$
+122441929$12244192$Rash erythematous$
+122441929$12244192$Off label use$
+122441929$12244192$Productive cough$
+122441929$12244192$Weight increased$
+122441929$12244192$Wrong technique in product usage process$
+122441929$12244192$Hypokinesia$
+122619415$12261941$Anaphylactoid reaction$
+122619415$12261941$Anaphylactic reaction$
+122696302$12269630$Hypoaesthesia$
+122696302$12269630$Decreased activity$
+122696302$12269630$Product administration error$
+122696302$12269630$Hallucination, auditory$
+122696302$12269630$Somnolence$
+122696302$12269630$Somnolence$
+1226973611$12269736$Exanthema subitum$
+1226973611$12269736$Loose tooth$
+1226973611$12269736$Febrile convulsion$
+1226973611$12269736$Nephrocalcinosis$
+122976823$12297682$Foetal exposure during pregnancy$
+122976823$12297682$Tachycardia foetal$
+123000664$12300066$Mental status changes$
+123000664$12300066$Intentional overdose$
+123000664$12300066$Cardiac arrest$
+123000664$12300066$Ventricular tachycardia$
+123000664$12300066$Metabolic alkalosis$
+123000664$12300066$Electrocardiogram QRS complex prolonged$
+123000664$12300066$Toxicity to various agents$
+123033053$12303305$Gynaecomastia$
+123033053$12303305$Product use in unapproved indication$
+123033053$12303305$Off label use$
+123033053$12303305$Abnormal weight gain$
+123121278$12312127$Breast cancer$
+123131229$12313122$Bone disorder$
+123131229$12313122$Synovitis$
+123131229$12313122$Fatigue$
+123131229$12313122$Osteoporotic fracture$
+123131229$12313122$Surgery$
+123131229$12313122$Osteoporosis$
+123131229$12313122$Rash$
+123131229$12313122$Drug dependence$
+123131229$12313122$C-reactive protein abnormal$
+123131229$12313122$Abdominal pain upper$
+123131229$12313122$Diarrhoea$
+123131229$12313122$Malaise$
+123131229$12313122$Multiple fractures$
+123131229$12313122$Arthropathy$
+123131229$12313122$Joint injury$
+123131229$12313122$Pain$
+123131229$12313122$Osteoporosis$
+123131229$12313122$Product use in unapproved indication$
+123131229$12313122$Red blood cell sedimentation rate increased$
+123131229$12313122$Seizure$
+123131229$12313122$Alopecia$
+123131229$12313122$Drug ineffective$
+123131229$12313122$Red blood cell sedimentation rate abnormal$
+123131229$12313122$Off label use$
+123131229$12313122$Limb deformity$
+123131229$12313122$Fall$
+123131229$12313122$Headache$
+123131229$12313122$Anxiety$
+123131229$12313122$Inflammation$
+123131229$12313122$Femur fracture$
+123131229$12313122$Depression$
+123131229$12313122$Loose body in joint$
+123131229$12313122$Joint laxity$
+123131229$12313122$Fracture delayed union$
+123131229$12313122$Drug eruption$
+123131229$12313122$Asthenia$
+123138463$12313846$Off label use$
+123138463$12313846$Agitation$
+123138463$12313846$Musculoskeletal stiffness$
+123138463$12313846$Blood creatine phosphokinase increased$
+123140123$12314012$Mouth injury$
+123140123$12314012$Asthenia$
+123140123$12314012$Decreased appetite$
+123140123$12314012$Hair colour changes$
+123140123$12314012$Memory impairment$
+123140123$12314012$Eating disorder$
+123140123$12314012$Hair growth abnormal$
+123140123$12314012$Nausea$
+123140123$12314012$Weight decreased$
+123140123$12314012$Dysgeusia$
+123140123$12314012$Diarrhoea$
+123140123$12314012$Pain in extremity$
+123140123$12314012$Yellow skin$
+123140123$12314012$Death$
+123140123$12314012$Dysentery$
+123369634$12336963$Shock$
+123369634$12336963$Toxicity to various agents$
+123369634$12336963$Muscle rigidity$
+123369634$12336963$Cardiogenic shock$
+123369634$12336963$Reduced facial expression$
+123369634$12336963$Myoclonus$
+123369634$12336963$Post-anoxic myoclonus$
+123369634$12336963$Hypokinesia$
+123369634$12336963$Parkinsonism$
+123369634$12336963$Loss of consciousness$
+123369634$12336963$Suicide attempt$
+123369634$12336963$Overdose$
+1233895925$12338959$Weight increased$
+1233895925$12338959$Frustration tolerance decreased$
+1233895925$12338959$Confusional state$
+1233895925$12338959$Pain in extremity$
+1233895925$12338959$Nasopharyngitis$
+1233895925$12338959$Weight decreased$
+1233895925$12338959$Gait disturbance$
+1233895925$12338959$Anxiety$
+1233895925$12338959$Stress$
+1233895925$12338959$Depression$
+1233895925$12338959$Malaise$
+1233895925$12338959$Feeling abnormal$
+1233895925$12338959$Hand deformity$
+1233895925$12338959$Insomnia$
+1233895925$12338959$Fall$
+1233895925$12338959$Limb injury$
+1233895925$12338959$Pneumonia$
+1233895925$12338959$Dysgraphia$
+1233895925$12338959$Pain$
+1233895925$12338959$Headache$
+1233895925$12338959$Hip fracture$
+1233895925$12338959$Peripheral swelling$
+123438675$12343867$Post-anoxic myoclonus$
+123438675$12343867$Toxicity to various agents$
+123438675$12343867$Loss of consciousness$
+123438675$12343867$Reduced facial expression$
+123438675$12343867$Overdose$
+123438675$12343867$Myoclonus$
+123438675$12343867$Hypokinesia$
+123438675$12343867$Parkinsonism$
+123438675$12343867$Muscle rigidity$
+123438675$12343867$Shock$
+123438675$12343867$Cardiogenic shock$
+1234662213$12346622$Craniofacial fracture$
+1234662213$12346622$Haemorrhage$
+1234662213$12346622$Lower limb fracture$
+1234662213$12346622$Multiple fractures$
+1234662213$12346622$Skull fracture$
+1234662213$12346622$Accident$
+1234662213$12346622$Toothache$
+123692433$12369243$Toxicity to various agents$
+123692433$12369243$Lethargy$
+123692433$12369243$Dizziness$
+123692433$12369243$Tachycardia$
+123692433$12369243$Nausea$
+123692433$12369243$Electrocardiogram QRS complex prolonged$
+1237099732$12370997$Therapeutic product effect decreased$
+1237099732$12370997$Alopecia$
+1237099732$12370997$Alanine aminotransferase increased$
+1237099732$12370997$Arthralgia$
+1237099732$12370997$Hypersensitivity$
+1237099732$12370997$Pruritus$
+1237099732$12370997$Nausea$
+1237099732$12370997$Rheumatoid factor positive$
+1237099732$12370997$Joint swelling$
+1237099732$12370997$Product use in unapproved indication$
+1237099732$12370997$Therapeutic product effect incomplete$
+1237099732$12370997$Prescribed underdose$
+1237099732$12370997$Abdominal pain$
+1237099732$12370997$Inflammation$
+1237099732$12370997$Basal cell carcinoma$
+1237099732$12370997$Vomiting$
+1237099732$12370997$Panniculitis$
+1237099732$12370997$Off label use$
+1237099732$12370997$Product use issue$
+1237099732$12370997$Drug intolerance$
+1237099732$12370997$Infusion related reaction$
+1237099732$12370997$Joint swelling$
+1237099732$12370997$Deafness$
+1237099732$12370997$Hypertension$
+1237099732$12370997$Hepatitis$
+1237099732$12370997$Adverse event$
+1237099732$12370997$Granuloma skin$
+1237099732$12370997$Peripheral swelling$
+1237099732$12370997$Hepatic enzyme increased$
+1237099732$12370997$Blood parathyroid hormone decreased$
+1237099732$12370997$Synovitis$
+1237099732$12370997$Drug eruption$
+1237099732$12370997$Pneumonia$
+1237099732$12370997$Pain$
+1237099732$12370997$Blood parathyroid hormone decreased$
+1237099732$12370997$Arthropathy$
+1237099732$12370997$Rheumatoid arthritis$
+1237099732$12370997$Rash pruritic$
+1237099732$12370997$Condition aggravated$
+1237099732$12370997$Fatigue$
+1237099732$12370997$Erythema$
+1237099732$12370997$Hypercalcaemia$
+1237099732$12370997$Musculoskeletal stiffness$
+1237099732$12370997$Therapeutic response decreased$
+1237099732$12370997$Skin ulcer$
+1237099732$12370997$Therapeutic response decreased$
+1237099732$12370997$Aspartate aminotransferase increased$
+1237099732$12370997$Skin necrosis$
+1237099732$12370997$Red blood cell sedimentation rate increased$
+1237099732$12370997$Headache$
+1237099732$12370997$Insomnia$
+1237099732$12370997$Rheumatoid nodule$
+1237099732$12370997$Ulcer$
+1237099732$12370997$Hepatic enzyme increased$
+1237099732$12370997$Rash$
+1237099732$12370997$Pulmonary fibrosis$
+1237099732$12370997$Contraindicated product administered$
+1237099732$12370997$Red blood cell sedimentation rate increased$
+1237099732$12370997$Arthritis$
+1237099732$12370997$Drug ineffective$
+1237099732$12370997$Treatment failure$
+1237099732$12370997$Drug tolerance decreased$
+1237099732$12370997$C-reactive protein increased$
+1237099732$12370997$Drug hypersensitivity$
+1237099732$12370997$Breath sounds abnormal$
+1237099732$12370997$Loss of personal independence in daily activities$
+1237554640$12375546$Glossodynia$
+1237554640$12375546$Muscle injury$
+1237554640$12375546$Fatigue$
+1237554640$12375546$Therapeutic product effect decreased$
+1237554640$12375546$Musculoskeletal stiffness$
+1237554640$12375546$Synovitis$
+1237554640$12375546$Weight increased$
+1237554640$12375546$Alopecia$
+1237554640$12375546$Wound$
+1237554640$12375546$Insomnia$
+1237554640$12375546$Ill-defined disorder$
+1237554640$12375546$Pruritus$
+1237554640$12375546$Lower limb fracture$
+1237554640$12375546$Medication error$
+1237554640$12375546$Drug intolerance$
+1237554640$12375546$Lung disorder$
+1237554640$12375546$Knee arthroplasty$
+1237554640$12375546$Impaired healing$
+1237554640$12375546$Maternal exposure during pregnancy$
+1237554640$12375546$Oedema$
+1237554640$12375546$Contraindicated product administered$
+1237554640$12375546$Obesity$
+1237554640$12375546$Pemphigus$
+1237554640$12375546$Folliculitis$
+1237554640$12375546$Night sweats$
+1237554640$12375546$Dyspnoea$
+1237554640$12375546$Muscle spasms$
+1237554640$12375546$Sinusitis$
+1237554640$12375546$Hypersensitivity$
+1237554640$12375546$Sleep disorder due to general medical condition, insomnia type$
+1237554640$12375546$Nasopharyngitis$
+1237554640$12375546$Hand deformity$
+1237554640$12375546$Peripheral swelling$
+1237554640$12375546$Lip dry$
+1237554640$12375546$Anti-cyclic citrullinated peptide antibody positive$
+1237554640$12375546$Hepatic enzyme increased$
+1237554640$12375546$Bursitis$
+1237554640$12375546$Rash$
+1237554640$12375546$Helicobacter infection$
+1237554640$12375546$Off label use$
+1237554640$12375546$Dyspnoea$
+1237554640$12375546$Inflammation$
+1237554640$12375546$Musculoskeletal pain$
+1237554640$12375546$Dizziness$
+1237554640$12375546$Discomfort$
+1237554640$12375546$Lower respiratory tract infection$
+1237554640$12375546$Joint swelling$
+1237554640$12375546$Pericarditis$
+1237554640$12375546$Blister$
+1237554640$12375546$Oedema peripheral$
+1237554640$12375546$Nausea$
+1237554640$12375546$Pain$
+1237554640$12375546$Systemic lupus erythematosus$
+1237554640$12375546$Rheumatoid arthritis$
+1237554640$12375546$Hip arthroplasty$
+1237554640$12375546$Confusional state$
+1237554640$12375546$Gastrointestinal disorder$
+1237554640$12375546$Infusion related reaction$
+1237554640$12375546$Paraesthesia$
+1237554640$12375546$Stomatitis$
+1237554640$12375546$Dry mouth$
+1237554640$12375546$Joint swelling$
+123889856$12388985$Treatment failure$
+123889856$12388985$Pain$
+123889856$12388985$Tenderness$
+123889856$12388985$Joint swelling$
+123889856$12388985$Illness$
+123889856$12388985$Grip strength decreased$
+123889856$12388985$Spinal stenosis$
+123889856$12388985$Fatigue$
+123889856$12388985$Condition aggravated$
+123889856$12388985$Malaise$
+123889856$12388985$Fall$
+123889856$12388985$Contusion$
+123889856$12388985$Rheumatoid arthritis$
+123889856$12388985$Osteoarthritis$
+1239002317$12390023$Somnolence$
+1239002317$12390023$Ocular hypertension$
+1239002317$12390023$Nerve compression$
+1239002317$12390023$Hypoaesthesia$
+1239002317$12390023$Peripheral swelling$
+1239002317$12390023$Bursitis$
+1239002317$12390023$Cervical radiculopathy$
+1239002317$12390023$Nerve injury$
+1239002317$12390023$Weight decreased$
+1239002317$12390023$Complex regional pain syndrome$
+1239002317$12390023$Condition aggravated$
+1239002317$12390023$Liver function test abnormal$
+1239002317$12390023$Neuralgia$
+123910602$12391060$Haemolysis$
+123910602$12391060$Acidosis$
+123910602$12391060$Arrhythmia$
+123910602$12391060$Acute respiratory distress syndrome$
+123910602$12391060$Hypotension$
+123910602$12391060$Acute kidney injury$
+123910602$12391060$Hypoglycaemia$
+123910602$12391060$Toxicity to various agents$
+123910602$12391060$Coma$
+123910602$12391060$Bradycardia$
+123910602$12391060$Metabolic acidosis$
+123910602$12391060$Hypoventilation$
+124151784$12415178$Necrotising herpetic retinopathy$
+124151784$12415178$Varicella zoster virus infection$
+124151784$12415178$Off label use$
+124151784$12415178$Central nervous system lymphoma$
+124180976$12418097$Stress$
+124180976$12418097$Pain$
+124180976$12418097$Hyperhidrosis$
+124180976$12418097$Dizziness$
+124180976$12418097$Confusional state$
+124180976$12418097$Hypoglycaemia$
+124180976$12418097$Memory impairment$
+124180976$12418097$Nerve compression$
+124180976$12418097$Abdominal discomfort$
+124180976$12418097$Fatigue$
+124180976$12418097$Cerebrovascular insufficiency$
+124315483$12431548$Jaw fracture$
+124315483$12431548$Humerus fracture$
+124315483$12431548$Tooth injury$
+124315483$12431548$Pre-existing condition improved$
+124315483$12431548$Fall$
+124315483$12431548$Drug ineffective$
+124315483$12431548$Central sleep apnoea syndrome$
+124315483$12431548$Therapeutic response unexpected$
+124326287$12432628$Medication error$
+124326287$12432628$Fall$
+124326287$12432628$Coma$
+124326287$12432628$Drug interaction$
+124326287$12432628$Ischaemic cerebral infarction$
+124326287$12432628$Cardio-respiratory arrest$
+124326287$12432628$Arterial thrombosis$
+124326287$12432628$Brain herniation$
+124326287$12432628$Brain oedema$
+124326287$12432628$Basilar artery thrombosis$
+124326287$12432628$Syncope$
+124446214$12444621$Off label use$
+1244735532$12447355$Muscle spasms$
+1244735532$12447355$Productive cough$
+1244735532$12447355$Nasopharyngitis$
+1244735532$12447355$Immunodeficiency$
+1244735532$12447355$Cough$
+1244735532$12447355$Renal pain$
+1244735532$12447355$Diarrhoea$
+1244735532$12447355$Dengue fever$
+1244735532$12447355$Product dose omission issue$
+1244735532$12447355$Pain in extremity$
+1244735532$12447355$Dysphonia$
+1244735532$12447355$Pyelonephritis chronic$
+1244735532$12447355$Petechiae$
+1244735532$12447355$Pain$
+1244735532$12447355$Pulmonary mass$
+1244735532$12447355$Condition aggravated$
+1244735532$12447355$Swelling$
+1244735532$12447355$Herpes virus infection$
+1244735532$12447355$Wound$
+1244735532$12447355$Arthralgia$
+1244735532$12447355$Erythema$
+1244735532$12447355$Overdose$
+1244735532$12447355$Inappropriate schedule of product administration$
+1244735532$12447355$Nasal neoplasm$
+1244735532$12447355$Memory impairment$
+1244735532$12447355$Vein disorder$
+1244735532$12447355$Systemic lupus erythematosus$
+1244735532$12447355$Malaise$
+1244735532$12447355$Pyrexia$
+1244735532$12447355$Vomiting$
+1244735532$12447355$Cataract$
+1244735532$12447355$Platelet count decreased$
+1244735532$12447355$Weight decreased$
+1244735532$12447355$Urinary incontinence$
+1244735532$12447355$Blood uric acid increased$
+1244735532$12447355$Feeling cold$
+1244735532$12447355$Somnolence$
+1244735532$12447355$Circumstance or information capable of leading to medication error$
+1244735532$12447355$Skin disorder$
+1244735532$12447355$Skin discolouration$
+1244735532$12447355$Fluid retention$
+1244735532$12447355$Urinary tract infection$
+1244735532$12447355$Dehydration$
+1244735532$12447355$Varicose vein$
+124511242$12451124$Agitation$
+124511242$12451124$Anger$
+124511242$12451124$Akathisia$
+124536774$12453677$Loss of consciousness$
+124536774$12453677$Overdose$
+124536774$12453677$Seizure$
+124536774$12453677$Substance abuse$
+124536774$12453677$Fall$
+124548312$12454831$Cardiac disorder$
+124548312$12454831$Overdose$
+124548312$12454831$Substance abuse$
+124688622$12468862$Immunosuppressant drug level increased$
+124688622$12468862$Phaeohyphomycosis$
+124688622$12468862$Labelled drug-drug interaction medication error$
+1248259111$12482591$Chronic myeloid leukaemia$
+1248259111$12482591$Hemihypoaesthesia$
+1248259111$12482591$Product dose omission issue$
+1248259111$12482591$Off label use$
+1248259111$12482591$Hypoacusis$
+1248259111$12482591$Chronic myeloid leukaemia recurrent$
+1248259111$12482591$Memory impairment$
+1248414329$12484143$Dysphonia$
+1248414329$12484143$Oropharyngeal pain$
+1248414329$12484143$Obstructive airways disorder$
+1248414329$12484143$Asthma$
+1248414329$12484143$Blood pressure increased$
+1248414329$12484143$Cough$
+1248414329$12484143$Forced expiratory volume decreased$
+1248414329$12484143$Blood pressure increased$
+1248414329$12484143$Dizziness$
+1248414329$12484143$Inappropriate schedule of product administration$
+1248414329$12484143$Middle insomnia$
+1248414329$12484143$Therapeutic product effect decreased$
+1248414329$12484143$Nasal congestion$
+1248414329$12484143$Obesity$
+1248414329$12484143$Insomnia$
+1248414329$12484143$Heart rate increased$
+1248414329$12484143$Upper respiratory tract infection$
+1248414329$12484143$Nasopharyngitis$
+1248414329$12484143$Dyspnoea$
+1248414329$12484143$Weight decreased$
+125006634$12500663$Endometrial disorder$
+125039955$12503995$Myelofibrosis$
+125039955$12503995$Acute promyelocytic leukaemia$
+125039955$12503995$Second primary malignancy$
+125041683$12504168$Endometrial dysplasia$
+125041683$12504168$Vaginal haemorrhage$
+125218864$12521886$Acute promyelocytic leukaemia$
+125218864$12521886$Cellulitis$
+125218864$12521886$Pancytopenia$
+125218864$12521886$Pyrexia$
+125218864$12521886$Myelofibrosis$
+125244834$12524483$Arthralgia$
+125244834$12524483$Condition aggravated$
+125244834$12524483$Purulent discharge$
+125244834$12524483$Joint swelling$
+125244834$12524483$Abscess$
+125244834$12524483$Drug interaction$
+125244834$12524483$Pain$
+125244834$12524483$Phaeohyphomycosis$
+125244834$12524483$Immunosuppressant drug level increased$
+125244834$12524483$Labelled drug-drug interaction medication error$
+125283728$12528372$Arthralgia$
+125283728$12528372$Peripheral vein thrombosis$
+125283728$12528372$Pulmonary embolism$
+125283728$12528372$Fatigue$
+125283728$12528372$Myalgia$
+125297202$12529720$Endometrial disorder$
+1253212412$12532124$Off label use$
+1253212412$12532124$Gastrointestinal inflammation$
+1253212412$12532124$Abdominal hernia$
+1253212412$12532124$Oxygen saturation decreased$
+1253212412$12532124$Therapy partial responder$
+1253212412$12532124$Gastritis erosive$
+1253212412$12532124$Blood pressure increased$
+1253212412$12532124$Heart rate increased$
+1253212412$12532124$Vein collapse$
+1253212412$12532124$Fatigue$
+125349932$12534993$Drug ineffective$
+1253507822$12535078$Sleep disorder$
+1253507822$12535078$Weight decreased$
+1253507822$12535078$Weight increased$
+1253507822$12535078$Eating disorder$
+1253507822$12535078$Asthma$
+1253507822$12535078$Anaphylactic shock$
+1253507822$12535078$Hypoventilation$
+1253507822$12535078$Product availability issue$
+1253507822$12535078$Product dose omission issue$
+1253507822$12535078$Insomnia$
+1253507822$12535078$Hypersensitivity$
+1253507822$12535078$Middle insomnia$
+1253507822$12535078$Nasopharyngitis$
+1253507822$12535078$Drug ineffective$
+1253507822$12535078$Chronic obstructive pulmonary disease$
+1253507822$12535078$Pyrexia$
+1253507822$12535078$Blood pressure increased$
+1253507822$12535078$Headache$
+1253507822$12535078$Productive cough$
+1253507822$12535078$Viral infection$
+1253507822$12535078$Rhonchi$
+125384105$12538410$Drug interaction$
+125384105$12538410$Electrocardiogram QT prolonged$
+125616702$12561670$Infusion site extravasation$
+125616702$12561670$Infusion site swelling$
+125616702$12561670$Infusion site pain$
+125672764$12567276$Withdrawal syndrome$
+125672764$12567276$Dysphagia$
+125672764$12567276$Off label use$
+125710544$12571054$Pulmonary granuloma$
+125710544$12571054$Disseminated tuberculosis$
+125710544$12571054$Headache$
+125710544$12571054$Confusional state$
+125710544$12571054$Pneumonia$
+125710544$12571054$Pulmonary alveolar haemorrhage$
+125710544$12571054$Lung infiltration$
+125710544$12571054$Sepsis$
+125710544$12571054$Cough$
+125710922$12571092$Abdominal pain$
+125710922$12571092$Peritoneal tuberculosis$
+125710922$12571092$Tuberculosis sepsis$
+125710922$12571092$Granuloma$
+125710922$12571092$Large intestine perforation$
+125710922$12571092$Coma$
+125710922$12571092$Pyrexia$
+125710922$12571092$Lung infiltration$
+125710922$12571092$Skin mass$
+125710922$12571092$Pneumoperitoneum$
+125710922$12571092$Disseminated tuberculosis$
+125710922$12571092$Cutaneous vasculitis$
+125710922$12571092$Brain herniation$
+125710922$12571092$Vasculitis gastrointestinal$
+125710922$12571092$Papilloedema$
+125710922$12571092$Necrosis$
+125710922$12571092$Pulmonary tuberculosis$
+125711122$12571112$Pyrexia$
+125711122$12571112$Abdominal pain$
+125711122$12571112$Cough$
+125711122$12571112$Disseminated tuberculosis$
+125711122$12571112$Lymphadenopathy$
+125711122$12571112$Respiratory failure$
+125711122$12571112$Stupor$
+125711122$12571112$Dyspnoea$
+125711122$12571112$Somnolence$
+125711122$12571112$Productive cough$
+125756119$12575611$Pyrexia$
+125756119$12575611$Inappropriate schedule of product administration$
+125756119$12575611$Pneumonia$
+125756119$12575611$Off label use$
+125756119$12575611$Hepatotoxicity$
+125756119$12575611$Hepatitis B$
+125756119$12575611$Platelet count decreased$
+125756119$12575611$Bone pain$
+1258700630$12587006$Urticaria$
+1258700630$12587006$Insomnia$
+1258700630$12587006$Respiratory tract congestion$
+1258700630$12587006$Abdominal pain upper$
+1258700630$12587006$Cellulitis$
+1258700630$12587006$Pyrexia$
+1258700630$12587006$Urticaria$
+1258700630$12587006$Blood pressure increased$
+1258700630$12587006$Hypoaesthesia$
+1258700630$12587006$Arthralgia$
+1258700630$12587006$Pain$
+1258700630$12587006$Wrong technique in product usage process$
+1258700630$12587006$Erythema$
+1258700630$12587006$Aphonia$
+1258700630$12587006$Myalgia$
+1258700630$12587006$Respiratory syncytial virus infection$
+1258700630$12587006$Pneumonia$
+1258700630$12587006$Fatigue$
+1258700630$12587006$Multiple fractures$
+1258700630$12587006$Sputum discoloured$
+1258700630$12587006$Oropharyngeal pain$
+1258700630$12587006$Diarrhoea$
+1258700630$12587006$Plasma cell myeloma$
+1258700630$12587006$Illness$
+1258700630$12587006$Cardiomegaly$
+1258700630$12587006$Urinary tract infection$
+1258700630$12587006$Eczema$
+1258700630$12587006$Fall$
+1258700630$12587006$Productive cough$
+1258700630$12587006$Bronchitis$
+1258700630$12587006$Pain in extremity$
+1258700630$12587006$Joint dislocation$
+1258700630$12587006$Thrombosis$
+1258700630$12587006$Pruritus$
+1258700630$12587006$Drug hypersensitivity$
+1258700630$12587006$Cough$
+1258700630$12587006$Secretion discharge$
+1258700630$12587006$Thrombophlebitis$
+1258700630$12587006$Dysphonia$
+1258700630$12587006$Dyspnoea exertional$
+1258700630$12587006$Traumatic pain$
+1258700630$12587006$Angina unstable$
+1258700630$12587006$Shoulder fracture$
+1258700630$12587006$Phlebitis$
+125999406$12599940$Accidental exposure to product$
+125999406$12599940$Bradycardia$
+126199546$12619954$Rash$
+126199546$12619954$Myalgia$
+126199546$12619954$Flatulence$
+126199546$12619954$Oxygen saturation decreased$
+126199546$12619954$Rectal ulcer haemorrhage$
+126199546$12619954$Sinusitis$
+126199546$12619954$Abdominal distension$
+126199546$12619954$Weight decreased$
+126199546$12619954$Colitis ulcerative$
+126199546$12619954$Asthenia$
+126199546$12619954$Pain in extremity$
+126199546$12619954$Arthralgia$
+126199546$12619954$Malaise$
+126199546$12619954$Hypophagia$
+126199546$12619954$Blood pressure increased$
+126199546$12619954$Nasal congestion$
+126199546$12619954$Muscle spasms$
+126199546$12619954$Drug ineffective$
+126199546$12619954$Anaemia$
+126199546$12619954$Chills$
+126199546$12619954$Fatigue$
+126199546$12619954$Urinary incontinence$
+126199546$12619954$Headache$
+1262614711$12626147$Progressive multifocal leukoencephalopathy$
+1262614711$12626147$Immune reconstitution inflammatory syndrome$
+126266233$12626623$Electrocardiogram abnormal$
+126293245$12629324$Ventricular fibrillation$
+126293245$12629324$Torsade de pointes$
+126293245$12629324$Cardiac arrest$
+126293245$12629324$Drug interaction$
+126293245$12629324$Electrocardiogram QT prolonged$
+126299712$12629971$Cholangitis sclerosing$
+126299712$12629971$Liver function test increased$
+126299712$12629971$Hepatic infection$
+126299712$12629971$Inguinal hernia$
+126404133$12640413$Inappropriate antidiuretic hormone secretion$
+126404133$12640413$Thoracic vertebral fracture$
+126421284$12642128$Polyomavirus-associated nephropathy$
+126421284$12642128$Viraemia$
+126421284$12642128$Arteriosclerosis$
+126421284$12642128$Tubulointerstitial nephritis$
+126421284$12642128$Renal tubular necrosis$
+126421284$12642128$Delayed graft function$
+126421284$12642128$BK virus infection$
+126421284$12642128$Glomerular filtration rate decreased$
+126421284$12642128$Basal cell carcinoma$
+126421284$12642128$Pneumonia bacterial$
+126421284$12642128$Kidney transplant rejection$
+126442093$12644209$Abdominal pain upper$
+126442093$12644209$Scan abdomen abnormal$
+126442093$12644209$Drug interaction$
+126442093$12644209$Gastrointestinal perforation$
+126442093$12644209$Dehydration$
+126442093$12644209$Pneumoperitoneum$
+126442093$12644209$Renal failure$
+126442093$12644209$Abdominal distension$
+126442093$12644209$Vomiting$
+126442093$12644209$Pyrexia$
+126442093$12644209$Diarrhoea$
+126598652$12659865$Sleep apnoea syndrome$
+126598652$12659865$Hereditary angioedema$
+1266682840$12666828$Constipation$
+1266682840$12666828$Multiple drug therapy$
+1266682840$12666828$Creatinine renal clearance increased$
+1266682840$12666828$Mobility decreased$
+1266682840$12666828$Blood calcium decreased$
+1266682840$12666828$Product use in unapproved indication$
+1266682840$12666828$Drug interaction$
+1266682840$12666828$Off label use$
+1266682840$12666828$Balance disorder$
+1266682840$12666828$Orthostatic hypotension$
+1266682840$12666828$Sedation$
+1266682840$12666828$Pain$
+1266682840$12666828$Dyspnoea$
+1266682840$12666828$Creatinine renal clearance decreased$
+1266682840$12666828$Depressed level of consciousness$
+1266682840$12666828$Toxicity to various agents$
+1266682840$12666828$Hypotension$
+1266682840$12666828$Drug abuse$
+1266682840$12666828$Renal function test abnormal$
+1266682840$12666828$Fall$
+1266682840$12666828$Cognitive disorder$
+1266682840$12666828$Overdose$
+1266682840$12666828$Sedation complication$
+126711763$12671176$Hypotension$
+126711763$12671176$Mental status changes$
+126711763$12671176$Overdose$
+126711763$12671176$Bundle branch block right$
+126711763$12671176$Toxicity to various agents$
+126711763$12671176$Tachycardia$
+126711763$12671176$Electrocardiogram QT prolonged$
+126711763$12671176$Dizziness$
+126711763$12671176$Nausea$
+126711763$12671176$Electrocardiogram PR prolongation$
+126711763$12671176$Acute kidney injury$
+126711763$12671176$Lethargy$
+1268050510$12680505$Headache$
+1268050510$12680505$Blood bilirubin increased$
+1268050510$12680505$Platelet count increased$
+1268050510$12680505$Insomnia$
+1268050510$12680505$Ill-defined disorder$
+1268050510$12680505$Alopecia$
+1268050510$12680505$Haemorrhage$
+1268050510$12680505$Gastritis$
+1268050510$12680505$Movement disorder$
+1268050510$12680505$Discomfort$
+1268050510$12680505$Rash$
+1268050510$12680505$Pruritus$
+1268050510$12680505$Transaminases increased$
+1268050510$12680505$Dry skin$
+1268050510$12680505$Chronic myeloid leukaemia recurrent$
+1268050510$12680505$Jaundice$
+1268050510$12680505$Fatigue$
+1268050510$12680505$Nausea$
+1268050510$12680505$Liver disorder$
+1268050510$12680505$Inappropriate schedule of product administration$
+1268050510$12680505$Chronic myeloid leukaemia$
+1268050510$12680505$Abdominal pain upper$
+1268050510$12680505$Drug-induced liver injury$
+1268050510$12680505$Pain in extremity$
+1268050510$12680505$Liver function test abnormal$
+1268050510$12680505$Hepatic pain$
+1268050510$12680505$Chest pain$
+1268050510$12680505$Toxicity to various agents$
+1268050510$12680505$White blood cell count increased$
+1268050510$12680505$Erythema$
+126912983$12691298$Rash maculo-papular$
+126912983$12691298$Drug ineffective$
+126912983$12691298$Therapeutic response decreased$
+126912983$12691298$Abdominal pain$
+126912983$12691298$Condition aggravated$
+126912983$12691298$Diarrhoea$
+126912983$12691298$Mucosal inflammation$
+126912983$12691298$Acute graft versus host disease$
+126923974$12692397$General physical health deterioration$
+126923974$12692397$Diarrhoea$
+126923974$12692397$Product use in unapproved indication$
+126923974$12692397$Abdominal pain$
+126923974$12692397$Pancytopenia$
+126923974$12692397$Acute graft versus host disease in intestine$
+126923974$12692397$Drug ineffective$
+1269688717$12696887$Gait disturbance$
+1269688717$12696887$Rheumatoid arthritis$
+1269688717$12696887$Pericarditis$
+1269688717$12696887$Therapeutic product effect decreased$
+1269688717$12696887$Grip strength decreased$
+1269688717$12696887$Treatment failure$
+1269688717$12696887$Type 2 diabetes mellitus$
+1269688717$12696887$Abdominal discomfort$
+1269688717$12696887$Headache$
+1269688717$12696887$Nail disorder$
+1269688717$12696887$General physical health deterioration$
+1269688717$12696887$Fatigue$
+1269688717$12696887$Musculoskeletal stiffness$
+1269688717$12696887$Rheumatic fever$
+1269688717$12696887$Systemic lupus erythematosus$
+1269688717$12696887$Contraindicated product administered$
+1269688717$12696887$Joint swelling$
+1269688717$12696887$Blood cholesterol increased$
+1269688717$12696887$Swollen joint count increased$
+1269688717$12696887$Condition aggravated$
+1269688717$12696887$Swelling$
+1269688717$12696887$Movement disorder$
+1269688717$12696887$Coeliac disease$
+1269688717$12696887$Product use issue$
+1269688717$12696887$Arthropathy$
+1269688717$12696887$Onychomadesis$
+1269688717$12696887$Drug ineffective$
+1269688717$12696887$Hypertension$
+1269688717$12696887$Hypersensitivity$
+1269688717$12696887$Maternal exposure during pregnancy$
+1269688717$12696887$Onychomycosis$
+1269688717$12696887$Synovitis$
+1269688717$12696887$Arthralgia$
+1269688717$12696887$Loss of personal independence in daily activities$
+1269688717$12696887$Pemphigus$
+1269688717$12696887$Pain$
+1269688717$12696887$Off label use$
+1269688717$12696887$Alopecia$
+1269688717$12696887$Exposure during pregnancy$
+127069103$12706910$General physical health deterioration$
+127069103$12706910$Acute graft versus host disease in intestine$
+127069103$12706910$Product use in unapproved indication$
+127069103$12706910$Pancytopenia$
+127069103$12706910$Drug ineffective$
+127103123$12710312$Neutropenic infection$
+127103123$12710312$Subdural haematoma$
+127103123$12710312$Pulmonary toxicity$
+127103123$12710312$Rash$
+127103123$12710312$Pancytopenia$
+127103123$12710312$Epiploic appendagitis$
+127103123$12710312$Sepsis$
+127103123$12710312$Malignant neoplasm progression$
+127103123$12710312$Renal impairment$
+127103123$12710312$Renal failure$
+127103123$12710312$Colitis$
+127103123$12710312$Arteritis$
+127103123$12710312$Pleural effusion$
+127103123$12710312$Acute lymphocytic leukaemia$
+127103123$12710312$Pyrexia$
+127141496$12714149$Somnolence$
+127141496$12714149$Illness$
+127141496$12714149$Treatment noncompliance$
+127141496$12714149$Eating disorder$
+127141496$12714149$Head discomfort$
+127141496$12714149$Cough$
+127141496$12714149$Nasopharyngitis$
+127141496$12714149$Muscle spasms$
+127141496$12714149$Migraine$
+127141496$12714149$Sjogren's syndrome$
+127141496$12714149$Feeling abnormal$
+127141496$12714149$Nausea$
+127202685$12720268$Acute kidney injury$
+127202685$12720268$Abdominal pain$
+127202685$12720268$Gastroenteritis cryptosporidial$
+127202685$12720268$Cryptosporidiosis infection$
+127202685$12720268$Weight decreased$
+127202685$12720268$Glomerular filtration rate decreased$
+127245343$12724534$Acute kidney injury$
+127245343$12724534$Cryptosporidiosis infection$
+127262574$12726257$Hyperkalaemia$
+127595762$12759576$Drug effect less than expected$
+127595762$12759576$Patella fracture$
+127851772$12785177$Surgery$
+127851772$12785177$Unevaluable event$
+127851772$12785177$Spinal operation$
+127901383$12790138$Intervertebral disc protrusion$
+127901383$12790138$Dizziness$
+127901383$12790138$Splenic artery aneurysm$
+127916203$12791620$Drug ineffective$
+127920422$12792042$Injury$
+127929742$12792974$Obesity$
+127929742$12792974$Off label use$
+127929742$12792974$Increased appetite$
+127972685$12797268$Pallor$
+127972685$12797268$Brain injury$
+127972685$12797268$Myoclonic epilepsy$
+128004556$12800455$Somnolence$
+128004556$12800455$Memory impairment$
+128004556$12800455$Cerebrovascular accident$
+128004556$12800455$Cognitive disorder$
+128004556$12800455$Condition aggravated$
+128004556$12800455$Impaired driving ability$
+128039514$12803951$Klebsiella infection$
+128059685$12805968$Pain$
+128059685$12805968$Product prescribing error$
+1281266214$12812662$Corynebacterium infection$
+1281266214$12812662$Drug ineffective$
+1281266214$12812662$Multiple-drug resistance$
+1281266214$12812662$Sepsis$
+128235617$12823561$Depressed level of consciousness$
+128235617$12823561$Partial seizures$
+128235617$12823561$Pneumonia$
+128235617$12823561$Pyrexia$
+128235617$12823561$Pseudomonas aeruginosa meningitis$
+128235617$12823561$Cerebral haemorrhage$
+1282456428$12824564$Treatment failure$
+1282456428$12824564$Pain$
+1282456428$12824564$Rheumatoid arthritis$
+1282456428$12824564$Fall$
+1282456428$12824564$Grip strength decreased$
+1282456428$12824564$Condition aggravated$
+1282456428$12824564$Contusion$
+1282456428$12824564$Illness$
+1282456428$12824564$Loss of personal independence in daily activities$
+1282456428$12824564$Fatigue$
+1282456428$12824564$Rotator cuff repair$
+1282456428$12824564$Malaise$
+1282456428$12824564$Joint swelling$
+1282456428$12824564$Spinal stenosis$
+1282456428$12824564$Osteoarthritis$
+1282456428$12824564$Tenderness$
+128358903$12835890$Decreased appetite$
+128358903$12835890$Psychomotor hyperactivity$
+128358903$12835890$Delusion$
+128358903$12835890$Major depression$
+128358903$12835890$Depressed mood$
+128358903$12835890$Off label use$
+128358912$12835891$Dysarthria$
+128358912$12835891$Sedation complication$
+128358912$12835891$Abnormal behaviour$
+128358912$12835891$Mental impairment$
+128403992$12840399$Neutropenia$
+128403992$12840399$West Nile viral infection$
+128404112$12840411$Klebsiella infection$
+128501894$12850189$Central serous chorioretinopathy$
+128532338$12853233$Vision blurred$
+128532338$12853233$Neuropathy peripheral$
+128532338$12853233$Headache$
+128532338$12853233$Product dose omission issue$
+128532338$12853233$Road traffic accident$
+128532338$12853233$Viral infection$
+128532338$12853233$Blood glucose increased$
+128565656$12856565$Agitated depression$
+128565656$12856565$Mobility decreased$
+128565656$12856565$Dysstasia$
+128565656$12856565$Visual impairment$
+128565656$12856565$Paraesthesia$
+128565656$12856565$Psychomotor hyperactivity$
+128565656$12856565$Tremor$
+128565656$12856565$Hyperreflexia$
+128565656$12856565$Adjustment disorder with anxiety$
+128565656$12856565$Fatigue$
+128565656$12856565$Asthenia$
+128565656$12856565$Gait disturbance$
+128565656$12856565$Sensory disturbance$
+128565656$12856565$Dysmetria$
+128565656$12856565$Iron deficiency$
+128565656$12856565$Paresis$
+128565656$12856565$Upper motor neurone lesion$
+128565656$12856565$Hypoaesthesia$
+128565656$12856565$Muscular weakness$
+128565656$12856565$Myasthenia gravis$
+128565656$12856565$Clonus$
+128565656$12856565$Ataxia$
+128574332$12857433$Seizure$
+128574332$12857433$Hyponatraemia$
+128574332$12857433$Polydipsia$
+128574343$12857434$Asthenia$
+128574343$12857434$Off label use$
+128574343$12857434$Fatigue$
+128574343$12857434$Torticollis$
+128574343$12857434$Eyelid ptosis$
+128642474$12864247$Injection site reaction$
+128642474$12864247$Erythema multiforme$
+128650623$12865062$Liver function test increased$
+128650623$12865062$Oesophageal ulcer$
+128650623$12865062$Dysphagia$
+128650623$12865062$Oesophageal stenosis$
+128650623$12865062$Therapy partial responder$
+128650623$12865062$Oesophagitis$
+128650623$12865062$Oesophageal stenosis$
+128650623$12865062$Oral candidiasis$
+128650623$12865062$Oesophageal ulcer haemorrhage$
+128711123$12871112$Dystonia$
+128711123$12871112$Drug interaction$
+128724082$12872408$Overdose$
+128724082$12872408$Drug abuse$
+128724082$12872408$Drug dependence$
+128724082$12872408$Counterfeit product administered$
+128818222$12881822$Overweight$
+128818222$12881822$Gynaecomastia$
+128884542$12888454$Penicillium infection$
+128894084$12889408$Multiple sclerosis relapse$
+128894084$12889408$Uterine cancer$
+1289523324$12895233$Hypotension$
+1289523324$12895233$Nausea$
+1289523324$12895233$Drug ineffective$
+129007609$12900760$Quality of life decreased$
+129007609$12900760$Duodenal ulcer perforation$
+129007609$12900760$Erythema$
+129007609$12900760$Peripheral swelling$
+129007609$12900760$Hand deformity$
+129007609$12900760$Musculoskeletal pain$
+129007609$12900760$Fibromyalgia$
+129007609$12900760$Synovial cyst$
+129007609$12900760$Crepitations$
+129007609$12900760$Rheumatoid arthritis$
+129007609$12900760$Thrombosis$
+129007609$12900760$Wheezing$
+129007609$12900760$Eye pain$
+129007609$12900760$Swelling$
+129007609$12900760$Pain$
+129007609$12900760$Gastrointestinal toxicity$
+129007609$12900760$Musculoskeletal stiffness$
+129007609$12900760$Feeling jittery$
+129007609$12900760$Therapy non-responder$
+129007609$12900760$Contraindicated product administered$
+129007609$12900760$Dry eye$
+129007609$12900760$Sinusitis$
+129007609$12900760$Pulmonary toxicity$
+129007609$12900760$Muscular weakness$
+129007609$12900760$Upper respiratory tract infection$
+129007609$12900760$Eye pain$
+129007609$12900760$Pain in extremity$
+129007609$12900760$Lung disorder$
+129007609$12900760$Pruritus$
+129007609$12900760$Arthralgia$
+129007609$12900760$Atelectasis$
+129007609$12900760$Hepatotoxicity$
+129007609$12900760$Impaired work ability$
+129007609$12900760$Erythema$
+129007609$12900760$Neoplasm malignant$
+129007609$12900760$Rheumatoid arthritis$
+129007609$12900760$Folliculitis$
+129007609$12900760$Impaired healing$
+129007609$12900760$Sciatica$
+129007609$12900760$Synovial cyst$
+129007609$12900760$Therapeutic product effect decreased$
+129007609$12900760$Joint effusion$
+129007609$12900760$Systemic lupus erythematosus$
+129007609$12900760$Infusion related reaction$
+129007609$12900760$Therapeutic product effect incomplete$
+129007609$12900760$Fatigue$
+129007609$12900760$Tenosynovitis stenosans$
+129007609$12900760$Off label use$
+129007609$12900760$Flank pain$
+129007609$12900760$Hepatic enzyme decreased$
+129007609$12900760$Impaired work ability$
+129007609$12900760$Red blood cell count decreased$
+129007609$12900760$Conjunctivitis$
+129007609$12900760$Dry mouth$
+129007609$12900760$Swelling face$
+129007609$12900760$Joint swelling$
+129007609$12900760$Musculoskeletal stiffness$
+129007609$12900760$Tenderness$
+129007609$12900760$Treatment failure$
+129007609$12900760$General physical health deterioration$
+129007609$12900760$Feeling jittery$
+129007609$12900760$Peripheral swelling$
+129007609$12900760$Interstitial lung disease$
+129007609$12900760$Arthropathy$
+129007609$12900760$Liver disorder$
+129007609$12900760$White blood cell count decreased$
+129007609$12900760$Haemoglobin decreased$
+129007609$12900760$Feeling abnormal$
+129007609$12900760$Back pain$
+129007609$12900760$Tenosynovitis$
+129007609$12900760$Road traffic accident$
+129007609$12900760$Pneumonia$
+129007609$12900760$Scleritis$
+129007609$12900760$Pyrexia$
+129007609$12900760$Rash$
+129007609$12900760$Joint stiffness$
+129007609$12900760$Skin ulcer$
+129007609$12900760$Rheumatoid nodule$
+129007609$12900760$Joint range of motion decreased$
+129007609$12900760$Glossodynia$
+129007609$12900760$Nausea$
+129007609$12900760$Hypertension$
+129007609$12900760$Visual impairment$
+129007609$12900760$Infection$
+129007609$12900760$Type 2 diabetes mellitus$
+129007609$12900760$Ulcer$
+129007609$12900760$Bursitis$
+129007609$12900760$Arthralgia$
+129007609$12900760$Fibromyalgia$
+129007609$12900760$Bone density decreased$
+129007609$12900760$Red blood cell sedimentation rate decreased$
+129007609$12900760$Photophobia$
+129007609$12900760$Myalgia$
+129007609$12900760$Eye irritation$
+129007609$12900760$Visual impairment$
+129007609$12900760$Nodule$
+129007609$12900760$Arthralgia$
+129007609$12900760$Rash maculo-papular$
+129007609$12900760$Arthralgia$
+129007609$12900760$Antinuclear antibody positive$
+129007609$12900760$Joint swelling$
+129007609$12900760$Crepitations$
+129007609$12900760$Antinuclear antibody positive$
+129007609$12900760$Synovial fluid analysis$
+129007609$12900760$Ocular hyperaemia$
+129007609$12900760$Helicobacter infection$
+129007609$12900760$Deformity$
+129007609$12900760$Rheumatoid arthritis$
+129007609$12900760$Swelling face$
+129007609$12900760$Neoplasm malignant$
+129007609$12900760$Pain in extremity$
+129007609$12900760$Drug hypersensitivity$
+129007609$12900760$Inflammation$
+129007609$12900760$Lung disorder$
+129007609$12900760$Condition aggravated$
+129007609$12900760$Rash maculo-papular$
+129007609$12900760$Abdominal pain$
+129007609$12900760$Malaise$
+129007609$12900760$Medication error$
+129007609$12900760$Haemoglobin increased$
+129007609$12900760$Dizziness$
+129007609$12900760$Synovial fluid analysis$
+129007609$12900760$Cushingoid$
+129007609$12900760$Drug ineffective$
+129007609$12900760$Therapeutic product effect decreased$
+129007609$12900760$Fibromyalgia$
+129007609$12900760$Pain in extremity$
+129007609$12900760$Dyspnoea$
+129007609$12900760$Thrombosis$
+129007609$12900760$Pleuritic pain$
+129007609$12900760$Joint injury$
+129007609$12900760$Malaise$
+129007609$12900760$Synovial disorder$
+129007609$12900760$Rash pruritic$
+129007609$12900760$C-reactive protein increased$
+129007609$12900760$Diarrhoea$
+129007609$12900760$Erythema$
+129007609$12900760$Dyspnoea$
+129007609$12900760$Abdominal pain$
+129007609$12900760$Sleep disorder$
+129007609$12900760$Swelling face$
+129007609$12900760$Arthralgia$
+129007609$12900760$Weight decreased$
+129007609$12900760$Tenosynovitis stenosans$
+129007609$12900760$Facet joint syndrome$
+129007609$12900760$Pain in extremity$
+129007609$12900760$Tenderness$
+129007609$12900760$Musculoskeletal stiffness$
+129007609$12900760$Arthritis$
+129007609$12900760$Pain$
+129007609$12900760$Arthralgia$
+129007609$12900760$Arthralgia$
+129007609$12900760$Hypoaesthesia$
+129007609$12900760$Pain in extremity$
+129007609$12900760$Ocular hyperaemia$
+129007609$12900760$Eye irritation$
+129007609$12900760$Drug intolerance$
+129007609$12900760$Allergy to chemicals$
+129007609$12900760$Muscular weakness$
+129007609$12900760$Bursitis$
+1290979210$12909792$Pyrexia$
+1290979210$12909792$Lung infiltration$
+1290979210$12909792$Pneumonia$
+1290979210$12909792$Pneumonitis$
+1290979210$12909792$Dyspnoea exertional$
+1290979210$12909792$Malignant neoplasm progression$
+1290979210$12909792$Hidradenitis$
+1290979210$12909792$Subcutaneous abscess$
+1290979210$12909792$Perineal abscess$
+1290979210$12909792$Haemorrhage intracranial$
+1290979210$12909792$Metastatic malignant melanoma$
+1291101529$12911015$Mental disorder$
+1291101529$12911015$Insomnia$
+1291101529$12911015$Suicidal ideation$
+1291101529$12911015$Skin wrinkling$
+1291101529$12911015$Therapeutic response unexpected$
+1291101529$12911015$Drug ineffective$
+1291101529$12911015$Feeling abnormal$
+1291101529$12911015$Attention deficit hyperactivity disorder$
+1291101529$12911015$Amnesia$
+1291101529$12911015$Nervousness$
+1291101529$12911015$Confusional state$
+1291101529$12911015$Hypoacusis$
+1291101529$12911015$Migraine$
+1291101529$12911015$Malaise$
+1291101529$12911015$Feeling hot$
+1291101529$12911015$Night sweats$
+1291101529$12911015$Bone disorder$
+1291101529$12911015$Intentional product misuse$
+1291101529$12911015$Arthralgia$
+1291101529$12911015$Osteosclerosis$
+1291101529$12911015$Memory impairment$
+1291101529$12911015$Dizziness$
+1291101529$12911015$Fall$
+1291101529$12911015$Headache$
+1291101529$12911015$Cardiac disorder$
+1291335240$12913352$Rash pruritic$
+1291335240$12913352$Condition aggravated$
+1291335240$12913352$Treatment failure$
+1291335240$12913352$Pain$
+1291335240$12913352$Peripheral swelling$
+1291335240$12913352$Nausea$
+1291335240$12913352$Rheumatoid nodule$
+1291335240$12913352$Musculoskeletal stiffness$
+1291335240$12913352$Alanine aminotransferase increased$
+1291335240$12913352$Gastrointestinal disorder$
+1291335240$12913352$Ulcer$
+1291335240$12913352$Aspartate aminotransferase increased$
+1291335240$12913352$Pruritus$
+1291335240$12913352$Headache$
+1291335240$12913352$Arthritis$
+1291335240$12913352$Alopecia$
+1291335240$12913352$Off label use$
+1291335240$12913352$C-reactive protein abnormal$
+1291335240$12913352$Red blood cell sedimentation rate increased$
+1291335240$12913352$Arthralgia$
+1291335240$12913352$Hypercalcaemia$
+1291335240$12913352$Inflammation$
+1291335240$12913352$Hypersensitivity$
+1291335240$12913352$Breath sounds abnormal$
+1291335240$12913352$Pneumonia$
+1291335240$12913352$Panniculitis$
+1291335240$12913352$Rheumatoid arthritis$
+1291335240$12913352$C-reactive protein increased$
+1291335240$12913352$Drug ineffective$
+1291335240$12913352$Pulmonary fibrosis$
+1291335240$12913352$Drug intolerance$
+1291335240$12913352$Synovitis$
+1291335240$12913352$Product use issue$
+1291335240$12913352$Hepatitis$
+1291335240$12913352$Fatigue$
+1291335240$12913352$Joint swelling$
+1291335240$12913352$Basal cell carcinoma$
+1291335240$12913352$Rash$
+1291335240$12913352$Vomiting$
+1291335240$12913352$Therapeutic product effect decreased$
+1291335240$12913352$Hepatic enzyme increased$
+1291335240$12913352$Loss of personal independence in daily activities$
+1291335240$12913352$Drug tolerance$
+1291335240$12913352$Abdominal pain$
+1291335240$12913352$Erythema$
+1291335240$12913352$Infusion related reaction$
+1291335240$12913352$Skin necrosis$
+1291335240$12913352$Drug hypersensitivity$
+1291335240$12913352$Deafness$
+1291335240$12913352$Dermatitis$
+1291335240$12913352$Hypertension$
+1291335240$12913352$Skin ulcer$
+1291335240$12913352$Drug eruption$
+1291335240$12913352$Insomnia$
+1291335240$12913352$Neoplasm skin$
+1291335240$12913352$Blood parathyroid hormone decreased$
+1291335240$12913352$Granuloma skin$
+1291335240$12913352$Drug tolerance decreased$
+1291335240$12913352$Therapeutic response decreased$
+1291335240$12913352$Rheumatoid factor positive$
+1291335240$12913352$Therapeutic product effect incomplete$
+1291335240$12913352$Arthropathy$
+1291335240$12913352$Adverse event$
+129217172$12921717$Drug ineffective$
+129337634$12933763$Arthritis$
+129337634$12933763$Dyspepsia$
+129337634$12933763$Sinus congestion$
+129337634$12933763$Headache$
+129337634$12933763$Diarrhoea$
+129337634$12933763$Epistaxis$
+129337634$12933763$Dysgeusia$
+129337634$12933763$Synovitis$
+129337634$12933763$Drug ineffective$
+129337634$12933763$Urinary tract infection$
+129337634$12933763$Blood pressure increased$
+129337634$12933763$Sinusitis$
+1293419715$12934197$Type 2 diabetes mellitus$
+1293419715$12934197$Lyme disease$
+1293419715$12934197$Drug ineffective$
+1293419715$12934197$Pericarditis$
+1293419715$12934197$Pemphigus$
+1293419715$12934197$Lower respiratory tract infection$
+1293419715$12934197$Therapeutic product effect incomplete$
+1293419715$12934197$Liver injury$
+1293419715$12934197$Duodenal ulcer perforation$
+1293419715$12934197$Systemic lupus erythematosus$
+1293419715$12934197$Lupus vulgaris$
+1293419715$12934197$Rheumatic fever$
+1294587418$12945874$Ulcer haemorrhage$
+1294587418$12945874$Fatigue$
+1294587418$12945874$Abdominal pain$
+1294587418$12945874$Red blood cell sedimentation rate increased$
+1294587418$12945874$Drug hypersensitivity$
+1294587418$12945874$Platelet count increased$
+1294587418$12945874$Duodenal ulcer perforation$
+1294587418$12945874$Lower respiratory tract infection$
+1294587418$12945874$Pericarditis$
+1294587418$12945874$Staphylococcal infection$
+1294587418$12945874$Nausea$
+1294587418$12945874$Rheumatic fever$
+1294587418$12945874$Malaise$
+1294587418$12945874$Pemphigus$
+1294587418$12945874$Drug intolerance$
+1294587418$12945874$Iron deficiency$
+1294587418$12945874$Alopecia$
+1294587418$12945874$Liver injury$
+1294587418$12945874$Lyme disease$
+1294587418$12945874$Secretion discharge$
+1294587418$12945874$Infection$
+1294587418$12945874$Pain in extremity$
+1294587418$12945874$Hypertension$
+1294587418$12945874$Wound$
+1294587418$12945874$Vomiting$
+1294587418$12945874$Systemic lupus erythematosus$
+1294587418$12945874$Lupus vulgaris$
+1294587418$12945874$Helicobacter infection$
+1294587418$12945874$Dizziness$
+1294587418$12945874$Therapeutic product effect incomplete$
+1294587418$12945874$Drug ineffective$
+1294587418$12945874$Dyspnoea$
+1294587418$12945874$Type 2 diabetes mellitus$
+1294587418$12945874$International normalised ratio fluctuation$
+1294587418$12945874$Bloody discharge$
+1294587418$12945874$Irritable bowel syndrome$
+1294587418$12945874$Hypoaesthesia$
+129460769$12946076$Varicose veins vaginal$
+129460769$12946076$Dyspnoea$
+129460769$12946076$Expired product administered$
+129460769$12946076$Pre-existing condition improved$
+129460769$12946076$Hyperhidrosis$
+129460769$12946076$Therapeutic response unexpected$
+129460769$12946076$Hypertension$
+129460769$12946076$Drug withdrawal syndrome$
+129460769$12946076$Pruritus$
+129460769$12946076$Drug ineffective$
+129460769$12946076$Bronchitis$
+129460769$12946076$Nausea$
+129460769$12946076$Panic reaction$
+129460769$12946076$Dehydration$
+129460769$12946076$Anxiety$
+129460769$12946076$Headache$
+129460769$12946076$Gastrointestinal pain$
+129460769$12946076$Weight decreased$
+129460769$12946076$Pneumonia$
+129460769$12946076$Choking$
+1294645016$12946450$Dysgeusia$
+1294645016$12946450$Body temperature decreased$
+1294645016$12946450$Nasopharyngitis$
+1294645016$12946450$Heart rate increased$
+1294645016$12946450$Ear infection$
+1294645016$12946450$Erythema$
+1294645016$12946450$Ligament rupture$
+1294645016$12946450$Aphonia$
+1294645016$12946450$Contusion$
+1294645016$12946450$Oropharyngeal pain$
+1294645016$12946450$Wrong technique in product usage process$
+1294645016$12946450$Weight decreased$
+1294645016$12946450$Pain in extremity$
+1294645016$12946450$Pain$
+1294645016$12946450$Upper-airway cough syndrome$
+1294645016$12946450$Nasal congestion$
+1294645016$12946450$Asthenia$
+1294645016$12946450$Panic attack$
+1294645016$12946450$Multiple sclerosis$
+1294645016$12946450$Oedema peripheral$
+1294645016$12946450$Alopecia$
+1294645016$12946450$Dyspnoea$
+1294645016$12946450$Dry mouth$
+1294645016$12946450$Injection site discolouration$
+1294645016$12946450$Sinus disorder$
+1294645016$12946450$Muscular weakness$
+1294645016$12946450$Fall$
+1294645016$12946450$Gastrointestinal haemorrhage$
+1294645016$12946450$Headache$
+1294645016$12946450$Asthma$
+1294645016$12946450$Periarthritis$
+1294645016$12946450$Crying$
+1294645016$12946450$Psoriasis$
+1294645016$12946450$Cough$
+1294645016$12946450$Sleep disorder$
+129503502$12950350$Seizure$
+129503502$12950350$Motor dysfunction$
+129503502$12950350$Tongue biting$
+129503502$12950350$Somnolence$
+129503502$12950350$Depression$
+129503502$12950350$Urinary incontinence$
+129503502$12950350$Bradyphrenia$
+129503502$12950350$Syncope$
+1295161442$12951614$Erythema$
+1295161442$12951614$Glossodynia$
+1295161442$12951614$Deafness$
+1295161442$12951614$Oropharyngeal pain$
+1295161442$12951614$NSAID exacerbated respiratory disease$
+1295161442$12951614$Asthenia$
+1295161442$12951614$Dysphonia$
+1295161442$12951614$Ear discomfort$
+1295161442$12951614$Electric shock sensation$
+1295161442$12951614$Anosmia$
+1295161442$12951614$Asthma$
+1295161442$12951614$Polyp$
+1295161442$12951614$Respiratory tract congestion$
+1295161442$12951614$Pain$
+1295161442$12951614$Psoriasis$
+1295161442$12951614$Headache$
+1295161442$12951614$Noninfective myringitis$
+1295161442$12951614$General physical health deterioration$
+1295161442$12951614$Nasal congestion$
+1295161442$12951614$Eczema$
+1295161442$12951614$Ear infection$
+1295161442$12951614$Cataract$
+1295161442$12951614$Hyperthermia$
+1295161442$12951614$Fatigue$
+1295161442$12951614$Influenza$
+1295161442$12951614$Cough$
+1295161442$12951614$Rhinorrhoea$
+1295161442$12951614$Nasopharyngitis$
+1295161442$12951614$Otorrhoea$
+1295161442$12951614$Middle ear effusion$
+1295161442$12951614$Aphonia$
+1295161442$12951614$Tympanic membrane perforation$
+1295161442$12951614$Dyspnoea exertional$
+1295161442$12951614$Dyspnoea$
+1295161442$12951614$Chills$
+1295161442$12951614$Nasal polyps$
+1295161442$12951614$Illness$
+1295161442$12951614$Ear inflammation$
+1295161442$12951614$Gastroenteritis$
+1295161442$12951614$Drug hypersensitivity$
+1295161442$12951614$Productive cough$
+1295161442$12951614$Oral contusion$
+1295161442$12951614$Weight decreased$
+1295161442$12951614$Dizziness$
+1295161442$12951614$Nausea$
+1295161442$12951614$Feeling cold$
+1295161442$12951614$Sciatic nerve injury$
+129564465$12956446$Hypoaesthesia$
+129564465$12956446$Heart rate decreased$
+129564465$12956446$Night sweats$
+129564465$12956446$Diarrhoea$
+129564465$12956446$Product dose omission issue$
+129564465$12956446$Paraesthesia$
+129564465$12956446$Influenza like illness$
+129564465$12956446$Asthenia$
+129564465$12956446$Pain$
+1295814916$12958149$Pain in extremity$
+1295814916$12958149$Febrile neutropenia$
+1295814916$12958149$Paraesthesia$
+1295814916$12958149$Hypersensitivity$
+1295814916$12958149$Gastrooesophageal reflux disease$
+1295814916$12958149$Alopecia$
+1295814916$12958149$Febrile neutropenia$
+1295814916$12958149$Diarrhoea$
+1295814916$12958149$Alopecia$
+1295814916$12958149$Skin toxicity$
+1295814916$12958149$Nausea$
+1295814916$12958149$Petechiae$
+1295814916$12958149$Febrile neutropenia$
+1296129922$12961299$Product dose omission in error$
+1296129922$12961299$Blood glucose increased$
+1296129922$12961299$Blister$
+1296129922$12961299$Product dose omission issue$
+129631953$12963195$Drug intolerance$
+129631953$12963195$Cough$
+129631953$12963195$Throat tightness$
+129631953$12963195$Throat irritation$
+1296897414$12968974$Nasopharyngitis$
+1296897414$12968974$Rhinorrhoea$
+1296897414$12968974$Musculoskeletal stiffness$
+1296897414$12968974$Pulmonary thrombosis$
+1296897414$12968974$Therapeutic response unexpected$
+1296897414$12968974$Tooth extraction$
+129707453$12970745$Haemolysis$
+129707453$12970745$Anaemia$
+129707453$12970745$Epistaxis$
+129707453$12970745$Haemolytic uraemic syndrome$
+129707453$12970745$Renal impairment$
+129707453$12970745$Malaise$
+129839852$12983985$Death$
+129840423$12984042$Haemolytic uraemic syndrome$
+129882647$12988264$Erythema$
+129882647$12988264$Skin abrasion$
+129882647$12988264$Overdose$
+129882647$12988264$Scratch$
+129882647$12988264$Skin discolouration$
+129882647$12988264$Toxicity to various agents$
+129882647$12988264$Cutaneous vasculitis$
+129882647$12988264$Swelling face$
+129896273$12989627$Renal impairment$
+129896273$12989627$Drug interaction$
+129896273$12989627$Infective spondylitis$
+129896273$12989627$Disease progression$
+129927702$12992770$Thrombotic microangiopathy$
+129927702$12992770$Pneumonitis$
+129927702$12992770$Hypertension$
+129927702$12992770$Drug ineffective$
+129927702$12992770$Immune thrombocytopenia$
+129927702$12992770$Adenovirus infection$
+129927702$12992770$Gastroenteritis norovirus$
+129974204$12997420$Drug interaction$
+129974204$12997420$Tendon rupture$
+129974204$12997420$Fascial rupture$
+129974204$12997420$Iliotibial band syndrome$
+129974204$12997420$Pain$
+129974204$12997420$Tendon injury$
+129974204$12997420$Muscle rupture$
+130044367$13004436$Hypoventilation$
+130044367$13004436$Obstructive airways disorder$
+130044367$13004436$Wheezing$
+130044367$13004436$Lower respiratory tract infection$
+130044367$13004436$Forced expiratory volume decreased$
+130044367$13004436$Pyrexia$
+130044367$13004436$Cough$
+130044367$13004436$Forced expiratory flow decreased$
+130044367$13004436$Terminal insomnia$
+130044367$13004436$Nasopharyngitis$
+130044367$13004436$Illness$
+130044367$13004436$Forced vital capacity decreased$
+130044367$13004436$Asthma$
+130044367$13004436$Dyspnoea$
+130044367$13004436$Middle insomnia$
+130044367$13004436$COVID-19$
+130044367$13004436$Viral infection$
+130044367$13004436$Weight increased$
+1300991015$13009910$Arthralgia$
+1300991015$13009910$Rash$
+1300991015$13009910$Chronic myeloid leukaemia$
+1300991015$13009910$Neck mass$
+1300991015$13009910$Bipolar disorder$
+1300991015$13009910$Pallor$
+1300991015$13009910$Diarrhoea$
+1300991015$13009910$White blood cell count decreased$
+1300991015$13009910$Blood creatinine decreased$
+1300991015$13009910$Hypomania$
+1300991015$13009910$Haemoglobin decreased$
+1300991015$13009910$Aggression$
+1300991015$13009910$Platelet count abnormal$
+1300991015$13009910$Malignant neoplasm progression$
+1300991015$13009910$Bipolar disorder$
+1300991015$13009910$Infection$
+1300991015$13009910$Osteonecrosis$
+1300991015$13009910$Gait disturbance$
+1300991015$13009910$Laboratory test abnormal$
+130135633$13013563$Aggression$
+130135633$13013563$Product use issue$
+130135633$13013563$Hypercholesterolaemia$
+1302401147$13024011$Pain$
+1302401147$13024011$Kidney infection$
+1302401147$13024011$Dyspnoea exertional$
+1302401147$13024011$Constipation$
+1302401147$13024011$Weight fluctuation$
+1302401147$13024011$Eye swelling$
+1302401147$13024011$Amenorrhoea$
+1302401147$13024011$Cushingoid$
+1302401147$13024011$Peripheral swelling$
+1302401147$13024011$Arthralgia$
+1302401147$13024011$Migraine$
+1302401147$13024011$Pyrexia$
+1302401147$13024011$Haematocrit decreased$
+1302401147$13024011$Pyelonephritis$
+1302401147$13024011$Blood iron decreased$
+1302401147$13024011$Laryngitis$
+1302401147$13024011$Thyroid mass$
+1302401147$13024011$Proctalgia$
+1302401147$13024011$Inappropriate schedule of product administration$
+1302401147$13024011$Cellulitis staphylococcal$
+1302401147$13024011$Fatigue$
+1302401147$13024011$Loss of consciousness$
+1302401147$13024011$Depression$
+1302401147$13024011$Tachycardia$
+1302401147$13024011$Dysphonia$
+1302401147$13024011$Rectal prolapse$
+1302401147$13024011$Osteoarthritis$
+1302401147$13024011$Anal abscess$
+1302401147$13024011$Somnolence$
+1302401147$13024011$Drug hypersensitivity$
+1302401147$13024011$Dermatitis allergic$
+1302401147$13024011$Papilloma viral infection$
+1302401147$13024011$Muscle spasms$
+1302401147$13024011$Product dispensing error$
+1302401147$13024011$Hyporeflexia$
+1302401147$13024011$Product dose omission issue$
+1302401147$13024011$Pruritus$
+1302401147$13024011$Rectal haemorrhage$
+1302401147$13024011$Pyrexia$
+1302401147$13024011$Conjunctivitis$
+1302401147$13024011$Decreased appetite$
+1302401147$13024011$Disturbance in attention$
+1302401147$13024011$Anal fissure$
+1302401147$13024011$Increased tendency to bruise$
+1302401147$13024011$Fatigue$
+1302401147$13024011$Influenza$
+1302401147$13024011$Spleen atrophy$
+1302401147$13024011$Urticaria$
+1302401147$13024011$Respiration abnormal$
+1302401147$13024011$Swollen tongue$
+1302401147$13024011$Joint swelling$
+1302401147$13024011$Breast abscess$
+1302401147$13024011$Splenomegaly$
+1302401147$13024011$Cough$
+1302401147$13024011$Bone disorder$
+1302401147$13024011$Oedema$
+1302401147$13024011$Skin striae$
+1302401147$13024011$Mobility decreased$
+1302401147$13024011$Discomfort$
+1302401147$13024011$Pain in extremity$
+1302401147$13024011$Ecchymosis$
+1302401147$13024011$Intentional product misuse$
+1302401147$13024011$Hyperhidrosis$
+1302401147$13024011$Aphonia$
+1302401147$13024011$Hypothermia$
+1302401147$13024011$Flushing$
+1302401147$13024011$Haemoglobin decreased$
+1302401147$13024011$Skin mass$
+1302401147$13024011$Somnolence$
+1302401147$13024011$Malaise$
+1302401147$13024011$Malaise$
+1302401147$13024011$Swelling face$
+1302401147$13024011$Back pain$
+1302401147$13024011$Myalgia$
+1302401147$13024011$Swelling$
+1302401147$13024011$Systemic lupus erythematosus$
+1302401147$13024011$Coccydynia$
+1302401147$13024011$Gastrointestinal disorder$
+1302401147$13024011$Joint range of motion decreased$
+1302401147$13024011$Bone pain$
+1302401147$13024011$Upper respiratory tract congestion$
+1302401147$13024011$Gastrointestinal motility disorder$
+1302401147$13024011$Infusion related reaction$
+1302401147$13024011$Polyuria$
+1302401147$13024011$Arthralgia$
+1303704412$13037044$Thinking abnormal$
+1303704412$13037044$Prescribed overdose$
+1303704412$13037044$Incorrect route of product administration$
+1303704412$13037044$Abnormal behaviour$
+1303704412$13037044$Product use in unapproved indication$
+1303704412$13037044$Stubbornness$
+1303704412$13037044$Off label use$
+1303704412$13037044$Overdose$
+1303704412$13037044$Drug interaction$
+1303704412$13037044$Product use issue$
+1303704412$13037044$Mood altered$
+1303704412$13037044$Prescribed underdose$
+1303704412$13037044$Intentional product use issue$
+130434243$13043424$Hepatotoxicity$
+130469465$13046946$Congenital anomaly$
+130469465$13046946$Paternal exposure timing unspecified$
+130469526$13046952$Paternal exposure timing unspecified$
+130469526$13046952$Congenital anomaly$
+130469545$13046954$Paternal exposure timing unspecified$
+130469545$13046954$Congenital anomaly$
+130469575$13046957$Congenital anomaly$
+130469575$13046957$Paternal exposure timing unspecified$
+130528989$13052898$Syncope$
+130528989$13052898$Orthopnoea$
+130528989$13052898$Constipation$
+130528989$13052898$Dyspnoea$
+130528989$13052898$Cough$
+130528989$13052898$Head injury$
+130528989$13052898$Syncope$
+130528989$13052898$Ventricular arrhythmia$
+130528989$13052898$Cardiac failure congestive$
+130528989$13052898$Loss of consciousness$
+130528989$13052898$Abdominal pain$
+130528989$13052898$Head injury$
+130528989$13052898$Ventricular tachycardia$
+130528989$13052898$Pneumonia$
+130528989$13052898$Cardiac failure congestive$
+130528989$13052898$Nausea$
+130528989$13052898$Abdominal distension$
+130528989$13052898$Skin laceration$
+130580813$13058081$Cardiac arrest$
+130623665$13062366$Urinary incontinence$
+130623665$13062366$Hepatic enzyme increased$
+130623665$13062366$Chronic kidney disease$
+130623665$13062366$Stress$
+130623665$13062366$Blood pressure increased$
+130623665$13062366$Weight increased$
+130623665$13062366$Depression$
+130623665$13062366$Foot deformity$
+130623665$13062366$Blood glucose increased$
+1307040910$13070409$Bronchitis$
+1307040910$13070409$Intellectual disability$
+1307040910$13070409$Neurogenic bladder$
+1307040910$13070409$Streptococcal infection$
+1307040910$13070409$Respiratory syncytial virus infection$
+1307040910$13070409$Gastroenteritis$
+1307040910$13070409$Febrile convulsion$
+1307040910$13070409$Nephrocalcinosis$
+1307040910$13070409$Pharyngitis$
+1307040910$13070409$Tooth loss$
+1307040910$13070409$Drug ineffective$
+1307067212$13070672$Heart rate increased$
+1307067212$13070672$Feeling abnormal$
+1307067212$13070672$Haematoma$
+1307067212$13070672$Medial tibial stress syndrome$
+1307067212$13070672$Aortic wall hypertrophy$
+1307067212$13070672$Blood lactate dehydrogenase increased$
+1307067212$13070672$Oral candidiasis$
+1307067212$13070672$Pruritus$
+1307067212$13070672$Pallor$
+1307067212$13070672$Skin cancer$
+1307067212$13070672$Contusion$
+1307067212$13070672$Infection$
+1307067212$13070672$Bone pain$
+1307067212$13070672$Petechiae$
+1307067212$13070672$Sleep disorder$
+1307067212$13070672$Blood cholesterol increased$
+1307067212$13070672$Migraine with aura$
+1307067212$13070672$Constipation$
+1307067212$13070672$Platelet count increased$
+1307067212$13070672$Malaise$
+1307067212$13070672$Dyspnoea$
+1307067212$13070672$Incorrect dose administered$
+1307067212$13070672$Abdominal pain upper$
+1307067212$13070672$Gait disturbance$
+1307067212$13070672$Weight increased$
+1307067212$13070672$Chest pain$
+1307067212$13070672$Influenza like illness$
+1307067212$13070672$Fall$
+1307067212$13070672$Hyperchlorhydria$
+1307067212$13070672$Sinusitis$
+1307067212$13070672$Decreased appetite$
+1307067212$13070672$Muscle spasms$
+1307067212$13070672$Skin disorder$
+1307067212$13070672$Palpitations$
+1307067212$13070672$Abdominal discomfort$
+1307067212$13070672$Flatulence$
+1307067212$13070672$Feeling hot$
+1307067212$13070672$White blood cell count increased$
+1307067212$13070672$Blood pressure increased$
+1307067212$13070672$Increased tendency to bruise$
+1307067212$13070672$Fatigue$
+1307067212$13070672$Headache$
+1307067212$13070672$Dyspepsia$
+130707763$13070776$Maternal exposure during pregnancy$
+130707763$13070776$Renal failure$
+1308956015$13089560$Intentional product misuse$
+1308956015$13089560$Nasopharyngitis$
+1308956015$13089560$Cough$
+1308956015$13089560$COVID-19$
+130932869$13093286$Adrenal insufficiency$
+131051883$13105188$Swollen tongue$
+131051883$13105188$Dyspnoea$
+131051883$13105188$Tachycardia$
+131051883$13105188$Dystonia$
+131051883$13105188$Nuchal rigidity$
+131051883$13105188$Incorrect dose administered$
+131064416$13106441$Thirst$
+131064416$13106441$Nocturia$
+131064416$13106441$Hepatic function abnormal$
+1310972330$13109723$Pharyngitis streptococcal$
+1310972330$13109723$Loss of personal independence in daily activities$
+1310972330$13109723$Drug hypersensitivity$
+1310972330$13109723$Urticaria$
+1310972330$13109723$Gastric ulcer$
+1310972330$13109723$Lung disorder$
+1310972330$13109723$Speech disorder$
+1310972330$13109723$Food poisoning$
+1310972330$13109723$Oesophagitis$
+1310972330$13109723$Oropharyngeal pain$
+1310972330$13109723$Nasopharyngitis$
+1310972330$13109723$Off label use$
+1310972330$13109723$Dizziness$
+1310972330$13109723$Illness$
+1310972330$13109723$Malaise$
+1310972330$13109723$Dizziness$
+1310972330$13109723$Oesophageal ulcer$
+1310972330$13109723$Laryngitis$
+1310972330$13109723$Disease recurrence$
+131136892$13113689$Transient acantholytic dermatosis$
+131136892$13113689$Malignant neoplasm progression$
+131167113$13116711$Lymphadenopathy$
+131167113$13116711$Vitiligo$
+131167113$13116711$Scleroderma-like reaction$
+131167113$13116711$Erythema$
+131167113$13116711$Scleroderma$
+131167113$13116711$Neutrophil count decreased$
+131167113$13116711$Lichen planus$
+131167113$13116711$Pigmentation disorder$
+131167113$13116711$Corneal disorder$
+131167113$13116711$Lymphocytic infiltration$
+131167113$13116711$Systemic scleroderma$
+131179493$13117949$Obesity$
+131179493$13117949$Emotional disorder$
+131179493$13117949$Therapy cessation$
+131179493$13117949$Gynaecomastia$
+131265992$13126599$Meningitis cryptococcal$
+131265992$13126599$Off label use$
+1314326416$13143264$Erythema multiforme$
+1314326416$13143264$Internal haemorrhage$
+1314326416$13143264$Mucosal disorder$
+1314326416$13143264$Keratitis$
+1314326416$13143264$Koebner phenomenon$
+1314326416$13143264$Suicide attempt$
+1314326416$13143264$Off label use$
+1314326416$13143264$Stevens-Johnson syndrome$
+1314326416$13143264$Product prescribing error$
+1314326416$13143264$Anxiety disorder$
+1314326416$13143264$Entropion$
+1314326416$13143264$Herpes virus infection$
+1314326416$13143264$Oral disorder$
+1314326416$13143264$Autonomic nervous system imbalance$
+1314326416$13143264$Sleep disorder$
+1314326416$13143264$Food intolerance$
+1314326416$13143264$Disability$
+1314326416$13143264$Noninfective gingivitis$
+1314326416$13143264$Symblepharon$
+1314326416$13143264$Plantar fasciitis$
+1314326416$13143264$Cheilitis$
+1314326416$13143264$Ligneous conjunctivitis$
+1314326416$13143264$Stomatitis$
+1314326416$13143264$Dysuria$
+1314326416$13143264$Toxic epidermal necrolysis$
+1314326416$13143264$Pharyngeal oedema$
+1314326416$13143264$Movement disorder$
+1314326416$13143264$Haemorrhage$
+1314326416$13143264$Ophthalmic migraine$
+1314326416$13143264$Decreased interest$
+1314326416$13143264$Punctate keratitis$
+1314326416$13143264$Eye disorder$
+1314326416$13143264$Gingival disorder$
+1314326416$13143264$Discomfort$
+1314326416$13143264$Drug intolerance$
+1314326416$13143264$Corneal neovascularisation$
+1314326416$13143264$Toxic skin eruption$
+1314326416$13143264$Reaction to excipient$
+1314326416$13143264$Loss of personal independence in daily activities$
+1314326416$13143264$Throat tightness$
+1314326416$13143264$Vertigo$
+1314326416$13143264$Sicca syndrome$
+1314326416$13143264$Visual impairment$
+1314326416$13143264$Drug dose titration not performed$
+1314326416$13143264$Pyrexia$
+1314326416$13143264$Fibrosis$
+1314326416$13143264$Trichiasis$
+131475723$13147572$Renal impairment$
+131475723$13147572$Peritonitis$
+131475723$13147572$Palmar-plantar erythrodysaesthesia syndrome$
+131475723$13147572$Gastric perforation$
+1315318824$13153188$Nausea$
+1315318824$13153188$Granuloma skin$
+1315318824$13153188$Musculoskeletal stiffness$
+1315318824$13153188$Arthralgia$
+1315318824$13153188$Arthropathy$
+1315318824$13153188$Contraindicated product administered$
+1315318824$13153188$Adverse event$
+1315318824$13153188$Headache$
+1315318824$13153188$Loss of personal independence in daily activities$
+1315318824$13153188$Red blood cell sedimentation rate increased$
+1315318824$13153188$Insomnia$
+1315318824$13153188$Osteoarthritis$
+1315318824$13153188$Arthritis$
+1315318824$13153188$Rheumatoid factor positive$
+1315318824$13153188$Pruritus$
+1315318824$13153188$Rheumatoid arthritis$
+1315318824$13153188$Hypersensitivity$
+1315318824$13153188$Vomiting$
+1315318824$13153188$Condition aggravated$
+1315318824$13153188$Gastrointestinal disorder$
+1315318824$13153188$Alanine aminotransferase increased$
+1315318824$13153188$Inflammation$
+1315318824$13153188$Basal cell carcinoma$
+1315318824$13153188$C-reactive protein abnormal$
+1315318824$13153188$Skin ulcer$
+1315318824$13153188$Ulcer$
+1315318824$13153188$C-reactive protein increased$
+1315318824$13153188$Drug ineffective$
+1315318824$13153188$Hepatitis$
+1315318824$13153188$Erythema$
+1315318824$13153188$Peripheral swelling$
+1315318824$13153188$Drug intolerance$
+1315318824$13153188$Treatment failure$
+1315318824$13153188$Synovitis$
+1315318824$13153188$Therapeutic product effect incomplete$
+1315318824$13153188$Drug tolerance$
+1315318824$13153188$Pulmonary fibrosis$
+1315318824$13153188$Fatigue$
+1315318824$13153188$Rheumatoid nodule$
+1315318824$13153188$Rash$
+1315318824$13153188$Rash pruritic$
+1315318824$13153188$Hypertension$
+1315318824$13153188$Panniculitis$
+1315318824$13153188$Hypercalcaemia$
+1315318824$13153188$Therapeutic product effect decreased$
+1315318824$13153188$Pain$
+1315318824$13153188$Blood parathyroid hormone decreased$
+1315318824$13153188$Pneumonia$
+1315318824$13153188$Drug eruption$
+1315318824$13153188$Hepatic enzyme increased$
+1315318824$13153188$Infusion related reaction$
+1315318824$13153188$Breath sounds abnormal$
+1315318824$13153188$Skin necrosis$
+1315318824$13153188$Dermatitis$
+1315318824$13153188$Joint swelling$
+1315318824$13153188$Aspartate aminotransferase increased$
+1315318824$13153188$Alopecia$
+1315318824$13153188$Neoplasm skin$
+1315318824$13153188$Drug hypersensitivity$
+1315318824$13153188$Prescribed underdose$
+1315318824$13153188$Abdominal pain$
+131608953$13160895$Knee arthroplasty$
+131608953$13160895$Patella fracture$
+131608953$13160895$Fall$
+131660093$13166009$Off label use$
+131660093$13166009$Progressive multifocal leukoencephalopathy$
+1317812521$13178125$White blood cell count increased$
+1317812521$13178125$Alcoholism$
+1317812521$13178125$Nasopharyngitis$
+1317812521$13178125$Psoriasis$
+1317812521$13178125$Body temperature decreased$
+1317812521$13178125$Malaise$
+1317812521$13178125$Hypertension$
+1317812521$13178125$Inappropriate schedule of product administration$
+1317812521$13178125$Hepatic cirrhosis$
+1317812521$13178125$Injection site bruising$
+1317812521$13178125$Dry skin$
+1317812521$13178125$Fluid retention$
+132006742$13200674$Sebaceous carcinoma$
+132218622$13221862$Depressive symptom$
+132218622$13221862$Weight increased$
+132218622$13221862$Apathy$
+132218622$13221862$Decreased appetite$
+132268923$13226892$Ovarian neoplasm$
+132268923$13226892$Alopecia$
+132268923$13226892$Unevaluable event$
+132268923$13226892$Intraocular pressure increased$
+132268923$13226892$Weight decreased$
+132268923$13226892$Nausea$
+132268923$13226892$Pain in extremity$
+132268923$13226892$Fatigue$
+132268923$13226892$Drug intolerance$
+132268923$13226892$Eating disorder$
+132268923$13226892$Joint swelling$
+132268923$13226892$Eye operation$
+132268923$13226892$Infection$
+132268923$13226892$Rash$
+132268923$13226892$Dyspnoea$
+132268923$13226892$Pneumonia$
+132268923$13226892$Ocular hypertension$
+132268923$13226892$Drug ineffective$
+1322723247$13227232$Drug abuse$
+1322723247$13227232$Sedation complication$
+1322723247$13227232$Pain$
+1322723247$13227232$Sedation$
+1322723247$13227232$Cognitive disorder$
+1322723247$13227232$Overdose$
+1322723247$13227232$Product use in unapproved indication$
+1322723247$13227232$Drug interaction$
+1322723247$13227232$Constipation$
+1322723247$13227232$Dyspnoea$
+1322723247$13227232$Off label use$
+1322723247$13227232$Renal function test abnormal$
+1322723247$13227232$Balance disorder$
+1322723247$13227232$Hypotension$
+1322723247$13227232$Mobility decreased$
+1322723247$13227232$Multiple drug therapy$
+1322723247$13227232$Fall$
+1322723247$13227232$Dementia$
+1322723247$13227232$Toxicity to various agents$
+1322723247$13227232$Depressed level of consciousness$
+1322723247$13227232$Orthostatic hypotension$
+1322723247$13227232$Creatinine renal clearance decreased$
+1322723247$13227232$Blood calcium decreased$
+1322723247$13227232$Creatinine renal clearance increased$
+1322723247$13227232$Bladder disorder$
+1322723247$13227232$Sedation complication$
+1322882958$13228829$Hypotension$
+1322882958$13228829$Presyncope$
+1322882958$13228829$Pulmonary oedema$
+1322882958$13228829$Contusion$
+1322882958$13228829$Psoriasis$
+1322882958$13228829$Fluid retention$
+1322882958$13228829$Anaemia$
+1322882958$13228829$Cardiac failure$
+1322882958$13228829$Oedema peripheral$
+1322882958$13228829$Ventricular dysfunction$
+1322882958$13228829$Angina pectoris$
+1322882958$13228829$Drug interaction$
+132340786$13234078$Dysphagia$
+132340786$13234078$Influenza$
+132340786$13234078$Dyspepsia$
+132340786$13234078$Gastric pH decreased$
+132340786$13234078$Pharyngitis$
+132340786$13234078$Nasopharyngitis$
+132340786$13234078$Cough$
+132340786$13234078$Odynophagia$
+132340786$13234078$Oropharyngeal pain$
+132340786$13234078$Laryngitis$
+1323932624$13239326$Dehydration$
+1323932624$13239326$Abdominal mass$
+1323932624$13239326$Small intestinal obstruction$
+1323932624$13239326$Gastroenteritis viral$
+1323932624$13239326$Hepatic enzyme increased$
+1323932624$13239326$Crohn's disease$
+1323932624$13239326$Anal fistula$
+1323932624$13239326$Arthralgia$
+1323932624$13239326$Mouth ulceration$
+1323932624$13239326$Fistula$
+1323932624$13239326$Abdominal pain$
+1323932624$13239326$Tachycardia$
+1323932624$13239326$Rectal abscess$
+1323932624$13239326$Product dose omission issue$
+132399674$13239967$Autism spectrum disorder$
+132399674$13239967$Sinusitis$
+132438295$13243829$Herpes zoster disseminated$
+132438295$13243829$Dehydration$
+132438295$13243829$Lymphopenia$
+132438295$13243829$Staphylococcal skin infection$
+132438295$13243829$Ear infection$
+132438295$13243829$Gastroenteritis viral$
+132438295$13243829$Renal failure$
+132438295$13243829$Adenovirus infection$
+132438295$13243829$Vanishing bile duct syndrome$
+132438295$13243829$Multiple organ dysfunction syndrome$
+132438295$13243829$Staphylococcal scalded skin syndrome$
+132438295$13243829$Herpes zoster reactivation$
+132438295$13243829$Human bocavirus infection$
+132438295$13243829$Optic neuritis$
+132438295$13243829$Retinitis$
+132438295$13243829$Anaphylactic shock$
+132438295$13243829$Visual impairment$
+132438295$13243829$Varicella zoster virus infection$
+132438295$13243829$Off label use$
+132438295$13243829$Respiratory failure$
+1324649435$13246494$Pulmonary oedema$
+1324649435$13246494$Psoriasis$
+1324649435$13246494$Fluid retention$
+1324649435$13246494$Anaemia$
+1324649435$13246494$Oedema peripheral$
+1324649435$13246494$Cardiac failure$
+1324649435$13246494$Drug interaction$
+1324649435$13246494$Hypotension$
+1324649435$13246494$Contusion$
+1324649435$13246494$Presyncope$
+1324649435$13246494$Ventricular dysfunction$
+1324649435$13246494$Angina pectoris$
+1324667937$13246679$Ventricular dysfunction$
+1324667937$13246679$Anaemia$
+1324667937$13246679$Psoriasis$
+1324667937$13246679$Oedema peripheral$
+1324667937$13246679$Hypotension$
+1324667937$13246679$Cardiac failure$
+1324667937$13246679$Condition aggravated$
+1324667937$13246679$Contusion$
+1324667937$13246679$Drug interaction$
+1324667937$13246679$Pulmonary oedema$
+1324667937$13246679$Angina pectoris$
+1324667937$13246679$Off label use$
+1324667937$13246679$Fluid retention$
+1324667937$13246679$Presyncope$
+1327270518$13272705$Blood cholesterol increased$
+1327270518$13272705$Stress$
+1327270518$13272705$Cognitive disorder$
+1327270518$13272705$Intentional product misuse$
+1327270518$13272705$Pain$
+1327270518$13272705$Anxiety$
+1327270518$13272705$Acne$
+1327270518$13272705$Condition aggravated$
+1327270518$13272705$Road traffic accident$
+1327270518$13272705$Feeling abnormal$
+1327270518$13272705$Paranoia$
+1327270518$13272705$Memory impairment$
+1327270518$13272705$Mental fatigue$
+1327798114$13277981$Off label use$
+1327798114$13277981$Hepatic enzyme increased$
+1327798114$13277981$Intestinal haemorrhage$
+1327798114$13277981$Hypertension$
+1327798114$13277981$Myalgia$
+1327798114$13277981$Cardiac disorder$
+1327798114$13277981$Muscle atrophy$
+1327798114$13277981$Diarrhoea$
+1327798114$13277981$Decreased appetite$
+132979652$13297965$Deafness$
+132979652$13297965$Drug abuse$
+132979652$13297965$Drug dependence$
+132979652$13297965$Dizziness$
+132979652$13297965$Intentional overdose$
+132979652$13297965$Somnolence$
+132979652$13297965$Alopecia$
+1330131213$13301312$Pain$
+1330131213$13301312$Malaise$
+1330131213$13301312$Nasopharyngitis$
+1330131213$13301312$Therapeutic product effect decreased$
+1330131213$13301312$Gait disturbance$
+133014566$13301456$Drug interaction$
+133014566$13301456$Aspiration$
+133014566$13301456$Pneumonia$
+133014566$13301456$Pyrexia$
+133014566$13301456$Dysphagia$
+133014566$13301456$Pneumonia aspiration$
+133014566$13301456$Labelled drug-drug interaction medication error$
+133014566$13301456$Dyspnoea$
+133027005$13302700$Post transplant lymphoproliferative disorder$
+133027005$13302700$Product use in unapproved indication$
+133027005$13302700$Plasma cell myeloma$
+133027005$13302700$Epstein-Barr virus infection$
+133027005$13302700$Product use issue$
+133027005$13302700$Disease recurrence$
+133069933$13306993$Fatigue$
+133069933$13306993$Atrial fibrillation$
+133069933$13306993$Frequent bowel movements$
+133069933$13306993$Atrial flutter$
+133069933$13306993$Abdominal pain$
+133116705$13311670$Weight increased$
+133116705$13311670$Emotional disorder$
+133116705$13311670$Gynaecomastia$
+133116705$13311670$Somnolence$
+1331398617$13313986$Bile duct stone$
+1331398617$13313986$Cholelithiasis$
+1331398617$13313986$Stress$
+1331398617$13313986$Intestinal obstruction$
+1331398617$13313986$Abdominal adhesions$
+1331398617$13313986$Dyspepsia$
+1331398617$13313986$Endometrial disorder$
+1331398617$13313986$Crohn's disease$
+1331398617$13313986$Abdominal pain$
+1331398617$13313986$Diarrhoea$
+1331398617$13313986$Abdominal distension$
+1331398617$13313986$Vomiting$
+1331398617$13313986$Fibroma$
+1331398617$13313986$Frequent bowel movements$
+1331398617$13313986$Eating disorder$
+1331398617$13313986$Gastrooesophageal reflux disease$
+1331398617$13313986$Uterine leiomyoma$
+1331398617$13313986$Short-bowel syndrome$
+1331398617$13313986$Fatigue$
+133220486$13322048$Immune effector cell-associated neurotoxicity syndrome$
+133220486$13322048$Immunodeficiency$
+133220486$13322048$Cytokine release syndrome$
+133220486$13322048$Leukoencephalopathy$
+133220486$13322048$Lymphopenia$
+133220486$13322048$Pyrexia$
+133220486$13322048$Respiratory tract infection$
+133220486$13322048$Respiratory failure$
+1333730610$13337306$Herpes zoster$
+1333730610$13337306$Toothache$
+1333730610$13337306$Tooth abscess$
+1333730610$13337306$Pain$
+1333730610$13337306$Night sweats$
+133395743$13339574$Post transplant lymphoproliferative disorder$
+133395743$13339574$Plasmacytoma$
+133603212$13360321$Product availability issue$
+133603212$13360321$Product dose omission issue$
+133603212$13360321$No adverse event$
+133603212$13360321$Inappropriate schedule of product administration$
+133603212$13360321$Product prescribing issue$
+133620865$13362086$Haematuria$
+133620865$13362086$Proteinuria$
+133620865$13362086$Albuminuria$
+133620865$13362086$Myalgia$
+133620865$13362086$Blood creatinine increased$
+133620865$13362086$Nephropathy toxic$
+133620865$13362086$Acute kidney injury$
+133620865$13362086$Renal tubular injury$
+133754772$13375477$Small intestinal haemorrhage$
+133754772$13375477$Small intestine ulcer$
+133775762$13377576$Steroid diabetes$
+133970132$13397013$Product administration error$
+134093542$13409354$Gynaecomastia$
+134093542$13409354$Akathisia$
+134093542$13409354$Weight increased$
+134093542$13409354$Emotional disorder$
+134095225$13409522$Product use in unapproved indication$
+134095225$13409522$Emotional distress$
+134095225$13409522$Gynaecomastia$
+134095225$13409522$Off label use$
+134101382$13410138$Myelosuppression$
+134101382$13410138$Anaemia$
+134101382$13410138$Drug interaction$
+134101382$13410138$Febrile neutropenia$
+134101382$13410138$Agranulocytosis$
+134101382$13410138$BK virus infection$
+134101382$13410138$Status epilepticus$
+134101382$13410138$Haematotoxicity$
+134101382$13410138$Pancytopenia$
+134101382$13410138$Herpes virus infection$
+134101382$13410138$Haemolytic anaemia$
+134101382$13410138$Encephalitis viral$
+134107843$13410784$Emotional disorder$
+134107843$13410784$Sedation$
+134107843$13410784$Gynaecomastia$
+134126874$13412687$Emotional disorder$
+134126874$13412687$Gynaecomastia$
+134174977$13417497$Dermal cyst$
+134174977$13417497$Condition aggravated$
+134174977$13417497$Infection$
+134174977$13417497$Joint swelling$
+134174977$13417497$Blood pressure increased$
+134174977$13417497$Arthralgia$
+1341856210$13418562$Loss of consciousness$
+1341856210$13418562$Tremor$
+1341856210$13418562$Aphasia$
+1341856210$13418562$Vertebral artery occlusion$
+1341856210$13418562$Transient ischaemic attack$
+1341856210$13418562$Circulatory collapse$
+1341856210$13418562$Presyncope$
+1341856210$13418562$Cerebrovascular accident$
+1341856210$13418562$Artery dissection$
+1341856210$13418562$Dizziness$
+134296706$13429670$Feeling cold$
+134296706$13429670$Abdominal discomfort$
+134296706$13429670$Abdominal pain$
+134296706$13429670$Frequent bowel movements$
+134296706$13429670$Electric shock sensation$
+134296706$13429670$Anal fistula$
+134296706$13429670$Defaecation urgency$
+134296706$13429670$Diarrhoea$
+134462083$13446208$Trichodysplasia spinulosa$
+134509852$13450985$Phaeohyphomycosis$
+134528995$13452899$Full blood count abnormal$
+134528995$13452899$Fatigue$
+134528995$13452899$Platelet count abnormal$
+134528995$13452899$Dyspnoea$
+134528995$13452899$Wound$
+134528995$13452899$Oesophageal disorder$
+134528995$13452899$Palpitations$
+134528995$13452899$Traumatic haematoma$
+134528995$13452899$Insomnia$
+134528995$13452899$Gait disturbance$
+134528995$13452899$Full blood count increased$
+134528995$13452899$Chronic lymphocytic leukaemia$
+134528995$13452899$Platelet count increased$
+134528995$13452899$Herpes zoster$
+134528995$13452899$Pruritus$
+134528995$13452899$Blood potassium increased$
+134528995$13452899$Blood iron decreased$
+134528995$13452899$Human anaplasmosis$
+134528995$13452899$Mental status changes$
+134528995$13452899$Neuropathy peripheral$
+134528995$13452899$Dizziness$
+134554152$13455415$Central obesity$
+134554152$13455415$Hirsutism$
+134554152$13455415$Diabetes mellitus$
+134554152$13455415$Hypertension$
+134554152$13455415$Off label use$
+134554152$13455415$Cushingoid$
+134582386$13458238$Pulmonary oedema$
+134582386$13458238$Drug interaction$
+134582386$13458238$Toxicity to various agents$
+134582386$13458238$Accidental overdose$
+134582386$13458238$Brain oedema$
+134587922$13458792$Transplant rejection$
+134587922$13458792$BK virus infection$
+134587922$13458792$Trichodysplasia spinulosa$
+134587922$13458792$Immunosuppressant drug level decreased$
+1345954916$13459549$Plagiocephaly$
+1345954916$13459549$Foetal exposure during pregnancy$
+1346238615$13462386$Feeling hot$
+1346238615$13462386$Weight increased$
+1346238615$13462386$Bradykinesia$
+1346238615$13462386$Depressed mood$
+1346238615$13462386$Malaise$
+1346238615$13462386$Herpes zoster$
+1346238615$13462386$Diarrhoea$
+1346238615$13462386$Withdrawal syndrome$
+1346238615$13462386$Wrong technique in product usage process$
+1346238615$13462386$Product dose omission issue$
+1346238615$13462386$Fatigue$
+1346238615$13462386$Sciatica$
+1346238615$13462386$Muscle spasms$
+1346238615$13462386$Influenza like illness$
+1346238615$13462386$Migraine$
+1346238615$13462386$Headache$
+1346238615$13462386$Product administration error$
+1346238615$13462386$Lethargy$
+1346238615$13462386$Memory impairment$
+1346238615$13462386$Abdominal discomfort$
+1346238615$13462386$Cognitive disorder$
+1346238615$13462386$Pruritus$
+1346238615$13462386$Incorrect dose administered$
+1346238615$13462386$Hypokinesia$
+1346238615$13462386$Obesity$
+1346238615$13462386$Abdominal distension$
+1346238615$13462386$COVID-19$
+1346238615$13462386$Bradyphrenia$
+1346238615$13462386$Disturbance in attention$
+1346238615$13462386$Sleep disorder$
+1346238615$13462386$Lacrimation increased$
+1346238615$13462386$Post herpetic neuralgia$
+1346238615$13462386$Confusional state$
+1346238615$13462386$Cough$
+1346238615$13462386$Intervertebral disc protrusion$
+1346238615$13462386$Gait disturbance$
+1346238615$13462386$Mood swings$
+1346238615$13462386$Feeling abnormal$
+1346238615$13462386$Product availability issue$
+1347248912$13472489$Vision blurred$
+1347248912$13472489$Pneumonia$
+1347248912$13472489$Blood pressure increased$
+1347248912$13472489$Influenza$
+1347248912$13472489$Eye discharge$
+134826739$13482673$Pneumonia$
+134826739$13482673$Blood pressure increased$
+134826739$13482673$Adverse drug reaction$
+134826739$13482673$Eye discharge$
+134826739$13482673$Influenza$
+134826739$13482673$Vision blurred$
+134970354$13497035$Treatment failure$
+134970354$13497035$Pulmonary mass$
+134970354$13497035$Aspergillus infection$
+134970354$13497035$Off label use$
+134970354$13497035$Pneumothorax$
+135032963$13503296$Staphylococcal infection$
+135032963$13503296$Candida infection$
+135032963$13503296$Urosepsis$
+135032963$13503296$Immune reconstitution inflammatory syndrome$
+135032963$13503296$Deep vein thrombosis$
+135032963$13503296$Muscle spasticity$
+135032963$13503296$Progressive multifocal leukoencephalopathy$
+135032963$13503296$Cellulitis$
+1351309419$13513094$Spinal cord compression$
+1351309419$13513094$Intervertebral disc protrusion$
+1351309419$13513094$Mitral valve incompetence$
+1351309419$13513094$Influenza$
+1351309419$13513094$Nausea$
+1351309419$13513094$Localised infection$
+1351309419$13513094$Ear infection$
+1351309419$13513094$Intentional dose omission$
+1351309419$13513094$Diarrhoea$
+1351309419$13513094$Pain in extremity$
+1351309419$13513094$Hyperhidrosis$
+1351309419$13513094$Paraesthesia$
+1351309419$13513094$Fatigue$
+1351309419$13513094$Cervical cord compression$
+1351309419$13513094$Hypertension$
+1351309419$13513094$Tachycardia$
+1351309419$13513094$Neck pain$
+1351309419$13513094$Dislocation of vertebra$
+1351309419$13513094$Carpal tunnel syndrome$
+135223092$13522309$Product dose omission issue$
+135223092$13522309$Drug ineffective$
+135223092$13522309$Fatigue$
+135223092$13522309$Influenza$
+1352573517$13525735$Blood pressure diastolic increased$
+1352573517$13525735$Headache$
+1352573517$13525735$Productive cough$
+1352573517$13525735$Anxiety$
+1352573517$13525735$Viral infection$
+1352573517$13525735$Sputum discoloured$
+1352573517$13525735$Illness$
+1352573517$13525735$Seizure$
+1352573517$13525735$Influenza like illness$
+1352573517$13525735$Feeling abnormal$
+1352573517$13525735$Pruritus$
+1352573517$13525735$Nausea$
+1352573517$13525735$Dyspnoea$
+1352573517$13525735$Decreased appetite$
+1352573517$13525735$Nasopharyngitis$
+1352573517$13525735$Pyrexia$
+1352573517$13525735$Wheezing$
+1352573517$13525735$Dizziness$
+1352573517$13525735$Weight decreased$
+1352573517$13525735$Pain$
+135283932$13528393$Tinnitus$
+135283932$13528393$Oropharyngeal pain$
+135283932$13528393$Grip strength decreased$
+135283932$13528393$Illness$
+135283932$13528393$Nasal discomfort$
+135283932$13528393$Tremor$
+135299643$13529964$Haematochezia$
+135299643$13529964$Blood pressure decreased$
+135299643$13529964$Abdominal hernia$
+135299643$13529964$Angina pectoris$
+135299643$13529964$Therapeutic reaction time decreased$
+1353225619$13532256$Peripheral swelling$
+1353225619$13532256$Condition aggravated$
+1353225619$13532256$Loss of consciousness$
+1353225619$13532256$Lymphadenopathy$
+1353225619$13532256$Drug interaction$
+1353225619$13532256$Blood potassium decreased$
+1353225619$13532256$Arthralgia$
+1353225619$13532256$Blister$
+1353225619$13532256$Drug ineffective$
+1353225619$13532256$Fatigue$
+1353225619$13532256$Apnoea$
+1353225619$13532256$Skin discolouration$
+1353225619$13532256$Pain in extremity$
+1353225619$13532256$Fall$
+1353225619$13532256$Respiratory failure$
+1353225619$13532256$Infection$
+1353225619$13532256$Escherichia infection$
+1353225619$13532256$Infection$
+1353225619$13532256$Condition aggravated$
+135534972$13553497$Muir-Torre syndrome$
+1355584513$13555845$Cholangitis sclerosing$
+1355584513$13555845$Blood pressure decreased$
+1355584513$13555845$Feeling abnormal$
+1355584513$13555845$Blood pressure increased$
+1355584513$13555845$Weight increased$
+1355584513$13555845$Pneumonia$
+1355584513$13555845$Pyrexia$
+1355584513$13555845$Heart rate decreased$
+1355584513$13555845$Condition aggravated$
+1355584513$13555845$Pharyngeal paraesthesia$
+1355584513$13555845$Viral infection$
+1355584513$13555845$Hepatic vein thrombosis$
+1355584513$13555845$Weight decreased$
+135586604$13558660$Rickets$
+135586604$13558660$Genital haemorrhage$
+135586604$13558660$Hydrocephalus$
+135586604$13558660$Bronchitis$
+135586604$13558660$Condition aggravated$
+135586604$13558660$Dermatitis$
+135586604$13558660$Eczema asteatotic$
+135586604$13558660$Neutralising antibodies positive$
+135586604$13558660$Hypothyroidism$
+135586604$13558660$Craniosynostosis$
+135586604$13558660$Arnold-Chiari malformation$
+135586604$13558660$Dermatitis$
+135586604$13558660$Dermatitis$
+135586604$13558660$Drug ineffective$
+135592862$13559286$Skin abrasion$
+135592862$13559286$Skin discolouration$
+135592862$13559286$Swelling face$
+135592862$13559286$Cutaneous vasculitis$
+135592862$13559286$Haemorrhage subcutaneous$
+135592862$13559286$Completed suicide$
+135592862$13559286$Erythema$
+135592862$13559286$Toxicity to various agents$
+135636772$13563677$Drug ineffective$
+135798542$13579854$Unmasking of previously unidentified disease$
+135798542$13579854$Muir-Torre syndrome$
+1358230229$13582302$Tinea cruris$
+1358230229$13582302$Urinary tract infection$
+1358230229$13582302$Fall$
+1358230229$13582302$Back pain$
+1358230229$13582302$Insomnia$
+1358230229$13582302$Headache$
+1358230229$13582302$Pruritus$
+1358230229$13582302$Peripheral swelling$
+1358230229$13582302$Diarrhoea$
+1358230229$13582302$Hypocalcaemia$
+1358230229$13582302$Multiple sclerosis relapse$
+1358230229$13582302$Non-cardiac chest pain$
+1358230229$13582302$Back pain$
+1358230229$13582302$Depression$
+1358230229$13582302$Upper respiratory tract infection$
+1358230229$13582302$Renal pain$
+1358230229$13582302$Influenza$
+1358230229$13582302$Plantar fasciitis$
+1358230229$13582302$Diarrhoea$
+1358230229$13582302$Tinea pedis$
+1358230229$13582302$Dyspnoea$
+1358230229$13582302$Electrolyte imbalance$
+1358230229$13582302$Drug abuse$
+1358230229$13582302$Chest pain$
+1358230229$13582302$Liver function test abnormal$
+1358230229$13582302$Urosepsis$
+1358230229$13582302$Non-cardiac chest pain$
+1358230229$13582302$Respiratory syncytial virus infection$
+1358520412$13585204$Drug hypersensitivity$
+1358520412$13585204$Pruritus$
+1358520412$13585204$Pharyngeal swelling$
+1358520412$13585204$Chest discomfort$
+1358520412$13585204$Infusion related reaction$
+1358520412$13585204$Urticaria$
+1358520412$13585204$Sinusitis$
+1358520412$13585204$Incorrect dose administered$
+1358520412$13585204$Fatigue$
+1358520412$13585204$Anaphylactic reaction$
+135924342$13592434$Transplant rejection$
+135924342$13592434$Polyomavirus-associated nephropathy$
+135924342$13592434$Arteriosclerosis$
+135924342$13592434$BK virus infection$
+135924342$13592434$Tubulointerstitial nephritis$
+135924342$13592434$Glomerular filtration rate decreased$
+135924342$13592434$Delayed graft function$
+135924342$13592434$Kidney transplant rejection$
+135924342$13592434$Pneumonia bacterial$
+135924342$13592434$Viraemia$
+135924342$13592434$Renal tubular necrosis$
+135924342$13592434$Basal cell carcinoma$
+1359900811$13599008$Gastrointestinal stoma output increased$
+1359900811$13599008$Hepatic infection$
+1359900811$13599008$Off label use$
+1359900811$13599008$Cholangitis sclerosing$
+1359900811$13599008$Drug level decreased$
+1359900811$13599008$Crohn's disease$
+1359900811$13599008$Salmonellosis$
+135990844$13599084$Diabetes mellitus inadequate control$
+136036762$13603676$Ventricular extrasystoles$
+136156983$13615698$Pruritus$
+136156983$13615698$Sleep disorder$
+136156983$13615698$Stevens-Johnson syndrome$
+136210993$13621099$Sleep disorder$
+136210993$13621099$Psoriasis$Psoriasis
+136251562$13625156$Emotional disorder$
+136251562$13625156$Gynaecomastia$
+136303273$13630327$Bronchopulmonary aspergillosis$
+136356292$13635629$Drug ineffective$
+136454539$13645453$Dyspepsia$
+136454539$13645453$Arthralgia$
+136454539$13645453$Memory impairment$
+136454539$13645453$Pyrexia$
+136454539$13645453$Pain$
+136454539$13645453$Renal disorder$
+136454539$13645453$Vomiting$
+136454539$13645453$Depression$
+136454539$13645453$Mouth injury$
+136454539$13645453$Neuropathy peripheral$
+136454539$13645453$Bone pain$
+136454539$13645453$Visual impairment$
+136454539$13645453$Back pain$
+136454539$13645453$Depressed mood$
+136454539$13645453$Weight increased$
+136454539$13645453$Personality disorder$
+136454539$13645453$Areflexia$
+136454539$13645453$Anxiety$
+136454539$13645453$Sciatic nerve injury$
+136454539$13645453$Anger$
+136454539$13645453$Respiratory tract infection$
+136454539$13645453$Chest pain$
+136454539$13645453$Headache$
+136454539$13645453$Diarrhoea$
+136454539$13645453$Insomnia$
+136454539$13645453$Neck pain$
+136454539$13645453$Brain fog$
+136454539$13645453$Myalgia$
+136454539$13645453$Dysphonia$
+136454539$13645453$Nausea$
+136454539$13645453$Product use issue$
+136454539$13645453$Mental disorder$
+136454539$13645453$Pleurisy$
+1364827752$13648277$Condition aggravated$
+1364827752$13648277$Heart rate irregular$
+1364827752$13648277$Body temperature increased$
+1364827752$13648277$Diabetes mellitus$
+1364827752$13648277$Blood pressure fluctuation$
+1364827752$13648277$Heart rate decreased$
+1364827752$13648277$Blood pressure diastolic decreased$
+1364827752$13648277$Blood pressure increased$
+1364827752$13648277$Diarrhoea$
+1364827752$13648277$Pyrexia$
+1364827752$13648277$Therapeutic response shortened$
+1364827752$13648277$Asthenia$
+1364827752$13648277$Vomiting$
+1364827752$13648277$Urinary tract infection$
+1364827752$13648277$Cough$
+1364827752$13648277$Inappropriate schedule of product administration$
+1364827752$13648277$Blood pressure diastolic increased$
+1364827752$13648277$Off label use$
+1364827752$13648277$Blood pressure systolic increased$
+1364827752$13648277$Weight increased$
+1365457234$13654572$Blood pressure diastolic abnormal$
+1365457234$13654572$Infusion related reaction$
+1365457234$13654572$Cholelithiasis$
+1365457234$13654572$Pharyngitis$
+1365457234$13654572$Blindness unilateral$
+1365457234$13654572$Weight decreased$
+1365457234$13654572$Liver function test$
+1365457234$13654572$Bronchitis$
+1365457234$13654572$Ear infection$
+1365457234$13654572$Heart rate increased$
+1365457234$13654572$Gastric infection$
+1365457234$13654572$Weight increased$
+1365457234$13654572$Biliary dilatation$
+1365457234$13654572$Secretion discharge$
+1365457234$13654572$Nasopharyngitis$
+1365457234$13654572$Blood pressure increased$
+1365457234$13654572$Pain in extremity$
+1365457234$13654572$Productive cough$
+1365457234$13654572$Blood pressure systolic increased$
+1365457234$13654572$Infusion related reaction$
+1365457234$13654572$Optic neuritis$
+1365457234$13654572$Kidney infection$
+1365457234$13654572$Pruritus$
+1365457234$13654572$Rheumatoid arthritis$
+1365457234$13654572$Blood pressure diastolic increased$
+1365457234$13654572$Urinary tract infection$
+1365457234$13654572$Biliary colic$
+1365457234$13654572$Blood pressure systolic abnormal$
+1365457234$13654572$Pneumonia$
+1365457234$13654572$Pruritus$
+1365457234$13654572$Asthma$
+1365457234$13654572$Nausea$
+1365457234$13654572$Health assessment questionnaire score increased$
+1365457234$13654572$Body temperature increased$
+1365457234$13654572$Blood pressure fluctuation$
+1365457234$13654572$Visual impairment$
+1365457234$13654572$Abdominal pain$
+1365457234$13654572$Gastroenteritis viral$
+1365457234$13654572$Pyrexia$
+136605273$13660527$Death$
+136605273$13660527$Drug ineffective$
+136995482$13699548$Left ventricular dysfunction$
+136995482$13699548$Cardiac failure$
+137054823$13705482$Headache$
+137054823$13705482$Product preparation error$
+137054823$13705482$Malaise$
+137054823$13705482$Acute kidney injury$
+137054823$13705482$Diarrhoea$
+137054823$13705482$Toxicity to various agents$
+137054823$13705482$Drug interaction$
+1370644817$13706448$Intestinal obstruction$
+1370644817$13706448$Small intestinal obstruction$
+1370644817$13706448$Constipation$
+1370644817$13706448$Abdominal pain$
+1370644817$13706448$Off label use$
+1371021910$13710219$Contusion$
+1371021910$13710219$Spinal stenosis$
+1371021910$13710219$Treatment failure$
+1371021910$13710219$Tenderness$
+1371021910$13710219$Condition aggravated$
+1371021910$13710219$Fall$
+1371021910$13710219$Joint swelling$
+1371021910$13710219$Malaise$
+1371021910$13710219$Grip strength decreased$
+1371021910$13710219$Pain$
+1371021910$13710219$Rheumatoid arthritis$
+1371021910$13710219$Rotator cuff repair$
+1371021910$13710219$Loss of personal independence in daily activities$
+1371021910$13710219$Fatigue$
+1371021910$13710219$Osteoarthritis$
+1371363812$13713638$Prescribed underdose$
+1371363812$13713638$Off label use$
+1371363812$13713638$Product use in unapproved indication$
+1371363812$13713638$Vertigo$
+1371363812$13713638$Anxiety$
+1371363812$13713638$Nausea$
+1371363812$13713638$Headache$
+1371363812$13713638$Dizziness$
+1371363812$13713638$Infarction$
+137340763$13734076$Drug ineffective$
+137340763$13734076$Abscess fungal$
+137365602$13736560$Prothrombin time prolonged$
+137365602$13736560$Activated partial thromboplastin time prolonged$
+137365602$13736560$Autoimmune haemolytic anaemia$
+137365602$13736560$Abdominal pain$
+137365602$13736560$Hypotension$
+137365602$13736560$Fibrin D dimer increased$
+137365602$13736560$Platelet count decreased$
+137365602$13736560$Haemoglobin decreased$
+137365602$13736560$Vomiting$
+137398815$13739881$Drug interaction$
+137398815$13739881$Astigmatism$
+137398815$13739881$Vision blurred$
+137398815$13739881$Eye irritation$
+137398815$13739881$Colour blindness$
+137398815$13739881$Colour blindness acquired$
+137398815$13739881$Blindness transient$
+137398815$13739881$Eye disorder$
+137398815$13739881$Visual impairment$
+137400133$13740013$Knee arthroplasty$
+137400133$13740013$Drug dose omission by device$
+137400133$13740013$Hip arthroplasty$
+137400133$13740013$Colitis ulcerative$
+137400133$13740013$Irritable bowel syndrome$
+137400133$13740013$Rheumatoid arthritis$
+137428072$13742807$Fatigue$
+137428072$13742807$Cardiac flutter$
+137428072$13742807$Underdose$
+137462632$13746263$Acute kidney injury$
+137462632$13746263$Labelled drug-drug interaction medication error$
+137462632$13746263$Drug level increased$
+137482807$13748280$Drug hypersensitivity$
+137482807$13748280$Vomiting$
+137594634$13759463$Foetal exposure during pregnancy$
+137594634$13759463$Talipes$
+137626133$13762613$Meningitis cryptococcal$
+137626133$13762613$Drug interaction$
+137626133$13762613$Off label use$
+137647343$13764734$Central obesity$
+137647343$13764734$Diabetes mellitus$
+137647343$13764734$Cushingoid$
+137647343$13764734$Therapy partial responder$
+137647343$13764734$Hypertension$
+137647343$13764734$Hirsutism$
+137647352$13764735$Therapy partial responder$
+137647352$13764735$Hypertension$
+137654983$13765498$Drug-induced liver injury$
+137702544$13770254$Sepsis$
+137702544$13770254$Joint injury$
+137702544$13770254$Pneumonia$
+137702544$13770254$Respiratory failure$
+137702544$13770254$Gastrointestinal obstruction$
+137702544$13770254$Shock$
+137702544$13770254$Stoma site haemorrhage$
+137702544$13770254$Crohn's disease$
+137702544$13770254$Small intestinal obstruction$
+137702544$13770254$Intestinal obstruction$
+137702544$13770254$Abdominal adhesions$
+137702544$13770254$Septic cardiomyopathy$
+137745665$13774566$Hypertension$
+137745665$13774566$Graft versus host disease in skin$
+137745665$13774566$Seizure$
+137745665$13774566$Product use in unapproved indication$
+137745665$13774566$Posterior reversible encephalopathy syndrome$
+137745684$13774568$Chronic graft versus host disease$
+137745684$13774568$Graft versus host disease in skin$
+137745684$13774568$Seizure$
+137745684$13774568$Product use in unapproved indication$
+137745684$13774568$Posterior reversible encephalopathy syndrome$
+137745684$13774568$Hypertension$
+137745835$13774583$Seizure$
+137745835$13774583$Product use in unapproved indication$
+137745835$13774583$Posterior reversible encephalopathy syndrome$
+137745835$13774583$Hypertension$
+137911165$13791116$Fatigue$
+137911165$13791116$Tremor$
+137911165$13791116$Off label use$
+137911165$13791116$Blood iron decreased$
+137911165$13791116$Anaemia$
+137911165$13791116$Alopecia$
+137999937$13799993$Drug interaction$
+137999937$13799993$Pericardial haemorrhage$
+138026723$13802672$Chorea$
+138026723$13802672$Myoclonus$
+138227255$13822725$Toxic epidermal necrolysis$
+138227255$13822725$Autoimmune hepatitis$
+138235843$13823584$Drug dependence$
+138235843$13823584$Drug use disorder$
+138235843$13823584$Withdrawal syndrome$
+138235843$13823584$Feeling abnormal$
+138235843$13823584$Malaise$
+138235843$13823584$Influenza like illness$
+138235843$13823584$Anxiety$
+138235843$13823584$Suicidal ideation$
+138235843$13823584$Chills$
+1382404212$13824042$Depressed mood$
+1382404212$13824042$Vomiting$
+1382404212$13824042$Illness$
+1382404212$13824042$Product dose omission issue$
+1382404212$13824042$Skin erosion$
+1382404212$13824042$Insomnia$
+1382404212$13824042$Scab$
+1382404212$13824042$Gait inability$
+1382404212$13824042$Wound$
+1382404212$13824042$Generalised oedema$
+1382404212$13824042$Product availability issue$
+1382404212$13824042$Pyrexia$
+1382404212$13824042$Skin fissures$
+1382404212$13824042$Skin disorder$
+1382404212$13824042$Limb discomfort$
+1382404212$13824042$Malaise$
+1382404212$13824042$Arthralgia$
+1382404212$13824042$Fall$
+1382404212$13824042$Therapeutic response delayed$
+1382404212$13824042$Skin exfoliation$
+1382404212$13824042$Agitation$
+1382404212$13824042$Speech disorder$
+1382404212$13824042$Psoriasis$
+1382404212$13824042$Weight decreased$
+1382404212$13824042$Headache$
+1382404212$13824042$Incorrect route of product administration$
+1382404212$13824042$Skin discolouration$
+1382404212$13824042$Pain$
+1382495226$13824952$Back disorder$
+1382495226$13824952$Malaise$
+1382495226$13824952$Condition aggravated$
+138291103$13829110$Anxiety$
+138412673$13841267$Dizziness$
+138412673$13841267$Gastrointestinal haemorrhage$
+138412673$13841267$Fatigue$
+138412673$13841267$Aspergillus infection$
+138412673$13841267$Hypotension$
+138412673$13841267$Nausea$
+138412673$13841267$Off label use$
+138412673$13841267$Vomiting$
+138412673$13841267$Arterial rupture$
+138512145$13851214$End stage renal disease$
+138512145$13851214$Drug interaction$
+138512145$13851214$Focal segmental glomerulosclerosis$
+138512145$13851214$Condition aggravated$
+138578902$13857890$Diarrhoea$
+138578902$13857890$Human herpesvirus 6 infection$
+138578902$13857890$Graft versus host disease$
+138578902$13857890$Steroid dependence$
+138580193$13858019$Drug ineffective$
+138580193$13858019$Varicella zoster virus infection$
+138580193$13858019$Central nervous system lymphoma$
+138580193$13858019$Necrotising herpetic retinopathy$
+138580193$13858019$Dermatitis allergic$
+138580282$13858028$Off label use$
+138580282$13858028$Cerebral toxoplasmosis$
+138636813$13863681$Anticonvulsant drug level decreased$
+138636813$13863681$Drug interaction$
+1386495876$13864958$Depression$
+1386495876$13864958$Intentional product use issue$
+1386495876$13864958$Fibromyalgia$
+1386495876$13864958$Type 2 diabetes mellitus$
+1386495876$13864958$Helicobacter infection$
+1386495876$13864958$Duodenal ulcer perforation$
+1386495876$13864958$Pemphigus$
+1386495876$13864958$Psoriatic arthropathy$
+1386495876$13864958$Crohn's disease$
+1386495876$13864958$Hypertension$
+1386495876$13864958$Pericarditis$
+1386495876$13864958$Rheumatoid arthritis$
+1386495876$13864958$Blepharospasm$
+1386495876$13864958$Contusion$
+1386495876$13864958$Hepatitis$
+1386495876$13864958$Paraesthesia$
+1386495876$13864958$Drug intolerance$
+1386495876$13864958$Back injury$
+1386495876$13864958$Onychomycosis$
+1386495876$13864958$Incorrect product administration duration$
+1386495876$13864958$Off label use$
+1386495876$13864958$Bursitis$
+1386495876$13864958$Hypercholesterolaemia$
+1386495876$13864958$Systemic lupus erythematosus$
+1386495876$13864958$Osteoarthritis$
+1386495876$13864958$Product label confusion$
+1386495876$13864958$Hypersensitivity$
+1386495876$13864958$Underdose$
+1386495876$13864958$Injection site reaction$
+1386495876$13864958$Breast cancer stage III$
+1386495876$13864958$Gastrooesophageal reflux disease$
+1386495876$13864958$Pneumonia$
+1386495876$13864958$Hypotension$
+1386495876$13864958$Overdose$
+1386495876$13864958$Epilepsy$
+1386495876$13864958$Delirium$
+1386495876$13864958$Treatment failure$
+1386495876$13864958$Peripheral venous disease$
+1386495876$13864958$Maternal exposure during pregnancy$
+1386495876$13864958$Ear pain$
+138734273$13873427$Injury$
+138734273$13873427$Fatigue$
+138734273$13873427$Infection$
+138734273$13873427$Lipids abnormal$
+138734273$13873427$Stress$
+138734273$13873427$Insomnia$
+138734273$13873427$Impaired healing$
+138790366$13879036$Urinary tract infection$
+138790366$13879036$Chest discomfort$
+138790366$13879036$Muscle spasms$
+138790366$13879036$Cough$
+138790366$13879036$Haemorrhage$
+138790366$13879036$Pruritus$
+138790366$13879036$Dyspnoea$
+138790366$13879036$Diarrhoea$
+138790366$13879036$Blood urine present$
+138790366$13879036$Spleen disorder$
+138790366$13879036$Contusion$
+138790366$13879036$Night sweats$
+138790366$13879036$Urine analysis abnormal$
+138806013$13880601$Drug interaction$
+138806013$13880601$Anticonvulsant drug level decreased$
+1388083711$13880837$Cardiac operation$
+1388083711$13880837$Memory impairment$
+1388083711$13880837$Spinal operation$
+1388083711$13880837$Coronary artery bypass$
+1388083711$13880837$Neoplasm$
+1388083711$13880837$Muscle spasms$
+138850883$13885088$Confusional state$
+138850883$13885088$Ventricular tachycardia$
+138850883$13885088$Toxicity to various agents$
+138973015$13897301$Disseminated coccidioidomycosis$
+139060066$13906006$Mood altered$
+139060066$13906006$Toxicity to various agents$
+139060066$13906006$Tremor$
+139060066$13906006$Delirium$
+139060066$13906006$Hypophagia$
+139060066$13906006$Tachycardia$
+139060066$13906006$Overdose$
+139060066$13906006$Medication error$
+139060066$13906006$Hypoglycaemia$
+139060066$13906006$Hypotension$
+139062533$13906253$Tongue discomfort$
+1391535712$13915357$Completed suicide$
+1391535712$13915357$Hepatitis$
+1391535712$13915357$Oxygen saturation decreased$
+1391535712$13915357$Encephalopathy$
+1391535712$13915357$Effusion$
+1391535712$13915357$Toxicity to various agents$
+1391535712$13915357$Pulmonary oedema$
+1391535712$13915357$Myalgia$
+1391535712$13915357$Anaemia$
+1391535712$13915357$Neutrophilia$
+1391535712$13915357$Hepatic failure$
+1391535712$13915357$Face oedema$
+1391535712$13915357$Myocarditis$
+1391535712$13915357$Intentional overdose$
+1391535712$13915357$Pleural effusion$
+1391535712$13915357$Nausea$
+1391535712$13915357$Suicide attempt$
+1391535712$13915357$Agitation$
+1391535712$13915357$Eosinopenia$
+1391535712$13915357$Treatment noncompliance$
+1391535712$13915357$Liver injury$
+1391535712$13915357$Pulmonary congestion$
+1391535712$13915357$Renal tubular necrosis$
+1391535712$13915357$Overdose$
+1391535712$13915357$Gastrointestinal disorder$
+1391535712$13915357$Pericardial effusion$
+1391535712$13915357$Hepatic encephalopathy$
+1391535712$13915357$Cardiac failure$
+1391535712$13915357$Electrocardiogram ST segment elevation$
+1391535712$13915357$Seizure$
+1391535712$13915357$Cardiac arrest$
+1391535712$13915357$Congestive hepatopathy$
+1391535712$13915357$Tachycardia$
+1391535712$13915357$Multiple organ dysfunction syndrome$
+1391535712$13915357$Oedema peripheral$
+1391535712$13915357$Atrial fibrillation$
+139154033$13915403$Hypervolaemia$
+139154033$13915403$Hypotension$
+139154033$13915403$Gait disturbance$
+139268586$13926858$Sensation of foreign body$
+139268586$13926858$Aspiration$
+139268586$13926858$Cough$
+139282123$13928212$Aplasia pure red cell$
+139282123$13928212$Parvovirus B19 infection$
+139285853$13928585$Drug level increased$
+139285853$13928585$Acute kidney injury$
+139285853$13928585$Product preparation error$
+139285853$13928585$Drug interaction$
+139285853$13928585$Toxicity to various agents$
+139295982$13929598$Parvovirus B19 infection$
+139295982$13929598$Aplasia pure red cell$
+139310532$13931053$Hypotension$
+139310532$13931053$Tachycardia$
+139310532$13931053$Tremor$
+139310532$13931053$Delirium$
+139310532$13931053$Respiratory symptom$
+139310532$13931053$Hypophagia$
+139310532$13931053$Overdose$
+139310532$13931053$Toxicity to various agents$
+139310532$13931053$Electrocardiogram QT prolonged$
+139310532$13931053$Hypoglycaemia$
+139310532$13931053$Affective disorder$
+139312484$13931248$Decreased immune responsiveness$
+139312484$13931248$Breast cancer female$
+139324112$13932411$Disease progression$
+139324112$13932411$Lung adenocarcinoma$
+139324112$13932411$Bronchopulmonary aspergillosis$
+139324112$13932411$Hepatitis B$
+139324112$13932411$Disease recurrence$
+139324112$13932411$Hepatitis B reactivation$
+139324112$13932411$Nephropathy toxic$
+139324112$13932411$Osteopenia$
+1393558114$13935581$Pancytopenia$
+1393558114$13935581$Respiratory disorder$
+1393558114$13935581$COVID-19$
+1393558114$13935581$Liver function test abnormal$
+1393558114$13935581$Pyrexia$
+1393558114$13935581$Hyperthermia$
+1393558114$13935581$Febrile neutropenia$
+1393558114$13935581$Pneumonia fungal$
+139363354$13936335$Fat tissue increased$
+139363354$13936335$Pseudo Cushing's syndrome$
+139397462$13939746$Cerebral toxoplasmosis$
+139399314$13939931$Treatment failure$
+139399314$13939931$Laryngeal stenosis$
+139399314$13939931$Off label use$
+139399314$13939931$Stridor$
+139399314$13939931$Disease progression$
+139400183$13940018$Posterior reversible encephalopathy syndrome$
+139400183$13940018$Drug intolerance$
+139400183$13940018$Drug ineffective$
+139426387$13942638$Hepatic steatosis$
+139426387$13942638$Gastrointestinal ulcer$
+139426387$13942638$Pain$
+139439137$13943913$Shock$
+139439137$13943913$Septic shock$
+139439137$13943913$Malaise$
+139439137$13943913$Hepatic function abnormal$
+139439137$13943913$Decreased appetite$
+139439137$13943913$Hypotension$
+139439137$13943913$Anticoagulation drug level above therapeutic$
+139439137$13943913$Hypoglycaemia$
+139439137$13943913$Lactic acidosis$
+139439137$13943913$Hypercoagulation$
+139439137$13943913$Thrombocytopenia$
+139439137$13943913$Transaminases abnormal$
+139439137$13943913$Hypertransaminasaemia$
+139439137$13943913$Somnolence$
+139439137$13943913$Drug interaction$
+139497134$13949713$Acute graft versus host disease in skin$
+139497134$13949713$Graft versus host disease in gastrointestinal tract$
+139497134$13949713$Pyrexia$
+139497134$13949713$Dysbiosis$
+139497134$13949713$Fungal infection$
+139498862$13949886$Retinopathy$
+139511797$13951179$Polycystic ovarian syndrome$
+139511797$13951179$Dizziness$
+139511797$13951179$Premature delivery$
+139511797$13951179$Ovarian cyst$
+139511797$13951179$Dyspepsia$
+139511797$13951179$Exposure during pregnancy$
+139622123$13962212$Weight increased$
+139622123$13962212$Obstructive sleep apnoea syndrome$
+139622123$13962212$Gastric bypass$
+139622123$13962212$Somnolence$
+139622123$13962212$Weight decreased$
+139622123$13962212$Cough$
+139626803$13962680$Toxicity to various agents$
+139626803$13962680$Conduction disorder$
+139626803$13962680$Electrocardiogram QRS complex prolonged$
+1397168911$13971689$Frequent bowel movements$
+1397168911$13971689$Hot flush$
+1397168911$13971689$Condition aggravated$
+1397168911$13971689$Early satiety$
+1397168911$13971689$Abdominal distension$
+1397168911$13971689$Musculoskeletal stiffness$
+1397168911$13971689$Neuropathy peripheral$
+1397168911$13971689$Burning sensation$
+1397168911$13971689$Abdominal distension$
+1397168911$13971689$Nocturia$
+1397168911$13971689$Flatulence$
+1397168911$13971689$Flatulence$
+1397168911$13971689$Vision blurred$
+1397168911$13971689$Pain in extremity$
+1397168911$13971689$Blood glucose increased$
+1397168911$13971689$Dyspnoea$
+1397168911$13971689$Ear disorder$
+1397168911$13971689$Arthralgia$
+1397168911$13971689$Hot flush$
+1397168911$13971689$Constipation$
+1397168911$13971689$Hot flush$
+139756275$13975627$Haemoglobin decreased$
+139756275$13975627$White blood cell count decreased$
+139756275$13975627$Agranulocytosis$
+139756275$13975627$Lymphocyte count increased$
+139756275$13975627$White blood cell count increased$
+139756275$13975627$Viral infection$
+139756275$13975627$Schizophrenia$
+139756275$13975627$Neutropenia$
+139756275$13975627$Malaise$
+139756275$13975627$Haematocrit decreased$
+139756275$13975627$Antipsychotic drug level increased$
+139821248$13982124$Product storage error$
+139821248$13982124$Psoriasis$
+139821248$13982124$Skin plaque$
+139821248$13982124$Dry throat$
+139821248$13982124$Skin exfoliation$
+139821248$13982124$Choking$
+139821248$13982124$Streptococcal infection$
+139821248$13982124$Pain$
+139821248$13982124$Viral infection$
+139821248$13982124$Condition aggravated$
+139821248$13982124$Blood pressure decreased$
+139821248$13982124$Nasopharyngitis$
+139821248$13982124$Rhinorrhoea$
+139821248$13982124$Sinusitis$
+139821248$13982124$Renal disorder$
+139821248$13982124$Injection site bruising$
+139821248$13982124$Productive cough$
+139821248$13982124$Blood potassium increased$
+139821248$13982124$Dry skin$
+1398766112$13987661$Dizziness$
+1398766112$13987661$Ephelides$
+1398766112$13987661$Melanocytic naevus$
+1398766112$13987661$Product use complaint$
+1398766112$13987661$Fatigue$
+1398766112$13987661$Self-injurious ideation$
+1398766112$13987661$Diabetes mellitus$
+1398766112$13987661$Product size issue$
+1398766112$13987661$Pain in extremity$
+1398766112$13987661$Decreased appetite$
+1398766112$13987661$Incontinence$
+1398766112$13987661$Erythema$
+1398766112$13987661$Disturbance in attention$
+1398766112$13987661$Arthralgia$
+1398766112$13987661$Depression$
+1398766112$13987661$Gait disturbance$
+1398766112$13987661$Loss of consciousness$
+1398766112$13987661$Fall$
+1398766112$13987661$Sleep apnoea syndrome$
+1398766112$13987661$Feeling abnormal$
+1398766112$13987661$Syncope$
+1398766112$13987661$Gastrooesophageal reflux disease$
+1398766112$13987661$Pain$
+139921742$13992174$Off label use$
+139921742$13992174$Gynaecomastia$
+139921742$13992174$Weight increased$
+139921742$13992174$Emotional disorder$
+139955553$13995555$Leukocytosis$
+139955553$13995555$Gastrointestinal disorder$
+139955553$13995555$Eosinophilia$
+139955553$13995555$Flushing$
+139980715$13998071$Hepatitis B reactivation$
+140065182$14006518$Myoclonus$
+140065182$14006518$Off label use$
+140065182$14006518$Chorea$
+140072282$14007228$Focal segmental glomerulosclerosis$
+140072282$14007228$Condition aggravated$
+140072282$14007228$Drug interaction$
+1401401517$14014015$Drug hypersensitivity$
+1401401517$14014015$Skin lesion$
+1401401517$14014015$Urticaria$
+1401401517$14014015$Rash$
+140146672$14014667$Colon neoplasm$
+140255912$14025591$Drug ineffective$
+140301652$14030165$Product use in unapproved indication$
+140301652$14030165$Hypertension$
+140301652$14030165$Posterior reversible encephalopathy syndrome$
+140301652$14030165$Seizure$
+140301863$14030186$Posterior reversible encephalopathy syndrome$
+140301863$14030186$Product use in unapproved indication$
+140301863$14030186$Seizure$
+140301863$14030186$Hypertension$
+140326033$14032603$Colon neoplasm$
+140328932$14032893$Breast cancer metastatic$
+140328932$14032893$Metastatic malignant melanoma$
+140328932$14032893$Product use in unapproved indication$
+140328932$14032893$Spinal stenosis$
+140328932$14032893$Gait inability$
+140328932$14032893$Second primary malignancy$
+140328932$14032893$Metastases to central nervous system$
+140328932$14032893$Nervous system disorder$
+140328932$14032893$Malignant neoplasm progression$
+140328932$14032893$Therapeutic product effect incomplete$
+140486372$14048637$Vanishing bile duct syndrome$
+140486372$14048637$Drug-induced liver injury$
+140536052$14053605$Emotional disorder$
+140536052$14053605$Increased appetite$
+140536052$14053605$Somnolence$
+140536052$14053605$Gynaecomastia$
+1406897037$14068970$Bladder cancer$
+1406897037$14068970$Nasopharyngitis$
+1406897037$14068970$Renal colic$
+1406897037$14068970$Blood pressure fluctuation$
+1406897037$14068970$Weight increased$
+1406897037$14068970$Neuralgia$
+1406897037$14068970$Calculus bladder$
+1406897037$14068970$Intentional product use issue$
+1406897037$14068970$Pyrexia$
+1406897037$14068970$Intervertebral disc protrusion$
+1406897037$14068970$Bronchitis$
+1406897037$14068970$Spinal stenosis$
+1406897037$14068970$Hot flush$
+1406897037$14068970$Lumbar radiculopathy$
+1406897037$14068970$Synovial cyst$
+1406897037$14068970$Heart rate irregular$
+1406897037$14068970$Influenza$
+1406897037$14068970$Off label use$
+1406897037$14068970$Restless legs syndrome$
+1406897037$14068970$Productive cough$
+1406897037$14068970$Off label use$
+1406897037$14068970$Blood pressure increased$
+1406897037$14068970$Rhinorrhoea$
+1406897037$14068970$Weight decreased$
+1406897037$14068970$Therapeutic response shortened$
+1406897037$14068970$Heart rate decreased$
+1406897037$14068970$Arthralgia$
+1406897037$14068970$Blood urine present$
+1406897037$14068970$Drug ineffective$
+1406897037$14068970$Off label use$
+1406897037$14068970$Bronchitis$
+1406897037$14068970$Condition aggravated$
+140819702$14081970$Colon neoplasm$
+1409240419$14092404$Ulcer$
+1409240419$14092404$Ileus paralytic$
+1409240419$14092404$Ileus$
+1409240419$14092404$Neurogenic bladder$
+1409240419$14092404$Immune-mediated enterocolitis$
+1409240419$14092404$Fatigue$
+1409240419$14092404$Intestinal pseudo-obstruction$
+1409240419$14092404$Thyroid disorder$
+1409240419$14092404$Malignant neoplasm progression$
+1409240419$14092404$Constipation$
+1409240419$14092404$Cytomegalovirus enterocolitis$
+141074333$14107433$Pericardial haemorrhage$
+141074333$14107433$Hypoprothrombinaemia$
+141074333$14107433$Drug interaction$
+141074333$14107433$Vitamin K deficiency$
+141074333$14107433$Haemorrhage$
+141074333$14107433$Shock$
+141074333$14107433$Hypovitaminosis$
+141074333$14107433$Multiple organ dysfunction syndrome$
+141082452$14108245$Neuropathy peripheral$
+141082452$14108245$Pain in extremity$
+141082452$14108245$Anxiety$
+141082452$14108245$Depression$
+141117962$14111796$Dyspnoea$
+141117962$14111796$Haemolytic uraemic syndrome$
+141117962$14111796$Oedema peripheral$
+141117962$14111796$Thrombotic microangiopathy$
+141117962$14111796$Hypertension$
+141117962$14111796$Mucosal inflammation$
+141117962$14111796$Non-cardiogenic pulmonary oedema$
+1412498310$14124983$Therapeutic reaction time decreased$
+1412498310$14124983$Vision blurred$
+1412498310$14124983$Pouchitis$
+1412498310$14124983$Frequent bowel movements$
+1412498310$14124983$Off label use$
+1412498310$14124983$Colitis ulcerative$
+1412498310$14124983$Aphasia$
+1412498310$14124983$Product dose omission issue$
+1412498310$14124983$Hypoaesthesia$
+1412498310$14124983$Anogenital warts$
+1412498310$14124983$Fatigue$
+1412498310$14124983$Papilloma viral infection$
+1412498310$14124983$Migraine$
+1412778812$14127788$Blister$
+1412778812$14127788$Pain in extremity$
+1412778812$14127788$Pain$
+1412778812$14127788$Headache$
+1412778812$14127788$Insomnia$
+1412778812$14127788$Product use in unapproved indication$
+1412778812$14127788$Tooth abscess$
+1412778812$14127788$Infection$
+1412778812$14127788$Illness$
+1412778812$14127788$Sinusitis$
+1412778812$14127788$Gastrointestinal infection$
+1412778812$14127788$Ear infection$
+1412778812$14127788$Influenza$
+1412778812$14127788$Swelling face$
+1412778812$14127788$Off label use$
+1412778812$14127788$Arthralgia$
+1412778812$14127788$Tendon injury$
+1412778812$14127788$Oropharyngeal pain$
+1412778812$14127788$Dyspnoea$
+1412778812$14127788$Nasal inflammation$
+1412778812$14127788$Drug intolerance$
+141517995$14151799$Progressive multifocal leukoencephalopathy$
+141517995$14151799$Sepsis$
+141517995$14151799$Neutropenia$
+141517995$14151799$JC polyomavirus test positive$
+141517995$14151799$Respiratory failure$
+141519863$14151986$Cerebral aspergillosis$
+141566625$14156662$Acute graft versus host disease in intestine$
+141566625$14156662$Off label use$
+141566625$14156662$Graft versus host disease in gastrointestinal tract$
+141566625$14156662$Disseminated intravascular coagulation$
+141566625$14156662$Adenovirus infection$
+141566625$14156662$Posterior reversible encephalopathy syndrome$
+141566625$14156662$Cystitis haemorrhagic$
+141566625$14156662$Pyelonephritis$
+141566625$14156662$Viral vasculitis$
+141566625$14156662$Hepatic failure$
+141566625$14156662$Immunosuppressant drug level decreased$
+141583546$14158354$Atrioventricular block$
+141583546$14158354$Leukopenia$
+141583546$14158354$Lyme disease$
+141583546$14158354$Neutropenia$
+141583546$14158354$Tricuspid valve incompetence$
+141583546$14158354$Mitral valve incompetence$
+141602482$14160248$Bell's palsy$
+141602482$14160248$Lyme disease$
+141602482$14160248$Atrioventricular block$
+141602482$14160248$Mitral valve incompetence$
+141602482$14160248$Leukopenia$
+141602482$14160248$Systemic infection$
+141602482$14160248$Neutropenia$
+141602482$14160248$Off label use$
+141602482$14160248$Tricuspid valve incompetence$
+1416298588$14162985$Infusion related reaction$
+1416298588$14162985$Respiratory rate increased$
+1416298588$14162985$Back pain$
+1416298588$14162985$Hypothyroidism$
+1416298588$14162985$Arthralgia$
+1416298588$14162985$Pruritus$
+1416298588$14162985$Gastrooesophageal reflux disease$
+1416298588$14162985$Pain$
