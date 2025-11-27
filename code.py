@@ -11,7 +11,7 @@ adr_reports = {}
 drugs = set()
 adrs = set()
 
-# default priors (from your commented lines)
+# default priors 
 DEFAULT_G11 = 1.0
 DEFAULT_ALP = 2.0
 DEFAULT_BET = 2.0
@@ -20,7 +20,7 @@ DEFAULT_BET1 = 1.0
 
 start = time.time()
 
-# ----------------- math functions -----------------
+# math functions 
 
 
 def gamma_fucn(a, b, c, d, alp, alp1, bet, bet1, g11):
@@ -67,14 +67,14 @@ def standard_deviation(value):
     return math.sqrt(value)
 
 
-# ----------------- data loading -----------------
+#data loading 
 
 
 def drug_data(fname):
     """Fill drug_reports: report_id -> [drug, ...]"""
     with open(fname, mode="r", encoding="latin-1") as f:
         csv_reader = csv.reader(f, delimiter="$")
-        next(csv_reader, None)  # skip header if present
+        next(csv_reader, None) 
         for l in csv_reader:
             if not l or len(l) <= 4:
                 continue
@@ -91,7 +91,7 @@ def adr_data(fname):
     """Fill adr_reports: report_id -> [adr, ...]"""
     with open(fname, mode="r", encoding="latin-1") as f:
         csv_reader = csv.reader(f, delimiter="$")
-        next(csv_reader, None)  # skip header if present
+        next(csv_reader, None) 
         for l in csv_reader:
             if not l or len(l) <= 2:
                 continue
@@ -108,9 +108,9 @@ def func():
     return []
 
 
-# ----------------- load FAERS data -----------------
+#load FAERS data
 
-# use the trimmed files you created
+#use files
 drug_data("data/drug_small.txt")
 adr_data("data/adr_small.txt")
 
@@ -138,7 +138,7 @@ with open("adr-drug.txt", "w+") as f:
     pass
 print("bye")
 
-# ----------------- load priors (optional) -----------------
+#load priors (optional)
 
 addic = defaultdict(lambda: defaultdict(func))
 
@@ -166,7 +166,7 @@ if os.path.exists("adr-drug.csv"):
 else:
     print("Warning: adr-drug.csv not found, using default priors for all pairs.")
 
-# ----------------- main scoring loop -----------------
+#main scoring loop
 
 sl = 0  # strong
 wl = 0  # weak
@@ -236,7 +236,7 @@ print("moderate:", ml)
 print("strong  :", sl)
 print("none    :", nl)
 
-# ----------------- show top-k strongest pairs -----------------
+#show top-k strongest pairs
 
 TOP_K = 20
 
@@ -255,7 +255,7 @@ for i, info in enumerate(sorted_pairs[:TOP_K], start=1):
         f"ans: {info['ans']:.4f}  category: {info['category']}"
     )
 
-# ----------------- query mode -----------------
+#query mode
 
 print("\n--- Query mode ---")
 print("You can now check a specific (drug, ADR) pair.")
